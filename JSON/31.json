@@ -1,0 +1,6750 @@
+{
+	"data": {
+		"id": "7d79a07d-29a5-11ea-bf10-309c23abbc02",
+		"uuid": "7d79a07d-29a5-11ea-bf10-309c23abbc02",
+		"createdAt": "2019-12-25T23:03:55+03:00",
+		"sectionList": [
+			{
+				"id": "serverSettings",
+				"name": "section.server_monitoring",
+				"subSectionList": [
+					{
+						"id": "serverSettings11",
+						"name": "subsection.server_and_port1",
+						"settingViewAliasList": [
+							"31_1_1",
+              "31_2_1",
+              "31_9_1",
+              "31_73_1",
+              "31_74_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "packetStructure",
+				"name": "section.package_structure",
+				"subSectionList": [
+					{
+						"id": "packetStructure12",
+						"name": "subsection.common_parameters",
+						"settingViewAliasList": [
+							"31_28_0",
+							"31_28_1",
+							"31_28_2",
+							"31_28_5",
+							"31_28_6",
+							"31_28_3",
+							"31_28_4",
+							"31_28_7"
+						]
+					},
+					{
+						"id": "packetStructure13",
+						"name": "subsection.can_bus_data",
+						"settingViewAliasList": [
+							"31_28_20",
+							"31_28_21",
+							"31_28_22",
+							"31_28_23",
+							"31_28_24",
+							"31_28_25",
+							"31_28_26",
+							"31_28_27",
+							"31_28_28",
+							"31_28_29",
+							"31_28_30",
+							"31_28_31"
+						]
+					}
+				]
+			},
+			{
+				"id": "trackSettings",
+				"name": "section.route_building",
+				"subSectionList": [
+					{
+						"id": "trackSettings11",
+						"name": "subsection.drawing_a_trajectory",
+						"settingViewAliasList": [
+							"31_63_1",
+							"31_75_1",
+							"31_64_1",
+							"31_25_1"
+						]
+					},
+			
+					
+					{
+						"id": "trackSettings16",
+						"name": "subsection.coordinate_freezing",
+						"settingViewAliasList": [
+							"31_72_2",
+							"31_72_3",
+							"31_72_7"
+						]
+					}
+				]
+			},
+			{
+				"id": "ioSettings",
+				"name": "section.discrete_inputs",
+				"subSectionList": [
+					{
+						"id": "ioSettings11",
+						"name": "",
+						"settingViewAliasList": [
+							"31_16_1",
+							"31_17_1",
+							"31_18_1"
+						]
+					},
+					{
+						"id": "ioSettings13",
+						"name": "subsection.additional_settings",
+						"settingViewAliasList": [
+							"31_104_1",
+							"31_137_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "ioSettings",
+				"name": "section.digital_inputs",
+				"subSectionList": [
+					{
+						"id": "ioSettings11",
+						"name": "",
+						"settingViewAliasList": [
+							"31_14_1",
+							"31_23_1"
+						]
+					},
+					{
+						"id": "ioSettings13",
+						"name": "subsection.additional_settings",
+						"settingViewAliasList": [
+							"31_51_1",
+							"31_115_1",
+							"31_116_1",
+							"31_117_1",
+							"31_118_1"
+						]
+					}
+				]
+			},
+			
+			{
+				"id": "phoneNumbers",
+				"name": "subsection.phones",
+				"subSectionList": [
+					{
+						"id": "phoneNumbers11",
+						"name": "subsection.phone1",
+						"settingViewAliasList": [
+							"31_52_1",
+							"31_57_1"
+						]
+					},
+					{
+						"id": "phoneNumbers12",
+						"name": "subsection.phone2",
+						"settingViewAliasList": [
+							"31_53_1",
+							"31_58_1"
+						]
+					},
+					{
+						"id": "phoneNumbers13",
+						"name": "subsection.phone3",
+						"settingViewAliasList": [
+							"31_54_1",
+							"31_59_1"
+						]
+					},
+					{
+						"id": "phoneNumbers14",
+						"name": "subsection.phone4",
+						"settingViewAliasList": [
+							"31_55_1",
+							"31_60_1"
+						]
+					},
+					{
+						"id": "phoneNumbers15",
+						"name": "subsection.phone5",
+						"settingViewAliasList": [
+							"31_56_1",
+							"31_61_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "simSettings",
+				"name": "section.sim_cards3",
+				"subSectionList": [
+					{
+						"id": "simSettings12",
+						"name": "subsection.sim_card1",
+						"settingViewAliasList": [
+							"31_72_8",
+							"31_67_1",
+							"31_68_1",
+							"31_69_1"
+						]
+					},
+					{
+						"id": "simSettings13",
+						"name": "subsection.sim_card2",
+						"settingViewAliasList": [
+							"31_72_9",
+							"31_89_1",
+							"31_90_1",
+							"31_91_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "mode",
+				"name": "section.system",
+				"subSectionList": [
+					{
+						"id": "mode11",
+						"name": "subsection.device_password_sms_password",
+						"settingViewAliasList": [
+							"31_5_1"
+						]
+					},
+					{
+						"id": "mode12",
+						"name": "subsection.checking_the_settings_on_the_web_configurator",
+						"settingViewAliasList": [
+							"31_72_0",
+							"31_62_1"
+						]
+					},
+					{
+						"id": "mode13",
+						"name": "setting_view.power_saving_mode",
+						"settingViewAliasList": [
+							"31_11_1",
+							"31_26_1",
+							"31_12_1",
+							"31_72_4",
+							"31_72_5",
+							"31_72_6"
+						]
+					}
+				]
+			}
+		],
+		"settingViewList": [
+			{
+				"alias": "31_1_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 1,
+					"type": "string",
+					"length": "30"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.dns_ip"
+			},
+			{
+				"alias": "31_2_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 2,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.port"
+			},
+			{
+				"alias": "31_3_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 3,
+					"type": "string",
+					"length": "30"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.dns_ip"
+			},
+			{
+				"alias": "31_4_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 4,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.port"
+			},
+			{
+				"alias": "31_5_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 5,
+					"type": "string",
+					"length": "6"
+				},
+				"textAfter": "",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_8_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 8,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.protocol"
+			},
+			{
+				"alias": "31_9_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 9,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.protocol"
+			},
+			{
+				"alias": "31_11_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 11,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.sleeping_mode"
+			},
+			{
+				"alias": "31_12_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 12,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.minutes2",
+				"textBefore": "setting_view.contact_time"
+			},
+			{
+				"alias": "31_14_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 14,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.rs485_rs232"
+			},
+			{
+				"alias": "31_16_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 16,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "IN0[-]"
+			},
+			{
+				"alias": "31_17_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 17,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "IN1[+]"
+			},
+			{
+				"alias": "31_18_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 18,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "IN2/OUT[-]"
+			},
+			{
+				"alias": "31_23_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 23,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "dictionary.1_wire"
+			},
+			{
+				"alias": "31_25_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 25,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.seconds_10_65535",
+				"textBefore": "setting_view.parking_interval"
+			},
+			{
+				"alias": "31_26_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 26,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.minutes2",
+				"textBefore": "setting_view.get_in_touch_every"
+			},
+			{
+				"alias": "31_28_0",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 0,
+				"textAfter": "setting_view.navigation_lat_lon",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_1",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 1,
+				"textAfter": "setting_view.navigation_speed_altitude_satellites_course",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_10",
+				"type": "flag",
+				"defaultValue": "0",
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 10,
+				"textAfter": "setting_view.send_state_of_failures_bit_mask",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_2",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 2,
+				"textAfter": "setting_view.navigation_hdop_accuracy",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_20",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 20,
+				"textAfter": "setting_view.statuses_of_work",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_21",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 21,
+				"textAfter": "setting_view.full_engine_run_time",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_22",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 22,
+				"textAfter": "setting_view.full_vehicle_mileage",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_23",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 23,
+				"textAfter": "setting_view.full_fuel_consumption",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_24",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 24,
+				"textAfter": "setting_view.fuel_level_in_the_tank",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_25",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 25,
+				"textAfter": "setting_view.engine_speed",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_26",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 26,
+				"textAfter": "setting_view.engine_temperature",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_27",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 27,
+				"textAfter": "setting_view.speed_​​tr_means",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_28",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 28,
+				"textAfter": "setting_view.axle_pressure",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_29",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 29,
+				"textAfter": "setting_view.crash_controllers",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_3",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 3,
+				"textAfter": "setting_view.system_errors_statuses_etc",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_30",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 30,
+				"textAfter": "setting_view.instant_consumption",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_31",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 31,
+				"textAfter": "setting_view.adblue_level",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_4",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 4,
+				"textAfter": "setting_view.system_inputs_outputs_module_statuses",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_5",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 5,
+				"textAfter": "setting_view.gsm_modem_signal_strength_operator_parameters",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_6",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 6,
+				"textAfter": "setting_view.gsm_modem_base_station_parameters",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_7",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 7,
+				"textAfter": "setting_view.system_external_and_internal_voltage_mv",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_8",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 8,
+				"textAfter": "setting_view.system_data_transfer_from_the_accelerometer",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_28_9",
+				"type": "flag",
+				"defaultValue": "0",
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 9,
+				"textAfter": "setting_view.send_excess_reset_events",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_51_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 51,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.1_65535",
+				"textBefore": "setting_view.external_can_module_program_number"
+			},
+			{
+				"alias": "31_52_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 52,
+					"type": "string",
+					"length": "15"
+				},
+				"widget": "tuple_52",
+				"textAfter": "",
+				"textBefore": "setting_view.international_format_number"
+			},
+			{
+				"alias": "31_53_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 53,
+					"type": "string",
+					"length": "15"
+				},
+				"widget": "tuple_53",
+				"textAfter": "",
+				"textBefore": "setting_view.international_format_number"
+			},
+			{
+				"alias": "31_54_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 54,
+					"type": "string",
+					"length": "12"
+				},
+				"widget": "tuple_54",
+				"textAfter": "",
+				"textBefore": "setting_view.international_format_number"
+			},
+			{
+				"alias": "31_55_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 55,
+					"type": "string",
+					"length": "15"
+				},
+				"widget": "tuple_55",
+				"textAfter": "",
+				"textBefore": "setting_view.international_format_number"
+			},
+			{
+				"alias": "31_56_1",
+				"type": "string",
+				"defaultValue": 0,
+				"setting": {
+					"number": 56,
+					"type": "string",
+					"length": "15"
+				},
+				"widget": "tuple_56",
+				"textAfter": "",
+				"textBefore": "setting_view.international_format_number"
+			},
+			{
+				"alias": "31_57_1",
+				"type": "dictionary",
+				"defaultValue": 0,
+				"setting": {
+					"number": 57,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "tuple_52",
+				"textAfter": "",
+				"textBefore": "setting_view.mode"
+			},
+			{
+				"alias": "31_58_1",
+				"type": "dictionary",
+				"defaultValue": 0,
+				"setting": {
+					"number": 58,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "tuple_53",
+				"textAfter": "",
+				"textBefore": "setting_view.mode"
+			},
+			{
+				"alias": "31_59_1",
+				"type": "dictionary",
+				"defaultValue": 0,
+				"setting": {
+					"number": 59,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "tuple_54",
+				"textAfter": "",
+				"textBefore": "setting_view.mode"
+			},
+			{
+				"alias": "31_60_1",
+				"type": "dictionary",
+				"defaultValue": 0,
+				"setting": {
+					"number": 60,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "tuple_55",
+				"textAfter": "",
+				"textBefore": "setting_view.mode"
+			},
+			{
+				"alias": "31_61_1",
+				"type": "dictionary",
+				"defaultValue": 0,
+				"setting": {
+					"number": 61,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "tuple_56",
+				"textAfter": "",
+				"textBefore": "setting_view.mode"
+			},
+			{
+				"alias": "31_62_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 62,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.hours2",
+				"textBefore": "setting_view.every"
+			},
+			{
+				"alias": "31_63_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 63,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.degrees_3_255",
+				"textBefore": "setting_view.when_changing_course_to"
+			},
+			{
+				"alias": "31_64_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 64,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.meters_1_65535",
+				"textBefore": "setting_view.not_less_than_every"
+			},
+			{
+				"alias": "31_66_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 66,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.0000-9999",
+				"textBefore": "setting_view.enter_pin"
+			},
+			{
+				"alias": "31_67_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 67,
+					"type": "string",
+					"length": "30"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.apn"
+			},
+			{
+				"alias": "31_68_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 68,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.login_for_apn"
+			},
+			{
+				"alias": "31_69_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 69,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.password_for_apn"
+			},
+			{
+				"alias": "31_72_0",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 0,
+				"textAfter": "dictionary.at_every_start",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_1",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 1,
+				"textAfter": "setting_view.activate_pin_code_card",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_18",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 18,
+				"textAfter": "setting_view.filter_values_​​from_sensors",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_19",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 19,
+				"textAfter": "setting_view.filter_values_​​from_sensors",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_2",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 2,
+				"textAfter": "setting_view.at_a_speed_of_less_2_km_h",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_21",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 21,
+				"textAfter": "setting_view.slowmotionauto",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_29",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 29,
+				"textAfter": "setting_view.activate_pin_code_card",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_3",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 3,
+				"textAfter": "setting_view.by_motion_sensor",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_4",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 4,
+				"textAfter": "setting_view.get_out_of_sleep_by_motion_sensor",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_5",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 5,
+				"textAfter": "setting_view.out_of_sleep_when_changing_input",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_6",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 6,
+				"textAfter": "setting_view.do_not_go_to_sleep_while_moving_by_motion_sensor",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_7",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 7,
+				"textAfter": "setting_view.on_ignition",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_8",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 8,
+				"textAfter": "setting_view.roaming_allowed",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_72_9",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4"
+				},
+				"bit": 9,
+				"textAfter": "setting_view.roaming_allowed",
+				"textBefore": ""
+			},
+			{
+				"alias": "31_73_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 73,
+					"type": "int",
+					"length": "4"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.id_sn_for_server"
+			},
+			{
+				"alias": "31_74_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 74,
+					"type": "string",
+					"length": "8"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.password_for_server"
+			},
+			{
+				"alias": "31_75_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 75,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.when_changing_speed_to"
+			},
+			{
+				"alias": "31_76_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 76,
+					"type": "int",
+					"length": "4"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.id_sn_for_server"
+			},
+			{
+				"alias": "31_77_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 77,
+					"type": "string",
+					"length": "8"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.password_for_server"
+			},
+			{
+				"alias": "31_78_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 78,
+					"type": "string",
+					"length": "10"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.ussd_balance"
+			},
+			{
+				"alias": "31_79_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 79,
+					"type": "string",
+					"length": "10"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.ussd_balance"
+			},
+			{
+				"alias": "31_81_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 81,
+					"type": "int",
+					"length": "2"
+				},
+				"max": 65525,
+				"min": 0,
+				"step": 1,
+				"textAfter": "setting_view.units.hour",
+				"textBefore": "setting_view.request_every"
+			},
+			{
+				"alias": "31_82_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 82,
+					"type": "int",
+					"length": "2"
+				},
+				"max": 65525,
+				"min": 0,
+				"step": 1,
+				"textAfter": "setting_view.units.hour",
+				"textBefore": "setting_view.request_every"
+			},
+			{
+				"alias": "31_88_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 88,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.0000-9999",
+				"textBefore": "setting_view.enter_pin"
+			},
+			{
+				"alias": "31_89_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 89,
+					"type": "string",
+					"length": "30"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.apn"
+			},
+			{
+				"alias": "31_90_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 90,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.login_for_apn"
+			},
+			{
+				"alias": "31_91_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 91,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.password_for_apn"
+			},
+			{
+				"alias": "31_104_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 104,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.mV",
+				"textBefore": "setting_view.discrete_mode_analog_input_threshold"
+			},
+			{
+				"alias": "31_115_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 115,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.0-50",
+				"textBefore": "setting_view.filter_degree_lls_1"
+			},
+			{
+				"alias": "31_116_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 116,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.0-50",
+				"textBefore": "setting_view.filter_degree_lls_2"
+			},
+			{
+				"alias": "31_117_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 117,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.0-50",
+				"textBefore": "setting_view.filter_degree_lls_3"
+			},
+			{
+				"alias": "31_118_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 118,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.0-50",
+				"textBefore": "setting_view.filter_degree_lls_4"
+			},
+			{
+				"alias": "31_119_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 119,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.seconds_10_65535",
+				"textBefore": "setting_view.parking_interval"
+			},
+			{
+				"alias": "31_120_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 120,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.degrees_3_255",
+				"textBefore": "setting_view.when_changing_course_to"
+			},
+			{
+				"alias": "31_121_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 121,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.meters_1_65535",
+				"textBefore": "setting_view.not_less_than_every"
+			},
+			{
+				"alias": "31_122_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 122,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.when_changing_speed_to"
+			},
+			{
+				"alias": "31_127_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 127,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.km_h",
+				"textBefore": "setting_view.speed_output_trigger"
+			},
+			{
+				"alias": "31_128_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 128,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.sensitivity.scale",
+				"textBefore": "setting_view.sensitivity"
+			},
+			{
+				"alias": "31_129_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 129,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "setting_view.units.seconds",
+				"textBefore": "setting_view.delay_of_operation"
+			},
+			{
+				"alias": "31_130_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 130,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "[0-64]",
+				"textBefore": "setting_view.depth_of_averaging_accelerometer_value"
+			},
+			{
+				"alias": "31_137_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 137,
+					"type": "int",
+					"length": "2"
+				},
+				"textAfter": "setting_view.units.mV",
+				"textBefore": "setting_view.virtual_ignition_threshold"
+			},
+			{
+				"alias": "31_144_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 144,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_144",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_145_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 145,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_145",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_146_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 146,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_146",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_147_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 147,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_147",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_148_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 148,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_148",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_149_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 149,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_149",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_150_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 150,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_150",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_151_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 151,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_151",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_152_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 152,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_152",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_153_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 153,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_153",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_154_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 154,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_154",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_155_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 155,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_155",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_156_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 156,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_156",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_157_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 157,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_157",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_158_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 158,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_158",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_159_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 159,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_159",
+				"textAfter": "mg [0-65535]",
+				"textBefore": "setting_view.threshold"
+			},
+			{
+				"alias": "31_160_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 160,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_144",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_161_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 161,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_145",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_162_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 162,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_146",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_163_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 163,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_147",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_164_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 164,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_148",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_165_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 165,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_149",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_166_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 166,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_150",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_167_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 167,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_151",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_168_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 168,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_152",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_169_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 169,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_153",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_170_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 170,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_154",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_171_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 171,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_155",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_172_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 172,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_156",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_173_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 173,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_157",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_174_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 174,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_158",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_175_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 175,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_159",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.duration_of_hanging_ms"
+			},
+			{
+				"alias": "31_176_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 176,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_144",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_177_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 177,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_145",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_178_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 178,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_146",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_179_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 179,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_147",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_180_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 180,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_148",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_181_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 181,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_149",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_182_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 182,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_150",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_183_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 183,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_151",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_184_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 184,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_152",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_185_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 185,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_153",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_186_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 186,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_154",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_187_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 187,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_155",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_188_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 188,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_156",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_189_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 189,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_157",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_190_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 190,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_158",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_191_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 191,
+					"type": "int",
+					"length": "2"
+				},
+				"widget": "inline_159",
+				"textAfter": "ms [0-65535]",
+				"textBefore": "setting_view.delay_before_excess_overrun_ms"
+			},
+			{
+				"alias": "31_192_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 192,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_192",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.exceeding_threshold_km_h"
+			},
+			{
+				"alias": "31_193_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 193,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_193",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.exceeding_threshold_km_h"
+			},
+			{
+				"alias": "31_194_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 194,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_194",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.exceeding_threshold_km_h"
+			},
+			{
+				"alias": "31_195_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 195,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_195",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.exceeding_threshold_km_h"
+			},
+			{
+				"alias": "31_196_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 196,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_196",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.exceeding_threshold_km_h"
+			},
+			{
+				"alias": "31_197_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 197,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_197",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.exceeding_threshold_km_h"
+			},
+			{
+				"alias": "31_198_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 198,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_192",
+				"textAfter": "setting_view.units.seconds",
+				"textBefore": "setting_view.min_excess_time_sec"
+			},
+			{
+				"alias": "31_199_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 199,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_193",
+				"textAfter": "setting_view.units.seconds",
+				"textBefore": "setting_view.min_excess_time_sec"
+			},
+			{
+				"alias": "31_200_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 200,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_194",
+				"textAfter": "setting_view.units.seconds",
+				"textBefore": "setting_view.min_excess_time_sec"
+			},
+			{
+				"alias": "31_201_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 201,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_195",
+				"textAfter": "setting_view.units.seconds",
+				"textBefore": "setting_view.min_excess_time_sec"
+			},
+			{
+				"alias": "31_202_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 202,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_196",
+				"textAfter": "setting_view.units.seconds",
+				"textBefore": "setting_view.min_excess_time_sec"
+			},
+			{
+				"alias": "31_203_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 203,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_197",
+				"textAfter": "setting_view.units.seconds",
+				"textBefore": "setting_view.min_excess_time_sec"
+			},
+			{
+				"alias": "31_204_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 204,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_192",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.excess_threshold_km_h"
+			},
+			{
+				"alias": "31_205_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 205,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_193",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.excess_threshold_km_h"
+			},
+			{
+				"alias": "31_206_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 206,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_194",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.excess_threshold_km_h"
+			},
+			{
+				"alias": "31_207_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 207,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_195",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.excess_threshold_km_h"
+			},
+			{
+				"alias": "31_208_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 208,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_196",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.excess_threshold_km_h"
+			},
+			{
+				"alias": "31_209_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 209,
+					"type": "int",
+					"length": "1"
+				},
+				"widget": "inline_197",
+				"textAfter": "setting_view.units.km_h_3_255",
+				"textBefore": "setting_view.excess_threshold_km_h"
+			}
+		],
+		"settingDictionaryList": [
+			{
+				"settingId": 8,
+				"settingView": "31_8_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.internal"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.external"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.user_ag"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.egts"
+					}
+				]
+			},
+			{
+				"settingId": 9,
+				"settingView": "31_9_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.internal"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.user_ag"
+					}
+				]
+			},
+			{
+				"settingId": 11,
+				"settingView": "31_11_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.turn_off_gps"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.deep_sleep"
+					}
+				]
+			},
+			{
+				"settingId": 14,
+				"settingView": "31_14_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.universal_mode_lls"
+					}
+				]
+			},
+			{
+				"settingId": 16,
+				"settingView": "31_16_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.input_pulse"
+					},
+					{
+						"number": 7,
+						"name": "dictionary.input_frequency"
+					},
+					{
+						"number": 19,
+						"name": "dictionary.input_mass_control"
+					}
+				]
+			},
+			{
+				"settingId": 18,
+				"settingView": "31_18_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.exit_mode_1_on_off"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.exit_mode_2_indication"
+					},
+					
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.input_pulse"
+					},
+					{
+						"number": 7,
+						"name": "dictionary.input_frequency"
+					}
+				]
+			},
+			{
+				"settingId": 17,
+				"settingView": "31_17_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.input_pulse"
+					},
+					{
+						"number": 8,
+						"name": "dictionary.input_voltage_measurement"
+					}
+				]
+			},
+			{
+				"settingId": 23,
+				"settingView": "31_23_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 29,
+						"name": "dictionary.input_discrete"
+					},
+					{
+						"number": 30,
+						"name": "dictionary.ode_1_wire"
+					}
+				]
+			},
+			{
+				"settingId": 57,
+				"settingView": "31_57_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.nformational_sms"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.ms_with_card"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.urn_on_the_microphone"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.eboot_device"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.pdate_software"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.update_settings"
+					}
+				]
+			},
+			{
+				"settingId": 58,
+				"settingView": "31_58_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.nformational_sms"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.ms_with_card"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.urn_on_the_microphone"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.eboot_device"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.pdate_software"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.update_settings"
+					}
+				]
+			},
+			{
+				"settingId": 59,
+				"settingView": "31_59_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.nformational_sms"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.ms_with_card"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.urn_on_the_microphone"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.eboot_device"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.pdate_software"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.update_settings"
+					}
+				]
+			},
+			{
+				"settingId": 60,
+				"settingView": "31_60_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.nformational_sms"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.ms_with_card"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.urn_on_the_microphone"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.eboot_device"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.pdate_software"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.update_settings"
+					}
+				]
+			},
+			{
+				"settingId": 61,
+				"settingView": "31_61_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.nformational_sms"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.ms_with_card"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.urn_on_the_microphone"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.eboot_device"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.pdate_software"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.update_settings"
+					}
+				]
+			}
+		],
+		"settingValidationRuleList": [
+			{
+				"setting_view_alias": "31_1_1",
+				"rules": [
+					{
+						"name": "dns_ip",
+						"type": "dns_ip",
+						"properties": {
+							"message": "setting_validation_rule.dns_ip.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_2_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_3_1",
+				"rules": [
+					{
+						"name": "dns_ip",
+						"type": "dns_ip",
+						"properties": {
+							"message": "setting_validation_rule.dns_ip.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_4_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_5_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_8_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_9_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_11_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_12_1",
+				"rules": [
+					{
+						"name": "number_2_250",
+						"type": "number",
+						"properties": {
+							"max": 250,
+							"min": 2
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_14_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_16_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_17_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_18_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_23_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_25_1",
+				"rules": [
+					{
+						"name": "number_10_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 10
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_26_1",
+				"rules": [
+					{
+						"name": "number_10_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 10
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_28_0",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_10",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_2",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_20",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_21",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_22",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_23",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_24",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_25",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_26",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_27",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_28",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_29",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_3",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_30",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_31",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_4",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_5",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_6",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_7",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_8",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_28_9",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_51_1",
+				"rules": [
+					{
+						"name": "number_0_99999",
+						"type": "number",
+						"properties": {
+							"max": 99999,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_52_1",
+				"rules": [
+					{
+						"name": "string_regexp_num_3_13",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9+]{3,13}$",
+							"message": "setting_validation_rule.number.1_12"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_53_1",
+				"rules": [
+					{
+						"name": "string_regexp_num_3_13",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9+]{3,13}$",
+							"message": "setting_validation_rule.number.1_12"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_54_1",
+				"rules": [
+					{
+						"name": "string_regexp_num_3_13",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9+]{3,13}$",
+							"message": "setting_validation_rule.number.1_12"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_55_1",
+				"rules": [
+					{
+						"name": "string_regexp_num_3_13",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9+]{3,13}$",
+							"message": "setting_validation_rule.number.1_12"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_56_1",
+				"rules": [
+					{
+						"name": "string_regexp_num_3_13",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9+]{3,13}$",
+							"message": "setting_validation_rule.number.1_12"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_57_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_58_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_59_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_60_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_61_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_62_1",
+				"rules": [
+					{
+						"name": "number_0_32767",
+						"type": "number",
+						"properties": {
+							"max": 32767,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_63_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_64_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_66_1",
+				"rules": [
+					{
+						"name": "number_0_9999",
+						"type": "number",
+						"properties": {
+							"max": 9999,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_67_1",
+				"rules": [
+					{
+						"name": "maxlength_30",
+						"type": "maxlength",
+						"properties": {
+							"value": 30
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_68_1",
+				"rules": [
+					{
+						"name": "maxlength_20",
+						"type": "maxlength",
+						"properties": {
+							"value": 20
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_69_1",
+				"rules": [
+					{
+						"name": "maxlength_20",
+						"type": "maxlength",
+						"properties": {
+							"value": 20
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_72_0",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_18",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_19",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_2",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_21",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_29",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_3",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_4",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_5",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_6",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_7",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_8",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_72_9",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_73_1",
+				"rules": [
+					{
+						"name": "number_0_4294967295",
+						"type": "number",
+						"properties": {
+							"max": 4294967295,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_74_1",
+				"rules": [
+					{
+						"name": "string_regexp_dw",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9]+$",
+							"message": "setting_validation_rule.string_regexp_key_1_4.message"
+						}
+					},
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_75_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_76_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_77_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_78_1",
+				"rules": [
+					{
+						"name": "ussd",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9\\*#]*?$",
+							"message": "setting_validation_rule.ussd.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_79_1",
+				"rules": [
+					{
+						"name": "ussd",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9\\*#]*?$",
+							"message": "setting_validation_rule.ussd.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_81_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_82_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_88_1",
+				"rules": [
+					{
+						"name": "number_0_9999",
+						"type": "number",
+						"properties": {
+							"max": 9999,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_89_1",
+				"rules": [
+					{
+						"name": "maxlength_30",
+						"type": "maxlength",
+						"properties": {
+							"value": 30
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_90_1",
+				"rules": [
+					{
+						"name": "maxlength_20",
+						"type": "maxlength",
+						"properties": {
+							"value": 20
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_91_1",
+				"rules": [
+					{
+						"name": "maxlength_20",
+						"type": "maxlength",
+						"properties": {
+							"value": 20
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_104_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_115_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_116_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_117_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_118_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_119_1",
+				"rules": [
+					{
+						"name": "number_10_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 10
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_120_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_121_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_122_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_127_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_128_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_129_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_130_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_137_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "31_144_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_145_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_146_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_147_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_148_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_149_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_150_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_151_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_152_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_153_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_154_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_155_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_156_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_157_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_158_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_159_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_160_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_161_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_162_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_163_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_164_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_165_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_166_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_167_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_168_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_169_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_170_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_171_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_172_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_173_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_174_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_175_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_176_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_177_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_178_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_179_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_180_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_181_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_182_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_183_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_184_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_185_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_186_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_187_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_188_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_189_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_190_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_191_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_192_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_193_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_194_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_195_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_196_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_197_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_198_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_199_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_200_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_201_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_202_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_203_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_204_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_205_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_206_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_207_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_208_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "31_209_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			}
+		],
+		"widgetList": [
+			{
+				"name": "inline_144",
+				"type": "inline",
+				"subSectionId": "drivingQuality2",
+				"settingList": [
+					{
+						"alias": "31_144_1"
+					},
+					{
+						"alias": "31_160_1"
+					},
+					{
+						"alias": "31_176_1"
+					}
+				]
+			},
+			{
+				"name": "inline_145",
+				"type": "inline",
+				"subSectionId": "drivingQuality2",
+				"settingList": [
+					{
+						"alias": "31_145_1"
+					},
+					{
+						"alias": "31_161_1"
+					},
+					{
+						"alias": "31_177_1"
+					}
+				]
+			},
+			{
+				"name": "inline_146",
+				"type": "inline",
+				"subSectionId": "drivingQuality2",
+				"settingList": [
+					{
+						"alias": "31_146_1"
+					},
+					{
+						"alias": "31_162_1"
+					},
+					{
+						"alias": "31_178_1"
+					}
+				]
+			},
+			{
+				"name": "inline_147",
+				"type": "inline",
+				"subSectionId": "drivingQuality2",
+				"settingList": [
+					{
+						"alias": "31_147_1"
+					},
+					{
+						"alias": "31_163_1"
+					},
+					{
+						"alias": "31_179_1"
+					}
+				]
+			},
+			{
+				"name": "inline_148",
+				"type": "inline",
+				"subSectionId": "drivingQuality3",
+				"settingList": [
+					{
+						"alias": "31_148_1"
+					},
+					{
+						"alias": "31_164_1"
+					},
+					{
+						"alias": "31_180_1"
+					}
+				]
+			},
+			{
+				"name": "inline_149",
+				"type": "inline",
+				"subSectionId": "drivingQuality3",
+				"settingList": [
+					{
+						"alias": "31_149_1"
+					},
+					{
+						"alias": "31_165_1"
+					},
+					{
+						"alias": "31_181_1"
+					}
+				]
+			},
+			{
+				"name": "inline_150",
+				"type": "inline",
+				"subSectionId": "drivingQuality3",
+				"settingList": [
+					{
+						"alias": "31_150_1"
+					},
+					{
+						"alias": "31_166_1"
+					},
+					{
+						"alias": "31_182_1"
+					}
+				]
+			},
+			{
+				"name": "inline_151",
+				"type": "inline",
+				"subSectionId": "drivingQuality3",
+				"settingList": [
+					{
+						"alias": "31_151_1"
+					},
+					{
+						"alias": "31_167_1"
+					},
+					{
+						"alias": "31_183_1"
+					}
+				]
+			},
+			{
+				"name": "inline_152",
+				"type": "inline",
+				"subSectionId": "drivingQuality4",
+				"settingList": [
+					{
+						"alias": "31_152_1"
+					},
+					{
+						"alias": "31_168_1"
+					},
+					{
+						"alias": "31_184_1"
+					}
+				]
+			},
+			{
+				"name": "inline_153",
+				"type": "inline",
+				"subSectionId": "drivingQuality4",
+				"settingList": [
+					{
+						"alias": "31_153_1"
+					},
+					{
+						"alias": "31_169_1"
+					},
+					{
+						"alias": "31_185_1"
+					}
+				]
+			},
+			{
+				"name": "inline_154",
+				"type": "inline",
+				"subSectionId": "drivingQuality4",
+				"settingList": [
+					{
+						"alias": "31_154_1"
+					},
+					{
+						"alias": "31_170_1"
+					},
+					{
+						"alias": "31_186_1"
+					}
+				]
+			},
+			{
+				"name": "inline_155",
+				"type": "inline",
+				"subSectionId": "drivingQuality4",
+				"settingList": [
+					{
+						"alias": "31_155_1"
+					},
+					{
+						"alias": "31_171_1"
+					},
+					{
+						"alias": "31_187_1"
+					}
+				]
+			},
+			{
+				"name": "inline_156",
+				"type": "inline",
+				"subSectionId": "drivingQuality5",
+				"settingList": [
+					{
+						"alias": "31_156_1"
+					},
+					{
+						"alias": "31_172_1"
+					},
+					{
+						"alias": "31_188_1"
+					}
+				]
+			},
+			{
+				"name": "inline_157",
+				"type": "inline",
+				"subSectionId": "drivingQuality5",
+				"settingList": [
+					{
+						"alias": "31_157_1"
+					},
+					{
+						"alias": "31_173_1"
+					},
+					{
+						"alias": "31_189_1"
+					}
+				]
+			},
+			{
+				"name": "inline_158",
+				"type": "inline",
+				"subSectionId": "drivingQuality5",
+				"settingList": [
+					{
+						"alias": "31_158_1"
+					},
+					{
+						"alias": "31_174_1"
+					},
+					{
+						"alias": "31_190_1"
+					}
+				]
+			},
+			{
+				"name": "inline_159",
+				"type": "inline",
+				"subSectionId": "drivingQuality5",
+				"settingList": [
+					{
+						"alias": "31_159_1"
+					},
+					{
+						"alias": "31_175_1"
+					},
+					{
+						"alias": "31_191_1"
+					}
+				]
+			},
+			{
+				"name": "inline_192",
+				"type": "inline",
+				"subSectionId": "drivingQuality6",
+				"settingList": [
+					{
+						"alias": "31_192_1"
+					},
+					{
+						"alias": "31_198_1"
+					},
+					{
+						"alias": "31_204_1"
+					}
+				]
+			},
+			{
+				"name": "inline_193",
+				"type": "inline",
+				"subSectionId": "drivingQuality6",
+				"settingList": [
+					{
+						"alias": "31_193_1"
+					},
+					{
+						"alias": "31_199_1"
+					},
+					{
+						"alias": "31_205_1"
+					}
+				]
+			},
+			{
+				"name": "inline_194",
+				"type": "inline",
+				"subSectionId": "drivingQuality6",
+				"settingList": [
+					{
+						"alias": "31_194_1"
+					},
+					{
+						"alias": "31_200_1"
+					},
+					{
+						"alias": "31_206_1"
+					}
+				]
+			},
+			{
+				"name": "inline_195",
+				"type": "inline",
+				"subSectionId": "drivingQuality6",
+				"settingList": [
+					{
+						"alias": "31_195_1"
+					},
+					{
+						"alias": "31_201_1"
+					},
+					{
+						"alias": "31_207_1"
+					}
+				]
+			},
+			{
+				"name": "inline_196",
+				"type": "inline",
+				"subSectionId": "drivingQuality6",
+				"settingList": [
+					{
+						"alias": "31_196_1"
+					},
+					{
+						"alias": "31_202_1"
+					},
+					{
+						"alias": "31_208_1"
+					}
+				]
+			},
+			{
+				"name": "inline_197",
+				"type": "inline",
+				"subSectionId": "drivingQuality6",
+				"settingList": [
+					{
+						"alias": "31_197_1"
+					},
+					{
+						"alias": "31_203_1"
+					},
+					{
+						"alias": "31_209_1"
+					}
+				]
+			},
+			{
+				"name": "tuple_52",
+				"type": "tuple",
+				"subSectionId": "phoneNumbers11",
+				"settingList": {
+					"left": {
+						"alias": "31_52_1"
+					},
+					"right": {
+						"alias": "31_57_1"
+					}
+				}
+			},
+			{
+				"name": "tuple_53",
+				"type": "tuple",
+				"subSectionId": "phoneNumbers12",
+				"settingList": {
+					"left": {
+						"alias": "31_53_1"
+					},
+					"right": {
+						"alias": "31_58_1"
+					}
+				}
+			},
+			{
+				"name": "tuple_54",
+				"type": "tuple",
+				"subSectionId": "phoneNumbers13",
+				"settingList": {
+					"left": {
+						"alias": "31_54_1"
+					},
+					"right": {
+						"alias": "31_59_1"
+					}
+				}
+			},
+			{
+				"name": "tuple_55",
+				"type": "tuple",
+				"subSectionId": "phoneNumbers14",
+				"settingList": {
+					"left": {
+						"alias": "31_55_1"
+					},
+					"right": {
+						"alias": "31_60_1"
+					}
+				}
+			},
+			{
+				"name": "tuple_56",
+				"type": "tuple",
+				"subSectionId": "phoneNumbers15",
+				"settingList": {
+					"left": {
+						"alias": "31_56_1"
+					},
+					"right": {
+						"alias": "31_61_1"
+					}
+				}
+			}
+		],
+		"translations": [
+			{
+				"key": "section.server_monitoring",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Monitoring server"
+					},
+					{
+						"lang": "ru",
+						"text": "Сервер мониторинга"
+					}
+				]
+			},
+			{
+				"key": "subsection.server_and_port1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "#1 Server setiings"
+					},
+					{
+						"lang": "ru",
+						"text": "#1 Параметры сервера"
+					}
+				]
+			},
+			{
+				"key": "subsection.server_and_port2",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "#2 Server setiings"
+					},
+					{
+						"lang": "ru",
+						"text": "#2 Параметры сервера"
+					}
+				]
+			},
+			{
+				"key": "section.package_structure",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Data to transfer"
+					},
+					{
+						"lang": "ru",
+						"text": "Данные для передачи"
+					}
+				]
+			},
+			{
+				"key": "subsection.common_parameters",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Common parameters"
+					},
+					{
+						"lang": "ru",
+						"text": "Общие параметры"
+					}
+				]
+			},
+			{
+				"key": "subsection.can_bus_data",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Data from CAN bus"
+					},
+					{
+						"lang": "ru",
+						"text": "Данные с CAN шины"
+					}
+				]
+			},
+			{
+				"key": "section.route_building",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Transmitting route points"
+					},
+					{
+						"lang": "ru",
+						"text": "Передача точек маршрута"
+					}
+				]
+			},
+			{
+				"key": "subsection.drawing_a_trajectory",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Working out the trajectory in the home network:"
+					},
+					{
+						"lang": "ru",
+						"text": "Отработка траектории в домашней сети:"
+					}
+				]
+			},
+			{
+				"key": "subsection.drawing_a_trajectory_in_roaming",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Working out the trajectory in the roaming:"
+					},
+					{
+						"lang": "ru",
+						"text": "Отработка траектории в роуминге:"
+					}
+				]
+			},
+			{
+				"key": "subsection.coordinate_freezing",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Freezing coordinates"
+					},
+					{
+						"lang": "ru",
+						"text": "Заморозка координат"
+					}
+				]
+			},
+			{
+				"key": "subsection.motion_sensor",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Motion Sensor"
+					},
+					{
+						"lang": "ru",
+						"text": "Датчик движения"
+					}
+				]
+			},
+			{
+				"key": "section.discrete_inputs",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Discrete inputs&outputs"
+					},
+					{
+						"lang": "ru",
+						"text": "Дискретные входы и выходы"
+					}
+				]
+			},
+			{
+				"key": "section.digital_inputs",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Digital interfaces"
+					},
+					{
+						"lang": "ru",
+						"text": "Цифровые интерфейсы"
+					}
+				]
+			},
+			{
+				"key": "subsection.discrete",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Discrete"
+					},
+					{
+						"lang": "ru",
+						"text": "Дискретные"
+					}
+				]
+			},
+			{
+				"key": "subsection.digital",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Digital"
+					},
+					{
+						"lang": "ru",
+						"text": "Цифровые"
+					}
+				]
+			},
+			{
+				"key": "subsection.additional_settings",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Additional settings"
+					},
+					{
+						"lang": "ru",
+						"text": "Дополнительные настройки"
+					}
+				]
+			},
+			{
+				"key": "section.driving_quality",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Driving quality"
+					},
+					{
+						"lang": "ru",
+						"text": "Стиль вождения"
+					}
+				]
+			},
+			{
+				"key": "",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": ""
+					},
+					{
+						"lang": "ru",
+						"text": ""
+					}
+				]
+			},
+			{
+				"key": "subsection.overclocking",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Acceleration"
+					},
+					{
+						"lang": "ru",
+						"text": "Разгон"
+					}
+				]
+			},
+			{
+				"key": "subsection.braking",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Braking"
+					},
+					{
+						"lang": "ru",
+						"text": "Торможение"
+					}
+				]
+			},
+			{
+				"key": "subsection.angular_acceleration",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Angular acceleration"
+					},
+					{
+						"lang": "ru",
+						"text": "Угловое ускорение"
+					}
+				]
+			},
+			{
+				"key": "subsection.vertical_acceleration",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Vertical Acceleration"
+					},
+					{
+						"lang": "ru",
+						"text": "Вертикальное ускорение"
+					}
+				]
+			},
+			{
+				"key": "subsection.over_speed",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Over speed"
+					},
+					{
+						"lang": "ru",
+						"text": "Превышение скорости"
+					}
+				]
+			},
+			{
+				"key": "subsection.phones",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Phones"
+					},
+					{
+						"lang": "ru",
+						"text": "Телефоны"
+					}
+				]
+			},
+			{
+				"key": "subsection.phone1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Phone №1"
+					},
+					{
+						"lang": "ru",
+						"text": "Телефон №1"
+					}
+				]
+			},
+			{
+				"key": "subsection.phone2",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Phone №2"
+					},
+					{
+						"lang": "ru",
+						"text": "Телефон №2"
+					}
+				]
+			},
+			{
+				"key": "subsection.phone3",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Phone №3"
+					},
+					{
+						"lang": "ru",
+						"text": "Телефон №3"
+					}
+				]
+			},
+			{
+				"key": "subsection.phone4",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Phone №4"
+					},
+					{
+						"lang": "ru",
+						"text": "Телефон №4"
+					}
+				]
+			},
+			{
+				"key": "subsection.phone5",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Phone №5"
+					},
+					{
+						"lang": "ru",
+						"text": "Телефон №5"
+					}
+				]
+			},
+			{
+				"key": "section.sim_cards3",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "SIM card"
+					},
+					{
+						"lang": "ru",
+						"text": "SIM карты"
+					}
+				]
+			},
+			{
+				"key": "subsection.sim_card1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "#1 SIM card"
+					},
+					{
+						"lang": "ru",
+						"text": "#1 SIM карта"
+					}
+				]
+			},
+			{
+				"key": "subsection.sim_card2",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "#2 SIM card"
+					},
+					{
+						"lang": "ru",
+						"text": "#2 SIM карта"
+					}
+				]
+			},
+			{
+				"key": "section.system",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System"
+					},
+					{
+						"lang": "ru",
+						"text": "Системные"
+					}
+				]
+			},
+			{
+				"key": "subsection.device_password_sms_password",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Device Password (SMS Password)"
+					},
+					{
+						"lang": "ru",
+						"text": "Пароль устройства (SMS пароль)"
+					}
+				]
+			},
+			{
+				"key": "subsection.checking_the_settings_on_the_web_configurator",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Checking the settings on the WEB configurator"
+					},
+					{
+						"lang": "ru",
+						"text": "Проверка настроек на WEB конфигураторе"
+					}
+				]
+			},
+			{
+				"key": "setting_view.power_saving_mode",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Power saving mode"
+					},
+					{
+						"lang": "ru",
+						"text": "Режим энергосбережения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.dns_ip",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "DNS / IP"
+					},
+					{
+						"lang": "ru",
+						"text": "DNS/IP"
+					}
+				]
+			},
+			{
+				"key": "setting_view.port",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Port"
+					},
+					{
+						"lang": "ru",
+						"text": "Порт"
+					}
+				]
+			},
+			{
+				"key": "setting_view.protocol",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Protocol"
+					},
+					{
+						"lang": "ru",
+						"text": "Протокол"
+					}
+				]
+			},
+			{
+				"key": "setting_view.sleeping_mode",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Sleeping mode"
+					},
+					{
+						"lang": "ru",
+						"text": "Режим сна"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.minutes2",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "minutes [0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "минут [0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.contact_time",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Contact time"
+					},
+					{
+						"lang": "ru",
+						"text": "Время пребывания на связи"
+					}
+				]
+			},
+			{
+				"key": "setting_view.rs485_rs232",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "RS485"
+					},
+					{
+						"lang": "ru",
+						"text": "RS485"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in0",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "IN0[-]/OUT0"
+					},
+					{
+						"lang": "ru",
+						"text": "IN0[-]/OUT0"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "IN1[-]/OUT1"
+					},
+					{
+						"lang": "ru",
+						"text": "IN1[-]/OUT1"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in2",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "IN2[+]"
+					},
+					{
+						"lang": "ru",
+						"text": "IN2[+]"
+					}
+				]
+			},
+			{
+				"key": "dictionary.1_wire",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "1-WIRE"
+					},
+					{
+						"lang": "ru",
+						"text": "1-WIRE"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.seconds_10_65535",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "sec [10-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "сек [10-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.parking_interval",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Parking interval"
+					},
+					{
+						"lang": "ru",
+						"text": "Интервал при стоянке"
+					}
+				]
+			},
+			{
+				"key": "setting_view.get_in_touch_every",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Get in touch every"
+					},
+					{
+						"lang": "ru",
+						"text": "Выходить на связь каждые"
+					}
+				]
+			},
+			{
+				"key": "setting_view.navigation_lat_lon",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Navigation: latitude, longitude"
+					},
+					{
+						"lang": "ru",
+						"text": "Навигация: широта, долгота"
+					}
+				]
+			},
+			{
+				"key": "setting_view.navigation_speed_altitude_satellites_course",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Navigation: speed, altitude, satellites, course"
+					},
+					{
+						"lang": "ru",
+						"text": "Навигация: скорость, высота, спутники, курс"
+					}
+				]
+			},
+			{
+				"key": "setting_view.send_state_of_failures_bit_mask",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Send state of failures (bit mask)"
+					},
+					{
+						"lang": "ru",
+						"text": "Передавать состояния сработок (битовая маска)"
+					}
+				]
+			},
+			{
+				"key": "setting_view.navigation_hdop_accuracy",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Navigation: HDOP Accuracy"
+					},
+					{
+						"lang": "ru",
+						"text": "Навигация: погрешность HDOP"
+					}
+				]
+			},
+			{
+				"key": "setting_view.statuses_of_work",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Statuses of work"
+					},
+					{
+						"lang": "ru",
+						"text": "Статусы работы"
+					}
+				]
+			},
+			{
+				"key": "setting_view.full_engine_run_time",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Full engine run time"
+					},
+					{
+						"lang": "ru",
+						"text": "Полное время работы двигателя"
+					}
+				]
+			},
+			{
+				"key": "setting_view.full_vehicle_mileage",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Full vehicle mileage"
+					},
+					{
+						"lang": "ru",
+						"text": "Полный пробег транспортного средства"
+					}
+				]
+			},
+			{
+				"key": "setting_view.full_fuel_consumption",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Full fuel consumption"
+					},
+					{
+						"lang": "ru",
+						"text": "Полный расход топлива"
+					}
+				]
+			},
+			{
+				"key": "setting_view.fuel_level_in_the_tank",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Fuel level in the tank"
+					},
+					{
+						"lang": "ru",
+						"text": "Уровень топлива в баке"
+					}
+				]
+			},
+			{
+				"key": "setting_view.engine_speed",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Engine speed"
+					},
+					{
+						"lang": "ru",
+						"text": "Скорость оборотов двигателя"
+					}
+				]
+			},
+			{
+				"key": "setting_view.engine_temperature",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Engine temperature"
+					},
+					{
+						"lang": "ru",
+						"text": "Температура двигателя"
+					}
+				]
+			},
+			{
+				"key": "setting_view.speed_​​tr_means",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Vehicle speed"
+					},
+					{
+						"lang": "ru",
+						"text": "Скорость транспортного средства"
+					}
+				]
+			},
+			{
+				"key": "setting_view.axle_pressure",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Axle Pressure"
+					},
+					{
+						"lang": "ru",
+						"text": "Давление на оси"
+					}
+				]
+			},
+			{
+				"key": "setting_view.crash_controllers",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Crash Controllers"
+					},
+					{
+						"lang": "ru",
+						"text": "Контроллеры аварии"
+					}
+				]
+			},
+			{
+				"key": "setting_view.system_errors_statuses_etc",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System: errors, statuses, etc."
+					},
+					{
+						"lang": "ru",
+						"text": "Системные: ошибки, статусы, прочее"
+					}
+				]
+			},
+			{
+				"key": "setting_view.instant_consumption",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Instant consumption"
+					},
+					{
+						"lang": "ru",
+						"text": "Моментальный расход"
+					}
+				]
+			},
+			{
+				"key": "setting_view.adblue_level",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "AdBlue Level"
+					},
+					{
+						"lang": "ru",
+						"text": "Уровень AdBlue"
+					}
+				]
+			},
+			{
+				"key": "setting_view.system_inputs_outputs_module_statuses",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System: inputs / outputs, module statuses"
+					},
+					{
+						"lang": "ru",
+						"text": "Системные: входы/выводы, статусы модулей"
+					}
+				]
+			},
+			{
+				"key": "setting_view.gsm_modem_signal_strength_operator_parameters",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "GSM modem: signal strength, operator parameters"
+					},
+					{
+						"lang": "ru",
+						"text": "GSM модем: уровень сигнала, параметры оператора"
+					}
+				]
+			},
+			{
+				"key": "setting_view.gsm_modem_base_station_parameters",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "GSM modem: base station parameters (LAC, CID)"
+					},
+					{
+						"lang": "ru",
+						"text": "GSM модем: параметры базовой станции (LAC, CID)"
+					}
+				]
+			},
+			{
+				"key": "setting_view.system_external_and_internal_voltage_mv",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System: external and internal voltage, mV"
+					},
+					{
+						"lang": "ru",
+						"text": "Системные: внешнее и внутренее напряжение, мВ"
+					}
+				]
+			},
+			{
+				"key": "setting_view.system_data_transfer_from_the_accelerometer",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System: data transfer from the accelerometer"
+					},
+					{
+						"lang": "ru",
+						"text": "Передавать данные с акселерометра"
+					}
+				]
+			},
+			{
+				"key": "setting_view.send_excess_reset_events",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Send Excess Reset Events"
+					},
+					{
+						"lang": "ru",
+						"text": "Передавать события сброса превышения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.1_65535",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[1-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "[1-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.external_can_module_program_number",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "External CAN module program number"
+					},
+					{
+						"lang": "ru",
+						"text": "Номер программы внешнего CAN модуля"
+					}
+				]
+			},
+			{
+				"key": "setting_view.international_format_number",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "International format number"
+					},
+					{
+						"lang": "ru",
+						"text": "Номер в международном формате"
+					}
+				]
+			},
+			{
+				"key": "setting_view.mode",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Mode"
+					},
+					{
+						"lang": "ru",
+						"text": "Режим"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.hours2",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "hours [0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "часов [0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.every",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Every"
+					},
+					{
+						"lang": "ru",
+						"text": "Каждые"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.degrees_3_255",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "degrees [0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "градусов [0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.when_changing_course_to",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "When changing course to"
+					},
+					{
+						"lang": "ru",
+						"text": "При изменении курса на"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.meters_1_65535",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "meters [0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "метров [0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.not_less_than_every",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Not less than every"
+					},
+					{
+						"lang": "ru",
+						"text": "Не реже, чем каждые"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.0000-9999",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0000-9999]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0000-9999]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.enter_pin",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Enter pin"
+					},
+					{
+						"lang": "ru",
+						"text": "Введите PIN"
+					}
+				]
+			},
+			{
+				"key": "setting_view.apn",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "APN operator"
+					},
+					{
+						"lang": "ru",
+						"text": "APN оператора"
+					}
+				]
+			},
+			{
+				"key": "setting_view.login_for_apn",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Login for APN"
+					},
+					{
+						"lang": "ru",
+						"text": "Логин для APN"
+					}
+				]
+			},
+			{
+				"key": "setting_view.password_for_apn",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Password for APN"
+					},
+					{
+						"lang": "ru",
+						"text": "Пароль для APN"
+					}
+				]
+			},
+			{
+				"key": "dictionary.at_every_start",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "At every start"
+					},
+					{
+						"lang": "ru",
+						"text": "При каждом старте"
+					}
+				]
+			},
+			{
+				"key": "setting_view.activate_pin_code_card",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Activate PIN code card"
+					},
+					{
+						"lang": "ru",
+						"text": "Активировать PIN код карты"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_values_​​from_sensors",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter values ​​from sensors"
+					},
+					{
+						"lang": "ru",
+						"text": "Фильтровать значения с датчиков"
+					}
+				]
+			},
+			{
+				"key": "setting_view.at_a_speed_of_less_2_km_h",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "At a speed of <2 km/h"
+					},
+					{
+						"lang": "ru",
+						"text": "При скорости <2 км/час"
+					}
+				]
+			},
+			{
+				"key": "setting_view.slowmotionauto",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "To include a condition on an angle at low speeds (low-speed vihacle)"
+					},
+					{
+						"lang": "ru",
+						"text": "Включить условие по углу на малых скоростях (тихоходная техника)"
+					}
+				]
+			},
+			{
+				"key": "setting_view.by_motion_sensor",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "By motion sensor"
+					},
+					{
+						"lang": "ru",
+						"text": "По датчику движения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.get_out_of_sleep_by_motion_sensor",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Out of sleep by motion sensor"
+					},
+					{
+						"lang": "ru",
+						"text": "Выходить из сна по датчику движения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.out_of_sleep_when_changing_input",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Out of sleep when changing input(s)"
+					},
+					{
+						"lang": "ru",
+						"text": "Выходить из сна при изменении состояния входа"
+					}
+				]
+			},
+			{
+				"key": "setting_view.do_not_go_to_sleep_while_moving_by_motion_sensor",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Do not go to sleep while moving (by motion sensor)"
+					},
+					{
+						"lang": "ru",
+						"text": "Не переходить в сон при движении (по датчику движения)"
+					}
+				]
+			},
+			{
+				"key": "setting_view.on_ignition",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "On ignition"
+					},
+					{
+						"lang": "ru",
+						"text": "По зажиганию"
+					}
+				]
+			},
+			{
+				"key": "setting_view.roaming_allowed",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Roaming Allowed"
+					},
+					{
+						"lang": "ru",
+						"text": "Роуминг разрешен"
+					}
+				]
+			},
+			{
+				"key": "setting_view.id_sn_for_server",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "ID(SN) for server"
+					},
+					{
+						"lang": "ru",
+						"text": "ID(SN) для сервера"
+					}
+				]
+			},
+			{
+				"key": "setting_view.password_for_server",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Password for server"
+					},
+					{
+						"lang": "ru",
+						"text": "Пароль для сервера"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.km_h_3_255",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "km/h [0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "км/ч [0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.when_changing_speed_to",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "When changing speed to"
+					},
+					{
+						"lang": "ru",
+						"text": "При изменении скорости на"
+					}
+				]
+			},
+			{
+				"key": "setting_view.ussd_balance",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "USSD balance request"
+					},
+					{
+						"lang": "ru",
+						"text": "USSD запрос баланса"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.hour",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "hour [0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "час [0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.request_every",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Request every"
+					},
+					{
+						"lang": "ru",
+						"text": "Запрашивать каждый"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.mV",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "mV [0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "мВ [0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.discrete_mode_analog_input_threshold",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Analog Input Threshold"
+					},
+					{
+						"lang": "ru",
+						"text": "Порог аналогового входа"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.0-50",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-50]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-50]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_degree_lls_1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter degree LLS 1"
+					},
+					{
+						"lang": "ru",
+						"text": "Степень фильтрации LLS 1"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_degree_lls_2",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter degree LLS 2"
+					},
+					{
+						"lang": "ru",
+						"text": "Степень фильтрации LLS 2"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_degree_lls_3",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter degree LLS 3"
+					},
+					{
+						"lang": "ru",
+						"text": "Степень фильтрации LLS 3"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_degree_lls_4",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter degree LLS 4"
+					},
+					{
+						"lang": "ru",
+						"text": "Степень фильтрации LLS 4"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.km_h",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "km / h"
+					},
+					{
+						"lang": "ru",
+						"text": "км/ч"
+					}
+				]
+			},
+			{
+				"key": "setting_view.speed_output_trigger",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Speed output trigger"
+					},
+					{
+						"lang": "ru",
+						"text": "Срабатывание выхода по скорости"
+					}
+				]
+			},
+			{
+				"key": "setting_view.sensitivity.scale",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[min 0 .. max 10]"
+					},
+					{
+						"lang": "ru",
+						"text": "[мин 0 .. макс 10]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.sensitivity",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Sensitivity"
+					},
+					{
+						"lang": "ru",
+						"text": "Чувствительность"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.seconds",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "sec [0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "сек [0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.delay_of_operation",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Delay of operation"
+					},
+					{
+						"lang": "ru",
+						"text": "Задержка срабатывания"
+					}
+				]
+			},
+			{
+				"key": "setting_view.depth_of_averaging_accelerometer_value",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Depth of averaging accelerometer value"
+					},
+					{
+						"lang": "ru",
+						"text": "Глубина усреднения значения акселерометра"
+					}
+				]
+			},
+			{
+				"key": "setting_view.virtual_ignition_threshold",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Virtual ignition threshold"
+					},
+					{
+						"lang": "ru",
+						"text": "Порог виртуального зажигания"
+					}
+				]
+			},
+			{
+				"key": "setting_view.threshold",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Threshold"
+					},
+					{
+						"lang": "ru",
+						"text": "Порог"
+					}
+				]
+			},
+			{
+				"key": "setting_view.duration_of_hanging_ms",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Duration of hanging"
+					},
+					{
+						"lang": "ru",
+						"text": "Длительность превышения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.delay_before_excess_overrun_ms",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Delay before excess overrun"
+					},
+					{
+						"lang": "ru",
+						"text": "Задержка перед сбросом превышения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.exceeding_threshold_km_h",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Exceeding threshold"
+					},
+					{
+						"lang": "ru",
+						"text": "Порог превышения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.min_excess_time_sec",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Min excess time"
+					},
+					{
+						"lang": "ru",
+						"text": "Мин. время превышения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.excess_threshold_km_h",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Excess Threshold"
+					},
+					{
+						"lang": "ru",
+						"text": "Порог сброса превышения"
+					}
+				]
+			},
+			{
+				"key": "dictionary.internal",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "INTERNAL"
+					},
+					{
+						"lang": "ru",
+						"text": "INTERNAL"
+					}
+				]
+			},
+			{
+				"key": "dictionary.external",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "EXTERNAL"
+					},
+					{
+						"lang": "ru",
+						"text": "EXTERNAL"
+					}
+				]
+			},
+			{
+				"key": "dictionary.user_ag",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "USER AG"
+					},
+					{
+						"lang": "ru",
+						"text": "USER AG"
+					}
+				]
+			},
+			{
+				"key": "dictionary.egts",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "EGTS"
+					},
+					{
+						"lang": "ru",
+						"text": "EGTS"
+					}
+				]
+			},
+			{
+				"key": "dictionary.not_use1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "not use"
+					},
+					{
+						"lang": "ru",
+						"text": "не используется"
+					}
+				]
+			},
+			{
+				"key": "dictionary.turn_off_gps",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "turn off GPS"
+					},
+					{
+						"lang": "ru",
+						"text": "выключить GPS"
+					}
+				]
+			},
+			{
+				"key": "dictionary.deep_sleep",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "deep sleep"
+					},
+					{
+						"lang": "ru",
+						"text": "глубокий сон"
+					}
+				]
+			},
+			{
+				"key": "dictionary.can_log_text_protocol",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "text protocol CANlog"
+					},
+					{
+						"lang": "ru",
+						"text": "текстовый протокол CANlog"
+					}
+				]
+			},
+			{
+				"key": "dictionary.universal_mode_lls",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "universal mode (LLS+CAN)"
+					},
+					{
+						"lang": "ru",
+						"text": "универсальный режим (LLS+CAN)"
+					}
+				]
+			},
+			{
+				"key": "dictionary.microlink",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "microlink"
+					},
+					{
+						"lang": "ru",
+						"text": "microlink"
+					}
+				]
+			},
+			{
+				"key": "dictionary.canlog_binary_protocol",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "binary protocol CANlog"
+					},
+					{
+						"lang": "ru",
+						"text": "бинарный протокол CANlog"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_mode_1_on_off",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - mode 1 (on / off)"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - режим 1 (вкл/выкл)"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_mode_2_indication",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - mode 2 (indication)"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - режим 2 (индикация)"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_discrete",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - discrete"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - дискретный"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_pulse",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - pulse"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - импульсный"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_frequency",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - frequency"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - частотный"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_mass_control",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - mass control"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - контроль массы"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_key_deactivation",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - key deactivation"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - деактивация по ключу"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_pulse_not_null",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - pulse not null"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - импульсный ненулевой"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_by_speed",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - by speed"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - по скорости"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_safe_lock",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - safe lock"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - безопасная блокировка"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_voltage_measurement",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - voltage measurement"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - измерение напряжения"
+					}
+				]
+			},
+			{
+				"key": "dictionary.ode_1_wire",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "mode - 1-wire"
+					},
+					{
+						"lang": "ru",
+						"text": "режим - 1-wire"
+					}
+				]
+			},
+			{
+				"key": "dictionary.nformational_sms",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "info SMS"
+					},
+					{
+						"lang": "ru",
+						"text": "инфо SMS"
+					}
+				]
+			},
+			{
+				"key": "dictionary.ms_with_card",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "SMS with map"
+					},
+					{
+						"lang": "ru",
+						"text": "SMS с картой"
+					}
+				]
+			},
+			{
+				"key": "dictionary.urn_on_the_microphone",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "turn on the microphone"
+					},
+					{
+						"lang": "ru",
+						"text": "включить микрофон"
+					}
+				]
+			},
+			{
+				"key": "dictionary.eboot_device",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "reboot device"
+					},
+					{
+						"lang": "ru",
+						"text": "перезагрузка устройства"
+					}
+				]
+			},
+			{
+				"key": "dictionary.pdate_software",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "opdate firmware"
+					},
+					{
+						"lang": "ru",
+						"text": "обновить ПО"
+					}
+				]
+			},
+			{
+				"key": "dictionary.update_settings",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "update settings"
+					},
+					{
+						"lang": "ru",
+						"text": "обновить настройки"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.dns_ip.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "invalid dns / ip"
+					},
+					{
+						"lang": "ru",
+						"text": "неверный dns/ip"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.string_regexp_1.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Only numbers latin letters are allowed., -"
+					},
+					{
+						"lang": "ru",
+						"text": "Допустимы только цифры латинские буквы символы .,-"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.number.1_12",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Please enter 3-12 digits"
+					},
+					{
+						"lang": "ru",
+						"text": "Пожалуйста, введите 3-12 цифр"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.string_regexp_key_1_4.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Wrong format"
+					},
+					{
+						"lang": "ru",
+						"text": "Неверный формат"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.ussd.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Only numbers and symbols are allowed * #"
+					},
+					{
+						"lang": "ru",
+						"text": "Допустимы только цифры и символы *#"
+					}
+				]
+			}
+		]
+	}
+}

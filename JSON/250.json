@@ -1,0 +1,1201 @@
+﻿{
+	"data": {
+		"id": "4a5e12f1-0fbe-11ea-bf10-309c23abbc02",
+		"uuid": "4a5e12f1-0fbe-11ea-bf10-309c23abbc02",
+			"createdAt": "2020-02-27T18:03:55+03:00",
+		"sectionList": [
+			{
+				"id": "MasterSettings",
+				"name": "section.master",
+				"subSectionList": [
+					{
+						"id": "masterstatic",
+						"name": "",
+						"settingViewAliasList": [
+							"master_1",
+							"master_2",
+							"master_4"
+						]
+					},
+					{
+						"id": "sensor_1",
+						"name": "section.sensor1",
+						"settingViewAliasList": [
+							"master_1_3",
+							"master_1_1",
+							"master_1_2"
+						]
+					},
+					{
+						"id": "sensor_2",
+						"name": "section.sensor2",
+						"settingViewAliasList": [
+							"master_2_3",
+							"master_2_1",
+							"master_2_2"
+						]
+					},
+					{
+						"id": "sensor_3",
+						"name": "section.sensor3",
+						"settingViewAliasList": [
+							"master_3_3",
+							"master_3_1",
+							"master_3_2"
+						]
+					},
+					{
+						"id": "SensorResult",
+						"name": "section.sensorother",
+						"settingViewAliasList": []
+					},
+					{
+						"id": "FindSensors250",
+						"name": "",
+						"settingViewAliasList": [
+							"FindSensors250"
+						]
+					}
+				]
+			},
+			{
+				"id": "Sensor1Settings",
+				"name": "section.sensor1",
+				"subSectionList": [
+					{
+						"id": "sensor1static",
+						"name": "",
+						"settingViewAliasList": [
+							"sensor_1_3",
+							"sensor_1_1",
+							"sensor_1_2"
+						]
+					},
+					{
+						"id": "sensor1dynamic",
+						"name": "subsection.sensor_dynamic",
+						"settingViewAliasList": [
+							"sensor_1_4",
+							"sensor_1_5",
+							"sensor_1_6",
+							"sensor_1_7",
+							"sensor_1_8"
+						]
+					}
+				]
+			},
+			{
+				"id": "Sensor2Settings",
+				"name": "section.sensor2",
+				"subSectionList": [
+					{
+						"id": "sensor2static",
+						"name": "",
+						"settingViewAliasList": [
+							"sensor_2_3",
+							"sensor_2_1",
+							"sensor_2_2"
+						]
+					},
+					{
+						"id": "sensor2dynamic",
+						"name": "subsection.sensor_dynamic",
+						"settingViewAliasList": [
+							"sensor_2_4",
+							"sensor_2_5",
+							"sensor_2_6",
+							"sensor_2_7",
+							"sensor_2_8"
+						]
+					}
+				]
+			},
+			{
+				"id": "Sensor3Settings",
+				"name": "section.sensor3",
+				"subSectionList": [
+					{
+						"id": "sensor3static",
+						"name": "",
+						"settingViewAliasList": [
+							"sensor_3_3",
+							"sensor_3_1",
+							"sensor_3_2"
+						]
+					},
+					{
+						"id": "sensor3dynamic",
+						"name": "subsection.sensor_dynamic",
+						"settingViewAliasList": [
+							"sensor_3_4",
+							"sensor_3_5",
+							"sensor_3_6",
+							"sensor_3_7",
+							"sensor_3_8"
+						]
+					}
+				]
+			}
+		],
+		"settingViewList": [  
+			{
+				"alias": "master_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "string",
+					"length": "18"
+				},
+				"textAfter": "",
+				"textBefore": "master.serial_number"
+			},
+			{
+				"alias": "master_2",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "string",
+					"length": "4"
+				},
+				"textAfter": "",
+				"textBefore": "master.version"
+			},
+			{
+				"alias": "master_3",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "master.device_max"
+			},
+			{
+				"alias": "master_4",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "master.reset_time"
+			},
+			{
+				"alias": "master_1_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 11,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.ble"
+			},
+			{
+				"alias": "master_1_2",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 12,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.network_address"
+			},
+			{
+				"alias": "master_1_3",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 13,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.type"
+			},
+			{
+				"alias": "master_2_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 21,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.ble"
+			},
+			{
+				"alias": "master_2_2",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 22,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.network_address"
+			},
+			{
+				"alias": "master_2_3",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 23,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.type"
+			},
+			{
+				"alias": "master_3_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 31,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.ble"
+			},
+			{
+				"alias": "master_3_2",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 32,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.network_address"
+			},
+			{
+				"alias": "master_3_3",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 33,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.type"
+			},
+			{
+				"alias": "sensor_1_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.ble"
+			},
+			{
+				"alias": "sensor_2_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.ble"
+			},
+			{
+				"alias": "sensor_3_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "string",
+					"length": "20"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.ble"
+			},
+			{
+				"alias": "sensor_1_2",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.network_address"
+			},
+			{
+				"alias": "sensor_2_2",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.network_address"
+			},
+			{
+				"alias": "sensor_3_2",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "int",
+					"length": "1"
+				},
+				"textAfter": "",
+				"textBefore": "sensor.network_address"
+			},
+			{
+				"alias": "sensor_1_3",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.type"
+			},
+			{
+				"alias": "sensor_2_3",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.type"
+			},
+			{
+				"alias": "sensor_3_3",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 0,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.type"
+			},
+			{
+				"alias": "sensor_1_4",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 14,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.filter.depth"
+			},
+			{
+				"alias": "sensor_1_5",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 15,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.level.top"
+			},
+			{
+				"alias": "sensor_1_6",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 16,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.level.bottom"
+			},
+			{
+				"alias": "sensor_1_7",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 17,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.cnt.max"
+			},
+			{
+				"alias": "sensor_1_8",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 18,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.cnt.min"
+			},
+			{
+				"alias": "sensor_2_4",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 24,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.filter.depth"
+			},
+			{
+				"alias": "sensor_2_5",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 25,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.level.top"
+			},
+			{
+				"alias": "sensor_2_6",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 26,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.level.bottom"
+			},
+			{
+				"alias": "sensor_2_7",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 27,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.cnt.max"
+			},
+			{
+				"alias": "sensor_2_8",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.cnt.min"
+			},
+			{
+				"alias": "sensor_3_4",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 34,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.filter.depth"
+			},
+			{
+				"alias": "sensor_3_5",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 35,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.level.top"
+			},
+			{
+				"alias": "sensor_3_6",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 36,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.level.bottom"
+			},
+			{
+				"alias": "sensor_3_7",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 37,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.cnt.max"
+			},
+			{
+				"alias": "sensor_3_8",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 38,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "sensor.cnt.min"
+			},
+			{
+				"alias": "FindSensors250",
+				"type": "button",
+				"defaultValue": "",
+				"setting": {
+					"number": 157,
+					"type": "string",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "FindSensors250"
+			}
+		],
+		"settingDictionaryList": [
+			{
+				"settingId": 13,
+				"settingView": "master_1_3",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.null"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.lls"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.bridge"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.escort"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.thermo"
+					}
+				]
+			},
+			{
+				"settingId": 23,
+				"settingView": "master_2_3",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.null"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.lls"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.bridge"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.escort"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.thermo"
+					}
+				]
+			},
+			{
+				"settingId": 33,
+				"settingView": "master_3_3",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.null"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.lls"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.bridge"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.escort"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.thermo"
+					}
+				]
+			},
+			{
+				"settingId": 0,
+				"settingView": "sensor_1_3",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.null"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.lls"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.bridge"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.escort"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.thermo"
+					}
+
+				]
+			},
+			{
+				"settingId": 0,
+				"settingView": "sensor_2_3",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.null"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.lls"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.bridge"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.escort"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.thermo"
+					}
+				]
+			},
+			{
+				"settingId": 0,
+				"settingView": "sensor_3_3",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.null"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.lls"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.bridge"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.escort"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.thermo"
+					}
+				]
+			}
+		],
+		"settingValidationRuleList": [
+			{
+				"setting_view_alias": "5_1_1",
+				"rules": [
+					{
+						"name": "dns_ip",
+						"type": "dns_ip",
+						"properties": {
+							"message": "setting_validation_rule.dns_ip.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "5_184_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			}
+		],
+		"widgetList": [
+			{
+				"name": "tuple_174",
+				"type": "tuple",
+				"subSectionId": "ioSetting34",
+				"settingList": {
+					"left": {
+						"alias": "5_174_1"
+					},
+					"right": {
+						"alias": "5_30_11"
+					}
+				}
+			},
+			{
+				"name": "tuple_56",
+				"type": "tuple",
+				"subSectionId": "phoneNumbers15",
+				"settingList": {
+					"left": {
+						"alias": "5_56_1"
+					},
+					"right": {
+						"alias": "5_61_1"
+					}
+				}
+			}
+		],
+		"translations": [
+			{
+				"key": "section.master",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Master device"
+					},
+					{
+						"lang": "ru",
+						"text": "Мастер"
+					}
+				]
+			},
+			{
+				"key": "section.sensor1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Sensor #1"
+					},
+					{
+						"lang": "ru",
+						"text": "Датчик #1"
+					}
+				]
+			},
+			{
+				"key": "section.sensor2",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Sensor #2"
+					},
+					{
+						"lang": "ru",
+						"text": "Датчик #2"
+					}
+				]
+			},
+			{
+				"key": "section.sensor3",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Sensor #3"
+					},
+					{
+						"lang": "ru",
+						"text": "Датчик #3"
+					}
+				]
+			},
+			{
+				"key": "subsection.master_static",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Properties"
+					},
+					{
+						"lang": "ru",
+						"text": "Свойства"
+					}
+				]
+			},
+			{
+				"key": "master.serial_number",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Serial Number (BLE)"
+					},
+					{
+						"lang": "ru",
+						"text": "Серийный номер (BLE)"
+					}
+				]
+			},
+			{
+				"key": "master.version",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Softvare version"
+					},
+					{
+						"lang": "ru",
+						"text": "Версия программы"
+					}
+				]
+			},
+			{
+				"key": "master.device_max",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Max device support"
+					},
+					{
+						"lang": "ru",
+						"text": "Максимально устройств"
+					}
+				]
+			},
+			{
+				"key": "master.reset_time",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Uptime"
+					},
+					{
+						"lang": "ru",
+						"text": "Время непрерывной работы"
+					}
+				]
+			},
+			{
+				"key": "subsection.master_dynamic",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Settings"
+					},
+					{
+						"lang": "ru",
+						"text": "Настройки"
+					}
+				]
+			},
+			{
+				"key": "subsection.sensor_static",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Properties"
+					},
+					{
+						"lang": "ru",
+						"text": "Свойства"
+					}
+				]
+			},
+			{
+				"key": "subsection.sensor_dynamic",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Settings"
+					},
+					{
+						"lang": "ru",
+						"text": "Настройки"
+					}
+				]
+			},
+			{
+				"key": "sensor.ble",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "BLE address"
+					},
+					{
+						"lang": "ru",
+						"text": "Адрес BLE"
+					}
+				]
+			},
+			{
+				"key": "sensor.level.top",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Maximum value"
+					},
+					{
+						"lang": "ru",
+						"text": "Максимальное значение"
+					}
+				]
+			},
+			{
+				"key": "sensor.level.bottom",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Minimum value"
+					},
+					{
+						"lang": "ru",
+						"text": "Минимальное значение"
+					}
+				]
+			},
+			{
+				"key": "sensor.cnt.max",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Counter full"
+					},
+					{
+						"lang": "ru",
+						"text": "Счетчик полного"
+					}
+				]
+			},
+			{
+				"key": "sensor.cnt.min",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Counter empty"
+					},
+					{
+						"lang": "ru",
+						"text": "Счетчик пустого"
+					}
+				]
+			},
+			{
+				"key": "sensor.network_address",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Network address"
+					},
+					{
+						"lang": "ru",
+						"text": "Сетевой адрес"
+					}
+				]
+			},
+			{
+				"key": "sensor.type",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Sensor type"
+					},
+					{
+						"lang": "ru",
+						"text": "Тип датчика"
+					}
+				]
+			},
+			{
+				"key": "sensor.filter.depth",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filtration depth"
+					},
+					{
+						"lang": "ru",
+						"text": "Глубина фильтрации"
+					}
+				]
+			},
+			{
+				"key": "dictionary.null",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Not specified"
+					},
+					{
+						"lang": "ru",
+						"text": "Не указан"
+					}
+				]
+			},
+			{
+				"key": "dictionary.lls",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "LLS"
+					},
+					{
+						"lang": "ru",
+						"text": "ДУТ"
+					}
+				]
+			},
+			{
+				"key": "dictionary.bridge",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Bridge"
+					},
+					{
+						"lang": "ru",
+						"text": "Мост"
+					}
+				]
+			},
+			{
+				"key": "dictionary.escort",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Escort"
+					},
+					{
+						"lang": "ru",
+						"text": "Эскорт"
+					}
+				]
+			},
+			{
+				"key": "dictionary.thermo",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Thermo"
+					},
+					{
+						"lang": "ru",
+						"text": "Термодатчик"
+					}
+				]
+			},
+			{
+				"key": "section.sensorother",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Other sensors"
+					},
+					{
+						"lang": "ru",
+						"text": "Другие датчики"
+					}
+				]
+			},
+			{
+				"key": "subsection.sensor_result",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Search Result for New Sensors"
+					},
+					{
+						"lang": "ru",
+						"text": "Результат поиска новых датчиков"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.string_regexp_key_1_4.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Wrong format"
+					},
+					{
+						"lang": "ru",
+						"text": "Неверный формат"
+					}
+				]
+			}
+		]
+	}
+}

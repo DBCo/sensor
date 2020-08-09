@@ -1,0 +1,3298 @@
+{
+  "ans": 1,
+  "msg": "ok",
+  "data": {
+    "id": "909f3962-e01a-4704-bcc8-d98205b3076c",
+    "sectionList": [
+      {
+        "id": "serverSettings",
+        "name": "Сервер мониторинга",
+        "subSectionList": [
+          {
+            "id": "serverSettings11",
+            "name": "Адрес и порт сервера 1",
+            "settingViewAliasList": [
+              "216_1_1",
+              "216_2_1"
+            ]
+          },
+          {
+            "id": "serverSettings12",
+            "name": "Адрес и порт сервера 2",
+            "settingViewAliasList": [
+              "216_3_1",
+              "216_4_1"
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": "packetStructure",
+        "name": "Структура пакета",
+        "subSectionList": [
+          {
+            "id": "packetStructure12",
+            "name": "Общие параметры",
+            "settingViewAliasList": [
+              "216_28_0",
+              "216_28_1",
+              "216_28_2",
+              "216_28_5",
+              "216_28_6",
+			  "216_28_3",
+              "216_28_4",
+              "216_28_7",
+              "216_28_8"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "trackSettings",
+        "name": "Построение маршрута",
+        "subSectionList": [
+          {
+            "id": "trackSettings11",
+            "name": "Отрисовка траектории",
+            "settingViewAliasList": [
+              "216_63_1",
+              "216_75_1",
+              "216_64_1",
+              "216_25_1"
+            ]
+          },
+          {
+            "id": "trackSettings12",
+            "name": "Отрисовка траектории в роуминге",
+            "settingViewAliasList": [
+              "216_120_1",
+              "216_122_1",
+              "216_121_1",
+              "216_119_1"
+            ]
+          },
+          {
+            "id": "trackSettings15",
+            "name": "Датчик движения",
+            "settingViewAliasList": [
+              "216_128_1",
+              "216_129_1"
+            ]
+          },
+          {
+            "id": "trackSettings13",
+            "name": "Заморозка координат",
+            "settingViewAliasList": [
+              "216_72_2",
+              "216_72_3",
+              "216_72_7"
+            ]
+          }
+        ]
+      },
+      
+	  
+	  
+	  
+	  
+	  
+	  
+      {
+        "id": "simSettings",
+        "name": "SIM карты",
+        "subSectionList": [
+          
+          {
+						"id": "simSettings12",
+						"name": "#1  SIM карта",
+						"settingViewAliasList": [
+							"216_72_8",
+						
+							"216_72_1",
+							"216_66_1",
+							"216_67_1",
+							"216_68_1",
+							"216_69_1"
+						]
+					},
+					{
+						"id": "simSettings13",
+						"name": "#2  SIM чип",
+						"settingViewAliasList": [
+							"216_72_9",
+						
+							"216_72_29",
+							"216_88_1",
+							"216_89_1",
+							"216_90_1",
+							"216_91_1"
+						]
+					}
+        ]
+      },
+	  
+	  
+	  {
+        "id": "mode",
+        "name": "Системные",
+        "subSectionList": [
+		  {
+            "id": "mode11",
+            "name": "Пароль устройства (SMS пароль)",
+            "settingViewAliasList": [
+             "216_5_1"
+              
+            ]
+          },
+		
+		
+          {
+            "id": "mode11",
+            "name": "Проверка настроек на WEB конфигураторе",
+            "settingViewAliasList": [
+             "216_72_0",
+             "216_62_1"
+              
+            ]
+          },
+        {
+            "id": "mode11",
+            "name": "Режим энергосбережения",
+            "settingViewAliasList": [
+              "216_11_1",
+              "216_26_1",
+              "216_12_1",
+              "216_72_4",
+              "216_72_5",
+              "216_72_6"
+              
+            ]
+          }
+		  ]
+      }
+	  
+	  
+    ],
+    "settingViewList": [
+      {
+        "alias": "216_1_1",
+        "type": "string",
+        "defaultValue": "ws.arusnavi.ru",
+        "setting": {
+          "number": 1,
+          "type": "string",
+          "length": "30"
+        },
+        "textAfter": "",
+        "textBefore": "DNS/IP"
+      },
+      {
+        "alias": "216_2_1",
+        "type": "int",
+        "defaultValue": "20382",
+        "setting": {
+          "number": 2,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "Порт"
+      },
+      {
+        "alias": "216_3_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 3,
+          "type": "string",
+          "length": "30"
+        },
+        "textAfter": "",
+        "textBefore": "DNS/IP"
+      },
+      {
+        "alias": "216_4_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 4,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "Порт"
+      },
+      {
+        "alias": "216_5_1",
+        "type": "string",
+        "defaultValue": "123456",
+        "setting": {
+          "number": 5,
+          "type": "string",
+          "length": "6"
+        },
+        "textAfter": "",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_8_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 8,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "Протокол"
+      },
+      {
+        "alias": "216_9_1",
+        "type": "dictionary",
+        "defaultValue": "1",
+        "setting": {
+          "number": 9,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "Протокол"
+      },
+      {
+        "alias": "216_10_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 10,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "Режим устройства"
+      },
+      {
+        "alias": "216_11_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 11,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "Режим сна"
+      },
+      {
+        "alias": "216_12_1",
+        "type": "int",
+        "defaultValue": "5",
+        "setting": {
+          "number": 12,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "минут",
+        "textBefore": "Время прибывания на связи"
+      },
+      {
+        "alias": "216_13_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 13,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "RS232/RS485"
+      },
+      {
+        "alias": "216_14_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 14,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "RS485 / RS232"
+      },
+      {
+        "alias": "216_15_1",
+        "type": "dictionary",
+        "defaultValue": "13",
+        "setting": {
+          "number": 15,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "EXT_PORT"
+      },
+         {
+        "alias": "216_16_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 16,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "IN0[-]/OUT0"
+      },
+      {
+        "alias": "216_17_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 17,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "IN1[-]/OUT1"
+      },
+      {
+        "alias": "216_18_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 18,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "IN2[+]"
+      },
+      {
+        "alias": "216_19_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 19,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "IN_3"
+      },
+      {
+        "alias": "216_20_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 20,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "IN_4"
+      },
+      {
+        "alias": "216_21_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 21,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "IN_5"
+      },
+      {
+        "alias": "216_22_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 22,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "IN_6"
+      },
+      {
+        "alias": "216_23_1",
+        "type": "dictionary",
+        "defaultValue": "30",
+        "setting": {
+          "number": 23,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "1-WIRE"
+      },
+      {
+        "alias": "216_24_1",
+        "type": "int",
+        "defaultValue": "240",
+        "setting": {
+          "number": 24,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_25_1",
+        "type": "int",
+        "defaultValue": "150",
+        "setting": {
+          "number": 25,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "секунд (10-65535)",
+        "textBefore": "Интервал при стоянке"
+      },
+      {
+        "alias": "216_26_1",
+        "type": "int",
+        "defaultValue": "360",
+        "setting": {
+          "number": 26,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "минут",
+        "textBefore": "Выходить на связь каждые"
+      },
+      {
+        "alias": "216_27_1",
+        "type": "int",
+        "defaultValue": "10500",
+        "setting": {
+          "number": 27,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "мВ",
+        "textBefore": "Напряжении питания меньше"
+      },
+      {
+        "alias": "216_32_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 32,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "1"
+      },
+      {
+        "alias": "216_33_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 33,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "2"
+      },
+      {
+        "alias": "216_34_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 34,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "3"
+      },
+      {
+        "alias": "216_35_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 35,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "4"
+      },
+      {
+        "alias": "216_36_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 36,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "5"
+      },
+      {
+        "alias": "216_37_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 37,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "6"
+      },
+      {
+        "alias": "216_38_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 38,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "7"
+      },
+      {
+        "alias": "216_39_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 39,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "8"
+      },
+      {
+        "alias": "216_40_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 40,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "9"
+      },
+      {
+        "alias": "216_41_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 41,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "10"
+      },
+      {
+        "alias": "216_42_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 42,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_43_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 43,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_44_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 44,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "IN_7"
+      },
+      {
+        "alias": "216_45_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 45,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "IN_8"
+      },
+      {
+        "alias": "216_46_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 46,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "IN_9"
+      },
+      {
+        "alias": "216_47_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 47,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "IN_10"
+      },
+      {
+        "alias": "216_48_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 48,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "IN_11"
+      },
+      {
+        "alias": "216_49_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 49,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_50_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 50,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_51_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 51,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "(1-65535)",
+        "textBefore": "Номер программы внешнего CAN модуля"
+      },
+      {
+        "alias": "216_52_1",
+        "type": "string",
+        "defaultValue": "0",
+        "setting": {
+          "number": 52,
+          "type": "string",
+          "length": "15"
+        },
+        "widget": "tuple_52",
+        "textAfter": "",
+        "textBefore": "номер в международном формате"
+      },
+      {
+        "alias": "216_53_1",
+        "type": "string",
+        "defaultValue": "0",
+        "setting": {
+          "number": 53,
+          "type": "string",
+          "length": "15"
+        },
+        "widget": "tuple_53",
+        "textAfter": "",
+        "textBefore": "номер в международном формате"
+      },
+      {
+        "alias": "216_54_1",
+        "type": "string",
+        "defaultValue": "0",
+        "setting": {
+          "number": 54,
+          "type": "string",
+          "length": "12"
+        },
+        "widget": "tuple_54",
+        "textAfter": "",
+        "textBefore": "номер в международном формате"
+      },
+      {
+        "alias": "216_55_1",
+        "type": "string",
+        "defaultValue": "0",
+        "setting": {
+          "number": 55,
+          "type": "string",
+          "length": "15"
+        },
+        "widget": "tuple_55",
+        "textAfter": "",
+        "textBefore": "номер в международном формате"
+      },
+      {
+        "alias": "216_56_1",
+        "type": "string",
+        "defaultValue": "0",
+        "setting": {
+          "number": 56,
+          "type": "string",
+          "length": "15"
+        },
+        "widget": "tuple_56",
+        "textAfter": "",
+        "textBefore": "номер в международном формате"
+      },
+      {
+        "alias": "216_57_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 57,
+          "type": "int",
+          "length": "1"
+        },
+        "widget": "tuple_52",
+        "textAfter": "",
+        "textBefore": "режим"
+      },
+      {
+        "alias": "216_58_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 58,
+          "type": "int",
+          "length": "1"
+        },
+        "widget": "tuple_53",
+        "textAfter": "",
+        "textBefore": "режим"
+      },
+      {
+        "alias": "216_59_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 59,
+          "type": "int",
+          "length": "1"
+        },
+        "widget": "tuple_54",
+        "textAfter": "",
+        "textBefore": "режим"
+      },
+      {
+        "alias": "216_60_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 60,
+          "type": "int",
+          "length": "1"
+        },
+        "widget": "tuple_55",
+        "textAfter": "",
+        "textBefore": "режим"
+      },
+      {
+        "alias": "216_61_1",
+        "type": "dictionary",
+        "defaultValue": "0",
+        "setting": {
+          "number": 61,
+          "type": "int",
+          "length": "1"
+        },
+        "widget": "tuple_56",
+        "textAfter": "",
+        "textBefore": "режим"
+      },
+      {
+        "alias": "216_62_1",
+        "type": "int",
+        "defaultValue": "7200",
+        "setting": {
+          "number": 62,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "часов",
+        "textBefore": "Каждые"
+      },
+      {
+        "alias": "216_63_1",
+        "type": "int",
+        "defaultValue": "18",
+        "setting": {
+          "number": 63,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "градусов (3-255)",
+        "textBefore": "При изменении курса на"
+      },
+      {
+        "alias": "216_64_1",
+        "type": "int",
+        "defaultValue": "1000",
+        "setting": {
+          "number": 64,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "метров (1-65535)",
+        "textBefore": "Не реже, чем каждые"
+      },
+      {
+        "alias": "216_65_1",
+        "type": "int",
+        "defaultValue": "2",
+        "setting": {
+          "number": 65,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "секунд (10-65535)",
+        "textBefore": "Не чаще, чем каждые"
+      },
+      {
+        "alias": "216_66_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 66,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "(0000-9999)",
+        "textBefore": "Введите PIN код"
+      },
+      {
+        "alias": "216_67_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 67,
+          "type": "string",
+          "length": "30"
+        },
+        "textAfter": "",
+        "textBefore": "APN оператора"
+      },
+      {
+        "alias": "216_68_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 68,
+          "type": "string",
+          "length": "20"
+        },
+        "textAfter": "",
+        "textBefore": "Логин для APN"
+      },
+      {
+        "alias": "216_69_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 69,
+          "type": "string",
+          "length": "20"
+        },
+        "textAfter": "",
+        "textBefore": "Пароль для APN"
+      },
+      {
+        "alias": "216_70_1",
+        "type": "string",
+        "defaultValue": "ws.arusnavi.ru",
+        "setting": {
+          "number": 70,
+          "type": "string",
+          "length": "30"
+        },
+        "textAfter": "",
+        "textBefore": "DNS/IP"
+      },
+      {
+        "alias": "216_71_1",
+        "type": "int",
+        "defaultValue": "8080",
+        "setting": {
+          "number": 71,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "Порт"
+      },
+      {
+        "alias": "216_73_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 73,
+          "type": "int",
+          "length": "4"
+        },
+        "textAfter": "",
+        "textBefore": "ID(SN) для сервера"
+      },
+      {
+        "alias": "216_74_1",
+        "type": "string",
+        "defaultValue": "0",
+        "setting": {
+          "number": 74,
+          "type": "string",
+          "length": "8"
+        },
+        "textAfter": "",
+        "textBefore": "Пароль для сервера"
+      },
+      {
+        "alias": "216_75_1",
+        "type": "int",
+        "defaultValue": "50",
+        "setting": {
+          "number": 75,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "км/ч (3-255)",
+        "textBefore": "При изменении скорости на"
+      },
+      {
+        "alias": "216_76_1",
+        "type": "int",
+        "defaultValue": "",
+        "setting": {
+          "number": 76,
+          "type": "int",
+          "length": "4"
+        },
+        "textAfter": "",
+        "textBefore": "ID(SN) для сервера"
+      },
+      {
+        "alias": "216_77_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 77,
+          "type": "string",
+          "length": "8"
+        },
+        "textAfter": "",
+        "textBefore": "Пароль для сервера"
+      },
+      {
+        "alias": "216_83_1",
+        "type": "int",
+        "defaultValue": "75",
+        "setting": {
+          "number": 83,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "Уровень громкости динамика"
+      },
+      {
+        "alias": "216_84_1",
+        "type": "int",
+        "defaultValue": "10",
+        "setting": {
+          "number": 84,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "(0-15)",
+        "textBefore": "Уровень чувствительности микрофона"
+      },
+      {
+        "alias": "216_88_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 88,
+          "type": "int",
+          "length": "2"
+        },
+         "textAfter": "(0000-9999)",
+        "textBefore": "Введите PIN код"
+      },
+      {
+        "alias": "216_89_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 89,
+          "type": "string",
+          "length": "30"
+        },
+        "textAfter": "",
+        "textBefore": "APN оператора"
+      },
+      {
+        "alias": "216_90_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 90,
+          "type": "string",
+          "length": "20"
+        },
+        "textAfter": "",
+        "textBefore": "Логин для APN"
+      },
+      {
+        "alias": "216_91_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 91,
+          "type": "string",
+          "length": "20"
+        },
+        "textAfter": "",
+        "textBefore": "Пароль для APN"
+      },
+	  
+	    {
+        "alias": "216_104_1",
+        "type": "int",
+        "defaultValue": "5000",
+        "setting": {
+          "number": 104,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "мВ",
+        "textBefore": "Порог аналогового входа в дискретном режиме"
+      },
+	  
+      {
+        "alias": "216_106_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 106,
+          "type": "string",
+          "length": "15"
+        },
+        "textAfter": "",
+        "textBefore": "Wifi ap name"
+      },
+      {
+        "alias": "216_107_1",
+        "type": "string",
+        "defaultValue": "",
+        "setting": {
+          "number": 107,
+          "type": "string",
+          "length": "15"
+        },
+        "textAfter": "",
+        "textBefore": "Wifi ap password"
+      },
+      {
+        "alias": "216_115_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 115,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "(0-50)",
+        "textBefore": "Степень фильтрации LLS 1"
+      },
+      {
+        "alias": "216_116_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 116,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "(0-50)",
+        "textBefore": "Степень фильтрации LLS 2"
+      },
+      {
+        "alias": "216_117_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 117,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "(0-50)",
+        "textBefore": "Степень фильтрации LLS 3"
+      },
+      {
+        "alias": "216_118_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 118,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "(0-50)",
+        "textBefore": "Степень фильтрации LLS 4"
+      },
+      {
+        "alias": "216_119_1",
+        "type": "int",
+        "defaultValue": "300",
+        "setting": {
+          "number": 119,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "секунд",
+        "textBefore": "Интервал при стоянке"
+      },
+      {
+        "alias": "216_120_1",
+        "type": "int",
+        "defaultValue": "18",
+        "setting": {
+          "number": 120,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "градусов (3-255)",
+        "textBefore": "При изменении курса на"
+      },
+      {
+        "alias": "216_121_1",
+        "type": "int",
+        "defaultValue": "1000",
+        "setting": {
+          "number": 121,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "метров (1-65535)",
+        "textBefore": "Не реже, чем каждые"
+      },
+      {
+        "alias": "216_122_1",
+        "type": "int",
+        "defaultValue": "50",
+        "setting": {
+          "number": 122,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "км/ч (3-255)",
+        "textBefore": "При изменении скорости на"
+      },
+      {
+        "alias": "216_123_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 123,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "Интервал выборки точек, сек"
+      },
+      {
+        "alias": "216_124_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 124,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "Кол-во байт за одну сессию, байт"
+      },
+      {
+        "alias": "216_125_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 125,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "Интервал выборки точек, сек"
+      },
+      {
+        "alias": "216_126_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 126,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "",
+        "textBefore": "Кол-во байт за одну сессию, байт"
+      },
+      {
+        "alias": "216_127_1",
+        "type": "int",
+        "defaultValue": "255",
+        "setting": {
+          "number": 127,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "км/ч",
+        "textBefore": "Срабатывание выхода по скорости"
+      },
+      {
+        "alias": "216_128_1",
+        "type": "int",
+        "defaultValue": "10",
+        "setting": {
+          "number": 128,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "Чувствительность"
+      },
+      {
+        "alias": "216_129_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 129,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "секунд",
+        "textBefore": "Задержка срабатывания"
+      },
+      {
+        "alias": "216_133_1",
+        "type": "int",
+        "defaultValue": "0",
+        "setting": {
+          "number": 133,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "минут",
+        "textBefore": "Интервал фотоснимков"
+      },
+      {
+        "alias": "216_134_1",
+        "type": "dictionary",
+        "defaultValue": "1",
+        "setting": {
+          "number": 134,
+          "type": "int",
+          "length": "1"
+        },
+        "textAfter": "",
+        "textBefore": "Разрешение фотоснимков"
+      },
+	  
+	   {
+        "alias": "216_137_1",
+        "type": "int",
+        "defaultValue": "13000",
+        "setting": {
+          "number": 137,
+          "type": "int",
+          "length": "2"
+        },
+        "textAfter": "мВ",
+        "textBefore": "Порог срабатывания виртуального зажигания"
+      },
+	  
+	  
+	  
+	  
+      {
+        "alias": "216_72_0",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 0,
+        "textAfter": "При каждом старте",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_1",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 1,
+        "textAfter": "Активировать PIN код карты",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_2",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 2,
+        "textAfter": "при скорости <2 км/час",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_3",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 3,
+        "textAfter": "по датчику движения",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_4",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 4,
+        "textAfter": "Выходить из сна по датчику движения",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_5",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 5,
+        "textAfter": "Выходить из сна при изменении входа(входов)",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_6",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 6,
+        "textAfter": "Не переходить в сон при движении (по датчику движения)",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_7",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 7,
+        "textAfter": "по зажиганию",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_8",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 8,
+        "textAfter": "Роуминг разрешен",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_9",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 9,
+        "textAfter": "Роуминг разрешен",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_18",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 18,
+        "textAfter": "Фильтровать значения с датчиков",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_19",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 19,
+        "textAfter": "Фильтровать значения с датчиков",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_72_29",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 72,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 29,
+        "textAfter": "Активировать PIN код карты",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_0",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 0,
+        "textAfter": "Навигация: широта, долгота",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_1",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 1,
+        "textAfter": "Навигация: скорость, высота, спутники, курс",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_2",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 2,
+        "textAfter": "Навигация: погрешность HDOP",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_3",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 3,
+        "textAfter": "Системные: ошибки, статусы, прочее",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_4",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 4,
+        "textAfter": "Системные: входы/выводы, статусы модулей",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_5",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 5,
+        "textAfter": "GSM модем: уровень сигнала, параметры оператора",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_6",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 6,
+        "textAfter": "GSM модем: параметры базовой станции (LAC, CIID)",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_7",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 7,
+        "textAfter": "Системные: внешнее и внутренее напряжение, мВ",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_8",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 8,
+        "textAfter": "Системные: передача данных с акселерометра",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_20",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 20,
+        "textAfter": "Статусы работы",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_21",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 21,
+        "textAfter": "Полное время работы двигателя",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_22",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 22,
+        "textAfter": "Полный пробег транспортного средства",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_23",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 23,
+        "textAfter": "Полный расход топлива",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_24",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 24,
+        "textAfter": "Уровень топлива в баке",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_25",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 25,
+        "textAfter": "Скорость оборотов двигателя",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_26",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 26,
+        "textAfter": "Температура двигателя",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_27",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 27,
+        "textAfter": "Скорость тр средства",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_28",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 28,
+        "textAfter": "Давление на оси",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_29",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 29,
+        "textAfter": "Контроллеры аварии",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_30",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 30,
+        "textAfter": "Моментальный расход",
+        "textBefore": ""
+      },
+      {
+        "alias": "216_28_31",
+        "type": "flag",
+        "defaultValue": "1",
+        "setting": {
+          "number": 28,
+          "type": "int",
+          "length": "4"
+        },
+        "bit": 31,
+        "textAfter": "Уровень AdBlue",
+        "textBefore": ""
+      },
+	  {
+				"alias": "216_78_1",
+				"type": "string",
+				"defaultValue": "",
+				"setting": {
+					"number": 78,
+					"type": "string",
+					"length": "10"
+				},
+				"textAfter": "",
+				"textBefore": "USSD запрос баланса"
+			},
+			{
+				"alias": "216_79_1",
+				"type": "string",
+				"defaultValue": "",
+				"setting": {
+					"number": 79,
+					"type": "string",
+					"length": "10"
+				},
+				"textAfter": "",
+				"textBefore": "USSD запрос баланса"
+			},
+			{
+				"alias": "216_81_1",
+				"type": "int",
+				"defaultValue": "12",
+				"setting": {
+					"number": 81,
+					"type": "int",
+					"length": "2"
+				},
+				"max": 65525,
+				"min": 0,
+				"step": 1,
+				"textAfter": "час",
+				"textBefore": "Запрашивать каждый"
+			},
+			{
+				"alias": "216_82_1",
+				"type": "int",
+				"defaultValue": "12",
+				"setting": {
+					"number": 82,
+					"type": "int",
+					"length": "2"
+				},
+				"max": 65525,
+				"min": 0,
+				"step": 1,
+				"textAfter": "час",
+				"textBefore": "Запрашивать каждый"
+			}
+    ],
+    "settingDictionaryList": [
+      {
+        "settingId": 63,
+        "settingView": "216_8_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "INTERNAL"
+          },
+          {
+            "number": 1,
+            "name": "EXTERNAL"
+          },
+          {
+            "number": 4,
+            "name": "EGTS"
+          }
+        ]
+      },
+      {
+        "settingId": 64,
+        "settingView": "216_9_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "INTERNAL"
+          },
+          {
+            "number": 1,
+            "name": "EXTERNAL"
+          },
+          {
+            "number": 4,
+            "name": "EGTS"
+          }
+        ]
+      },
+      {
+        "settingId": 65,
+        "settingView": "216_10_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "monitoring"
+          },
+          {
+            "number": 1,
+            "name": "security"
+          }
+        ]
+      },
+      {
+        "settingId": 66,
+        "settingView": "216_11_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "не используется"
+          },
+          {
+            "number": 1,
+            "name": "выключить GPS"
+          },
+
+          {
+            "number": 3,
+            "name": "глубокий сон"
+          }
+        ]
+      },
+      {
+        "settingId": 68,
+        "settingView": "216_13_1",
+        "items": []
+      },
+      {
+        "settingId": 69,
+        "settingView": "216_14_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "не используется"
+          },
+          {
+            "number": 2,
+            "name": "CANlog текстовый протокол"
+          },
+          {
+            "number": 51,
+            "name": "CANlog бинарный протокол"
+          },
+          {
+            "number": 5,
+            "name": "протокол ДУТ Omnicomm LLS"
+          },
+          {
+            "number": 14,
+            "name": "фотокамера VC0607"
+          },
+          {
+            "number": 39,
+            "name": "фотокамера ZM"
+          }
+        ]
+      },
+      {
+        "settingId": 70,
+        "settingView": "216_15_1",
+        "items": []
+      },
+      {
+        "settingId": 71,
+        "settingView": "216_16_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "не используется"
+          },
+         
+          {
+            "number": 4,
+            "name": "вход - дискретный"
+          },
+          {
+            "number": 6,
+            "name": "вход - импульсный"
+          },
+		  
+		  {
+            "number": 21,
+            "name": "вход - импульсный ненулевой"
+          },
+		  
+          {
+            "number": 7,
+            "name": "вход - частотный"
+          },
+          {
+            "number": 19,
+            "name": "вход - контроль массы"
+          },
+		  
+		   {
+            "number": 1,
+            "name": "выход - режим 1 (вкл/выкл)"
+          },
+          {
+            "number": 2,
+            "name": "выход - режим 2 (индикация)"
+          },
+		  
+		  
+          {
+            "number": 20,
+            "name": "выход - деактивация по ключу"
+          },
+        
+          {
+            "number": 22,
+            "name": "выход - по скорости"
+          },
+          {
+            "number": 23,
+            "name": "выход - безопасная блокировка"
+          }
+  
+        ]
+      },
+      {
+        "settingId": 72,
+        "settingView": "216_17_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "не используется"
+          },
+         
+          {
+            "number": 4,
+            "name": "вход - дискретный"
+          },
+          {
+            "number": 6,
+            "name": "вход - импульсный"
+          },
+		  
+		  {
+            "number": 21,
+            "name": "вход - импульсный ненулевой"
+          },
+		  
+          {
+            "number": 7,
+            "name": "вход - частотный"
+          },
+        
+		  
+		   {
+            "number": 1,
+            "name": "выход - режим 1 (вкл/выкл)"
+          },
+          {
+            "number": 2,
+            "name": "выход - режим 2 (индикация)"
+          },
+		  
+		  
+          {
+            "number": 20,
+            "name": "выход - деактивация по ключу"
+          },
+        
+          {
+            "number": 22,
+            "name": "выход - по скорости"
+          },
+          {
+            "number": 23,
+            "name": "выход - безопасная блокировка"
+          }
+  
+        ]
+      },
+      {
+        "settingId": 73,
+        "settingView": "216_18_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "не используется"
+          },
+          {
+            "number": 4,
+            "name": "вход - дискретный"
+          },
+          {
+            "number": 6,
+            "name": "вход - импульсный"
+          },
+          {
+            "number": 8,
+            "name": "вход - измерение напряжения"
+          }
+        ]
+      },
+      {
+        "settingId": 74,
+        "settingView": "216_19_1",
+        "items": []
+      },
+      {
+        "settingId": 75,
+        "settingView": "216_20_1",
+        "items": []
+      },
+      {
+        "settingId": 76,
+        "settingView": "216_21_1",
+        "items": []
+      },
+      {
+        "settingId": 77,
+        "settingView": "216_22_1",
+        "items": []
+      },
+      {
+        "settingId": 78,
+        "settingView": "216_23_1",
+        "items": [
+		{
+            "number": 0,
+            "name": "не используется"
+          },
+          {
+            "number": 29,
+            "name": "вход - дисретный"
+          },
+          {
+            "number": 30,
+            "name": "режим - 1-wire"
+          }
+        ]
+      },
+      {
+        "settingId": 110,
+        "settingView": "216_57_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "информационное SMS"
+          },
+          {
+            "number": 1,
+            "name": "SMS с картой"
+          },
+  
+          {
+            "number": 3,
+            "name": "включить микрофон"
+          },
+          {
+            "number": 4,
+            "name": "перезагрузка устройства"
+          },
+          {
+            "number": 5,
+            "name": "Обновить ПО"
+          },
+          {
+            "number": 6,
+            "name": "обновить настройки"
+          },
+          {
+            "number": 7,
+            "name": "не используется"
+          }
+        ]
+      },
+      {
+        "settingId": 111,
+        "settingView": "216_58_1",
+        "items": [
+                {
+            "number": 0,
+            "name": "информационное SMS"
+          },
+          {
+            "number": 1,
+            "name": "SMS с картой"
+          },
+          {
+            "number": 3,
+            "name": "включить микрофон"
+          },
+          {
+            "number": 4,
+            "name": "перезагрузка устройства"
+          },
+          {
+            "number": 5,
+            "name": "Обновить ПО"
+          },
+          {
+            "number": 6,
+            "name": "обновить настройки"
+          },
+          {
+            "number": 7,
+            "name": "не используется"
+          }
+        ]
+      },
+      {
+        "settingId": 112,
+        "settingView": "216_59_1",
+        "items": [
+               {
+            "number": 0,
+            "name": "информационное SMS"
+          },
+          {
+            "number": 1,
+            "name": "SMS с картой"
+          },
+
+          {
+            "number": 3,
+            "name": "включить микрофон"
+          },
+          {
+            "number": 4,
+            "name": "перезагрузка устройства"
+          },
+          {
+            "number": 5,
+            "name": "Обновить ПО"
+          },
+          {
+            "number": 6,
+            "name": "обновить настройки"
+          },
+          {
+            "number": 7,
+            "name": "не используется"
+          }
+        ]
+      },
+      {
+        "settingId": 113,
+        "settingView": "216_60_1",
+        "items": [
+                {
+            "number": 0,
+            "name": "информационное SMS"
+          },
+          {
+            "number": 1,
+            "name": "SMS с картой"
+          },
+
+          {
+            "number": 3,
+            "name": "включить микрофон"
+          },
+          {
+            "number": 4,
+            "name": "перезагрузка устройства"
+          },
+          {
+            "number": 5,
+            "name": "Обновить ПО"
+          },
+          {
+            "number": 6,
+            "name": "обновить настройки"
+          },
+          {
+            "number": 7,
+            "name": "не используется"
+          }
+        ]
+      },
+      {
+        "settingId": 114,
+        "settingView": "216_61_1",
+        "items": [
+               {
+            "number": 0,
+            "name": "информационное SMS"
+          },
+          {
+            "number": 1,
+            "name": "SMS с картой"
+          },
+   
+          {
+            "number": 3,
+            "name": "включить микрофон"
+          },
+          {
+            "number": 4,
+            "name": "перезагрузка устройства"
+          },
+          {
+            "number": 5,
+            "name": "Обновить ПО"
+          },
+          {
+            "number": 6,
+            "name": "обновить настройки"
+          },
+          {
+            "number": 7,
+            "name": "не используется"
+          }
+        ]
+      },
+      {
+        "settingId": 163,
+        "settingView": "216_134_1",
+        "items": [
+          {
+            "number": 0,
+            "name": "120x160"
+          },
+          {
+            "number": 1,
+            "name": "320x240"
+          }
+        ]
+      }
+    ],
+    "settingValidationRuleList": [
+      {
+        "setting_view_alias": "216_1_1",
+        "rules": [
+          {
+            "type": "dns_ip",
+            "properties": {
+              "message": "неверный dns/ip"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_2_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 1
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_3_1",
+        "rules": [
+          {
+            "type": "dns_ip",
+            "properties": {
+              "message": "неверный dns/ip"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_4_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 1
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_5_1",
+        "rules": [
+          {
+            "type": "regexp",
+            "properties": {
+              "regexp": "^[a-zA-Z0-9.,-]*?$",
+              "message": "Допустимы только цифры латинские буквы символы .,-"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_8_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_9_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_10_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_11_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_12_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 250,
+              "min": 2
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_13_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_14_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_15_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_16_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_17_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_18_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_19_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_20_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_21_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_22_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_23_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_24_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_25_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 10
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_26_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 10
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_27_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 10
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_32_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_33_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_34_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_35_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_36_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_37_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_38_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_39_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_40_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_41_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_42_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_43_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_44_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_45_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_46_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_47_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_48_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_49_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_50_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_51_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 99999,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_52_1",
+        "rules": [
+          {
+            "type": "regexp",
+            "properties": {
+              "regexp": "^[0-9+]{3,13}$",
+              "message": "Пожалуйста, введите 3-12 цифр"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_53_1",
+        "rules": [
+          {
+            "type": "regexp",
+            "properties": {
+              "regexp": "^[0-9+]{3,13}$",
+              "message": "Пожалуйста, введите 3-12 цифр"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_54_1",
+        "rules": [
+          {
+            "type": "regexp",
+            "properties": {
+              "regexp": "^[0-9+]{3,13}$",
+              "message": "Пожалуйста, введите 3-12 цифр"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_55_1",
+        "rules": [
+          {
+            "type": "regexp",
+            "properties": {
+              "regexp": "^[0-9+]{3,13}$",
+              "message": "Пожалуйста, введите 3-12 цифр"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_56_1",
+        "rules": [
+          {
+            "type": "regexp",
+            "properties": {
+              "regexp": "^[0-9+]{3,13}$",
+              "message": "Пожалуйста, введите 3-12 цифр"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_57_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_58_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_59_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_60_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_61_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_62_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 32767,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_63_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 255,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_64_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_65_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 255,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_66_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 9999,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_67_1",
+        "rules": [
+          {
+            "type": "maxlength",
+            "properties": {
+              "value": 30
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_68_1",
+        "rules": [
+          {
+            "type": "maxlength",
+            "properties": {
+              "value": 20
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_69_1",
+        "rules": [
+          {
+            "type": "maxlength",
+            "properties": {
+              "value": 20
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_70_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_71_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_73_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 4294967295,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_74_1",
+        "rules": [
+          {
+            "type": "regexp",
+            "properties": {
+              "regexp": "^[a-zA-Z0-9]+$",
+              "message": "Неверный формат"
+            }
+          },
+          {
+            "type": "regexp",
+            "properties": {
+              "regexp": "^[a-zA-Z0-9.,-]*?$",
+              "message": "Допустимы только цифры латинские буквы символы .,-"
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_75_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 255,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_76_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_77_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_83_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 100,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_84_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 15,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_88_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 9999,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_89_1",
+        "rules": [
+          {
+            "type": "maxlength",
+            "properties": {
+              "value": 30
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_90_1",
+        "rules": [
+          {
+            "type": "maxlength",
+            "properties": {
+              "value": 20
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_91_1",
+        "rules": [
+          {
+            "type": "maxlength",
+            "properties": {
+              "value": 20
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_106_1",
+        "rules": [
+          {
+            "type": "maxlength",
+            "properties": {
+              "value": 15
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_107_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_115_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_116_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_117_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_118_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_119_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 10
+            }
+          },
+          {
+            "type": "number",
+            "properties": {
+              "max": 255,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_120_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 255,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_121_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_122_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 255,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_123_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_124_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_125_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_126_1",
+        "rules": [
+          {
+            "type": "number",
+            "properties": {
+              "max": 65535,
+              "min": 0
+            }
+          }
+        ]
+      },
+      {
+        "setting_view_alias": "216_127_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_128_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_129_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_133_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_134_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_0",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_2",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_3",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_4",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_5",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_6",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_7",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_8",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_9",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_18",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_19",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_72_29",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_0",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_1",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_2",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_3",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_4",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_5",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_6",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_7",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_8",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_20",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_21",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_22",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_23",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_24",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_25",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_26",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_27",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_28",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_29",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_30",
+        "rules": []
+      },
+      {
+        "setting_view_alias": "216_28_31",
+        "rules": []
+      },
+	  
+	  
+	        {
+				"setting_view_alias": "216_78_1",
+				"rules": [
+					{
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9\\*#]*?$",
+							"message": "Допустимы только цифры и символы *#"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "216_79_1",
+				"rules": [
+					{
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9\\*#]*?$",
+							"message": "Допустимы только цифры и символы *#"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "216_81_1",
+				"rules": [
+					{
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "216_82_1",
+				"rules": [
+					{
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			}
+	  
+    ],
+    "widgetList": [
+      {
+        "name": "tuple_52",
+        "type": "tuple",
+        "subSectionId": "phoneNumbers11",
+        "settingList": {
+          "left": {
+            "alias": "216_52_1"
+          },
+          "right": {
+            "alias": "216_57_1"
+          }
+        }
+      },
+      {
+        "name": "tuple_53",
+        "type": "tuple",
+        "subSectionId": "phoneNumbers12",
+        "settingList": {
+          "left": {
+            "alias": "216_53_1"
+          },
+          "right": {
+            "alias": "216_58_1"
+          }
+        }
+      },
+      {
+        "name": "tuple_54",
+        "type": "tuple",
+        "subSectionId": "phoneNumbers13",
+        "settingList": {
+          "left": {
+            "alias": "216_54_1"
+          },
+          "right": {
+            "alias": "216_59_1"
+          }
+        }
+      },
+      {
+        "name": "tuple_55",
+        "type": "tuple",
+        "subSectionId": "phoneNumbers14",
+        "settingList": {
+          "left": {
+            "alias": "216_55_1"
+          },
+          "right": {
+            "alias": "216_60_1"
+          }
+        }
+      },
+      {
+        "name": "tuple_56",
+        "type": "tuple",
+        "subSectionId": "phoneNumbers15",
+        "settingList": {
+          "left": {
+            "alias": "216_56_1"
+          },
+          "right": {
+            "alias": "216_61_1"
+          }
+        }
+      }
+    ]
+  }
+}

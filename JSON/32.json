@@ -1,0 +1,6309 @@
+{
+	"data": {
+		"id": "909f3962-e01a-4704-bcc8-d98205b3076c",
+		"uuid": "909f3962-e01a-4704-bcc8-d98205b3076c",
+		"createdAt": "2020-03-04T00:00:00+03:00",
+		"sectionList": [
+			{
+				"id": "serverSettings",
+				"name": "section.server_monitoring-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "serverSettings11",
+						"name": "subsection.server_and_port1-32-1581595459",
+						"settingViewAliasList": [
+							"32_1_1",
+							"32_2_1",
+							"32_9_1",
+							"32_73_1",
+							"32_74_1"
+						]
+					},
+					{
+						"id": "serverSettings12",
+						"name": "subsection.server_and_port2-32-1581595459",
+						"settingViewAliasList": [
+							"32_3_1",
+							"32_4_1",
+							"32_8_1",
+							"32_76_1",
+							"32_77_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "packetStructure1",
+				"name": "section.package_structure-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "packetStructure12",
+						"name": "subsection.common_parameters-32-1581595459",
+						"settingViewAliasList": [
+							"32_139_0",
+							"32_139_1",
+							"32_139_2",
+							"32_139_5",
+							"32_139_6",
+							"32_139_3",
+							"32_139_4",
+							"32_139_7"
+						]
+					},
+					{
+						"id": "packetStructure13",
+						"name": "subsection.can_bus_data-32-1581595459",
+						"settingViewAliasList": [
+							"32_139_20",
+							"32_139_21",
+							"32_139_22",
+							"32_139_23",
+							"32_139_24",
+							"32_139_25",
+							"32_139_26",
+							"32_139_27",
+							"32_139_28",
+							"32_139_29",
+							"32_139_30",
+							"32_139_31"
+						]
+					}
+				]
+			},
+			{
+				"id": "packetStructure2",
+				"name": "section.tags_iridium-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "packetStructure24",
+						"name": "subsection.tags_iridium-32-1581595459",
+						"settingViewAliasList": [
+							"32_20_1",
+							"32_21_1",
+							"32_22_1",
+							"32_23_1",
+							"32_24_1",
+							"32_25_1",
+							"32_26_1",
+							"32_27_1",
+							"32_28_1",
+							"32_29_1",
+							"32_30_1",
+							"32_31_1",
+							"32_32_1",
+							"32_33_1",
+							"32_34_1",
+							"32_35_1",
+							"32_36_1",
+							"32_37_1",
+							"32_38_1",
+							"32_39_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "packetStructure3",
+				"name": "section.event_iridium-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "packetStructure34",
+						"name": "subsection.event_iridium-32-1581595459",
+						"settingViewAliasList": [
+							"32_80_1",
+							"32_81_1",
+							"32_82_1",
+							"32_83_1",
+							"32_84_1",
+							"32_85_1",
+							"32_86_1",
+							"32_87_1",
+							"32_88_1",
+							"32_89_1",
+							"32_90_1",
+							"32_91_1",
+							"32_92_1",
+							"32_93_1",
+							"32_94_1",
+							"32_95_1",
+							"32_96_1",
+							"32_97_1",
+							"32_98_1",
+							"32_99_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "packetStructure4",
+				"name": "section.settings_wifi-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "packetStructure43",
+						"name": "subsection.name_wifi-32-1581595459",
+						"settingViewAliasList": [
+							"32_6_1",
+							"32_7_1"
+						]
+					},
+					{
+						"id": "packetStructure44",
+						"name": "subsection.add_wifi-32-1581595459",
+						"settingViewAliasList": [
+							"32_140_1",
+							"32_72_10"
+						]
+					}
+				]
+			},
+			{
+				"id": "trackSettings",
+				"name": "section.route_building-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "trackSettings11",
+						"name": "subsection.drawing_a_trajectory-32-1581595459",
+						"settingViewAliasList": [
+							"32_79_1",
+							"32_75_1",
+							"32_144_1",
+							"32_137_1"
+						]
+					},
+					{
+						"id": "trackSettings15",
+						"name": "subsection.motion_sensor-32-1581595459",
+						"settingViewAliasList": [
+							"32_142_1",
+							"32_143_1"
+						]
+					},
+					{
+						"id": "trackSettings16",
+						"name": "subsection.coordinate_freezing-32-1581595459",
+						"settingViewAliasList": [
+							"32_72_2",
+							"32_72_3",
+							"32_72_7"
+						]
+					}
+				]
+			},
+			{
+				"id": "ioSettings",
+				"name": "section.digital_and_digital_inputs-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "ioSettings11",
+						"name": "subsection.discrete-32-1581595459",
+						"settingViewAliasList": [
+							"32_16_1",
+							"32_17_1",
+							"32_18_1",
+							"32_141_1",
+							"32_132_1",
+							"32_131_1"
+						]
+					},
+					{
+						"id": "ioSettings12",
+						"name": "subsection.digital-32-1581595459",
+						"settingViewAliasList": [
+							"32_14_1",
+							"32_15_1",
+							"32_10_1",
+							"32_133_1",
+							"32_134_1",
+							"32_135_1",
+							"32_136_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "packetStructure",
+				"name": "section.settings_keys-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "packetStructure53",
+						"name": "subsection.adres_keys-32-1581595459",
+						"settingViewAliasList": [
+							"32_50_1",
+							"32_51_1",
+							"32_52_1",
+							"32_53_1",
+							"32_54_1",
+							"32_55_1",
+							"32_56_1",
+							"32_57_1",
+							"32_58_1",
+							"32_59_1"
+						]
+					},
+					{
+						"id": "packetStructure54",
+						"name": "subsection.adres_termo-32-1581595459",
+						"settingViewAliasList": [
+							"32_72_11",
+							"32_110_1",
+							"32_111_1",
+							"32_112_1",
+							"32_113_1",
+							"32_114_1",
+							"32_115_1",
+							"32_116_1",
+							"32_117_1",
+							"32_118_1",
+							"32_119_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "mode",
+				"name": "section.system-32-1581595459",
+				"subSectionList": [
+					{
+						"id": "mode11",
+						"name": "subsection.device_password_sms_password-32-1581595459",
+						"settingViewAliasList": [
+							"32_5_1"
+						]
+					},
+					{
+						"id": "mode12",
+						"name": "subsection.checking_the_settings_on_the_web_configurator-32-1581595459",
+						"settingViewAliasList": [
+							"32_72_0",
+							"32_78_1"
+						]
+					},
+					{
+						"id": "mode13",
+						"name": "setting_view.power_saving_mode-32-1581595459",
+						"settingViewAliasList": [
+							"32_11_1",
+							"32_138_1",
+							"32_12_1",
+							"32_72_4",
+							"32_72_5",
+							"32_72_6"
+						]
+					}
+				]
+			}
+		],
+		"settingViewList": [
+			{
+				"alias": "32_1_1",
+				"type": "string",
+				"defaultValue": "s1.duotec.ru",
+				"setting": {
+					"number": 1,
+					"type": "string",
+					"length": "30",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.dns_ip-32-1581595459"
+			},
+			{
+				"alias": "32_2_1",
+				"type": "int",
+				"defaultValue": "20897",
+				"setting": {
+					"number": 2,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.port-32-1581595459"
+			},
+			{
+				"alias": "32_3_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 3,
+					"type": "string",
+					"length": "30",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.dns_ip-32-1581595459"
+			},
+			{
+				"alias": "32_4_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 4,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.port-32-1581595459"
+			},
+			{
+				"alias": "32_5_1",
+				"type": "string",
+				"defaultValue": "123456",
+				"setting": {
+					"number": 5,
+					"type": "string",
+					"length": "6",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": ""
+			},
+			{
+				"alias": "32_6_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 6,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wife_network_name-32-1581595459"
+			},
+			{
+				"alias": "32_7_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 7,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wife_password-32-1581595459"
+			},
+			{
+				"alias": "32_8_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 8,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.protocol-32-1581595459"
+			},
+			{
+				"alias": "32_9_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 9,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.protocol-32-1581595459"
+			},
+			{
+				"alias": "32_10_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 10,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.1_65535-32-1581595459",
+				"textBefore": "setting_view.external_can_module_program_number-32-1581595459"
+			},
+			{
+				"alias": "32_11_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 11,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.sleeping_mode-32-1581595459"
+			},
+			{
+				"alias": "32_12_1",
+				"type": "int",
+				"defaultValue": "5",
+				"setting": {
+					"number": 12,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.minutes2-32-1581595459",
+				"textBefore": "setting_view.contact_time-32-1581595459"
+			},
+			{
+				"alias": "32_14_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 14,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.rs485_rs232-32-1581595459"
+			},
+			{
+				"alias": "32_15_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 15,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "dictionary.1_wire-32-1581595459"
+			},
+			{
+				"alias": "32_16_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 16,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in0-32-1581595459"
+			},
+			{
+				"alias": "32_17_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 17,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in1-32-1581595459"
+			},
+			{
+				"alias": "32_18_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 18,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in2-32-1581595459"
+			},
+			{
+				"alias": "32_20_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 20,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_21_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 21,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_22_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 22,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_23_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 23,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_24_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 24,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_25_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 25,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_26_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 26,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_27_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 27,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			
+			{
+				"alias": "32_28_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 28,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_29_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 29,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_30_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 30,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_31_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 31,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_32_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 32,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_33_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 33,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_34_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 34,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_35_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 35,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_36_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 36,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_37_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 37,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_38_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 38,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_39_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 39,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.tag_irridium-32-1581595459"
+			},
+			{
+				"alias": "32_50_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 50,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_51_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 51,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_52_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 52,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_53_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 53,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_54_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 54,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_55_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 55,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_56_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 56,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_57_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 57,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_58_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 58,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_59_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 59,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.key-32-1581595459"
+			},
+			{
+				"alias": "32_72_0",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "dictionary.at_every_start-32-1581595459",
+				"textBefore": "",
+				"bit": 0
+			},
+			{
+				"alias": "32_72_10",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.wifi_free-32-1581595459",
+				"textBefore": "",
+				"bit": 10
+			},
+			{
+				"alias": "32_72_11",
+				"type": "flag",
+				"defaultValue": "1",
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.termo_allow-32-1581595459",
+				"textBefore": "",
+				"bit": 11
+			},
+			{
+				"alias": "32_72_2",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.at_a_speed_of_less_2_km_h-32-1581595459",
+				"textBefore": "",
+				"bit": 2
+			},
+			{
+				"alias": "32_72_3",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.by_motion_sensor-32-1581595459",
+				"textBefore": "",
+				"bit": 3
+			},
+			{
+				"alias": "32_72_4",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.get_out_of_sleep_by_motion_sensor-32-1581595459",
+				"textBefore": "",
+				"bit": 4
+			},
+			{
+				"alias": "32_72_5",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.out_of_sleep_when_changing_input-32-1581595459",
+				"textBefore": "",
+				"bit": 5
+			},
+			{
+				"alias": "32_72_6",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.do_not_go_to_sleep_while_moving_by_motion_sensor-32-1581595459",
+				"textBefore": "",
+				"bit": 6
+			},
+			{
+				"alias": "32_72_7",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 72,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.on_ignition-32-1581595459",
+				"textBefore": "",
+				"bit": 7
+			},
+			{
+				"alias": "32_73_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 73,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.id_sn_for_server-32-1581595459"
+			},
+			{
+				"alias": "32_74_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 74,
+					"type": "string",
+					"length": "8",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.password_for_server-32-1581595459"
+			},
+			{
+				"alias": "32_75_1",
+				"type": "int",
+				"defaultValue": "50",
+				"setting": {
+					"number": 75,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.km_h_3_255-32-1581595459",
+				"textBefore": "setting_view.when_changing_speed_to-32-1581595459"
+			},
+			{
+				"alias": "32_76_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 76,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.id_sn_for_server-32-1581595459"
+			},
+			{
+				"alias": "32_77_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 77,
+					"type": "string",
+					"length": "8",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.password_for_server-32-1581595459"
+			},
+			{
+				"alias": "32_78_1",
+				"type": "int",
+				"defaultValue": "7200",
+				"setting": {
+					"number": 78,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.hours2-32-1581595459",
+				"textBefore": "setting_view.every-32-1581595459"
+			},
+			{
+				"alias": "32_79_1",
+				"type": "int",
+				"defaultValue": "18",
+				"setting": {
+					"number": 79,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.degrees_3_255-32-1581595459",
+				"textBefore": "setting_view.when_changing_course_to-32-1581595459"
+			},
+			{
+				"alias": "32_80_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 80,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_81_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 81,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_82_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 82,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_83_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 83,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_84_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 84,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_85_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 85,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_86_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 86,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_87_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 87,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_88_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 88,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_89_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 89,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_90_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 90,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_91_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 91,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_92_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 92,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_93_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 93,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_94_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 94,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_95_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 95,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_96_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 96,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_97_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 97,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_98_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 98,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_99_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 99,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.event_iridium-32-1581595459"
+			},
+			{
+				"alias": "32_110_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 110,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_111_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 111,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_112_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 112,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_113_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 113,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_114_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 114,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_115_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 115,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_116_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 116,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_117_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 117,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_118_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 118,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_119_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 119,
+					"type": "string",
+					"length": "12",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1w.termo-32-1581595459"
+			},
+			{
+				"alias": "32_131_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 131,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.mV-32-1581595459",
+				"textBefore": "setting_view.virtual_ignition_threshold-32-1581595459"
+			},
+			{
+				"alias": "32_132_1",
+				"type": "int",
+				"defaultValue": "5000",
+				"setting": {
+					"number": 132,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.mV-32-1581595459",
+				"textBefore": "setting_view.discrete_mode_analog_input_threshold-32-1581595459"
+			},
+			{
+				"alias": "32_133_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 133,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.0-50-32-1581595459",
+				"textBefore": "setting_view.filter_degree_lls_1-32-1581595459"
+			},
+			{
+				"alias": "32_134_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 134,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.0-50-32-1581595459",
+				"textBefore": "setting_view.filter_degree_lls_2-32-1581595459"
+			},
+			{
+				"alias": "32_135_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 135,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.0-50-32-1581595459",
+				"textBefore": "setting_view.filter_degree_lls_3-32-1581595459"
+			},
+			{
+				"alias": "32_136_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 136,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.0-50-32-1581595459",
+				"textBefore": "setting_view.filter_degree_lls_4-32-1581595459"
+			},
+			{
+				"alias": "32_137_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 137,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.seconds_10_65535-32-1581595459",
+				"textBefore": "setting_view.parking_interval-32-1581595459"
+			},
+			{
+				"alias": "32_138_1",
+				"type": "int",
+				"defaultValue": null,
+				"setting": {
+					"number": 138,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.minutes3-32-1581595459",
+				"textBefore": "setting_view.get_in_touch_every-32-1581595459"
+			},
+			{
+				"alias": "32_139_0",
+				"type": "flag",
+				"defaultValue": "123",
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "4",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.navigation_lat_lon-32-1581595459",
+				"textBefore": "",
+				"bit": 0
+			},
+			{
+				"alias": "32_139_1",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "4",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.navigation_speed_altitude_satellites_course-32-1581595459",
+				"textBefore": "",
+				"bit": 1
+			},
+			
+			
+			
+			{
+				"alias": "32_139_2",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.navigation_hdop_accuracy-32-1581595459",
+				"textBefore": "",
+				"bit": 2
+			},
+				{
+				"alias": "32_139_3",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.system_errors_statuses_etc-32-1581595459",
+				"textBefore": "",
+				"bit": 3
+			},
+			
+			
+				{
+				"alias": "32_139_4",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.system_inputs_outputs_module_statuses-32-1581595459",
+				"textBefore": "",
+				"bit": 4
+			},
+			{
+				"alias": "32_139_5",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.gsm_modem_signal_strength_operator_parameters-32-1581595459",
+				"textBefore": "",
+				"bit": 5
+			},
+			{
+				"alias": "32_139_6",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.gsm_modem_base_station_parameters-32-1581595459",
+				"textBefore": "",
+				"bit": 6
+			},
+			{
+				"alias": "32_139_7",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.system_external_and_internal_voltage_mv-32-1581595459",
+				"textBefore": "",
+				"bit": 7
+			},
+			
+			{
+				"alias": "32_139_8",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "4",
+					"defaultValue": "123"
+				},
+				"bit": 8,
+				"textAfter": "setting_view.system_data_transfer_from_the_accelerometer-213-1582357263",
+				"textBefore": ""
+			},
+			
+			
+			
+			{
+				"alias": "32_139_20",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.statuses_of_work-32-1581595459",
+				"textBefore": "",
+				"bit": 20
+			},
+			{
+				"alias": "32_139_21",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.full_engine_run_time-32-1581595459",
+				"textBefore": "",
+				"bit": 21
+			},
+			{
+				"alias": "32_139_22",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.full_vehicle_mileage-32-1581595459",
+				"textBefore": "",
+				"bit": 22
+			},
+			{
+				"alias": "32_139_23",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.full_fuel_consumption-32-1581595459",
+				"textBefore": "",
+				"bit": 23
+			},
+			{
+				"alias": "32_139_24",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.fuel_level_in_the_tank-32-1581595459",
+				"textBefore": "",
+				"bit": 24
+			},
+			{
+				"alias": "32_139_25",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.engine_speed-32-1581595459",
+				"textBefore": "",
+				"bit": 25
+			},
+			{
+				"alias": "32_139_26",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.engine_temperature-32-1581595459",
+				"textBefore": "",
+				"bit": 26
+			},
+			{
+				"alias": "32_139_27",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.speed_​​tr_means-32-1581595459",
+				"textBefore": "",
+				"bit": 27
+			},
+			{
+				"alias": "32_139_28",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.axle_pressure-32-1581595459",
+				"textBefore": "",
+				"bit": 28
+			},
+			{
+				"alias": "32_139_29",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.crash_controllers-32-1581595459",
+				"textBefore": "",
+				"bit": 29
+			},
+		
+			{
+				"alias": "32_139_30",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.instant_consumption-32-1581595459",
+				"textBefore": "",
+				"bit": 30
+			},
+			{
+				"alias": "32_139_31",
+				"type": "flag",
+				"defaultValue": null,
+				"setting": {
+					"number": 139,
+					"type": "int",
+					"length": "1",
+					"defaultValue": "123"
+				},
+				"textAfter": "setting_view.adblue_level-32-1581595459",
+				"textBefore": "",
+				"bit": 31
+			},
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			{
+				"alias": "32_140_1",
+				"type": "int",
+				"defaultValue": "60",
+				"setting": {
+					"number": 140,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.wifi_timer-32-1581595459",
+				"textBefore": "setting_view.wifi_timer-32-1581595459"
+			},
+			{
+				"alias": "32_141_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 141,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.km_h-32-1581595459",
+				"textBefore": "setting_view.speed_output_trigger-32-1581595459"
+			},
+			{
+				"alias": "32_142_1",
+				"type": "int",
+				"defaultValue": "10",
+				"setting": {
+					"number": 142,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.sensitivity.scale-32-1581595459",
+				"textBefore": "setting_view.sensitivity-32-1581595459"
+			},
+			{
+				"alias": "32_143_1",
+				"type": "int",
+				"defaultValue": "0",
+				"setting": {
+					"number": 143,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.seconds-32-1581595459",
+				"textBefore": "setting_view.delay_of_operation-32-1581595459"
+			},
+			{
+				"alias": "32_144_1",
+				"type": "int",
+				"defaultValue": "1000",
+				"setting": {
+					"number": 144,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.meters_1_65535-32-1581595459",
+				"textBefore": "setting_view.not_less_than_every-32-1581595459"
+			}
+		],
+		"settingDictionaryList": [
+			{
+				"settingId": 8,
+				"settingView": "32_8_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.internal-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.external-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.user_ag-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.egts-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 9,
+				"settingView": "32_9_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.internal-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.external-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.user_ag-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.egts-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 11,
+				"settingView": "32_11_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.turn_off_gps-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.deep_sleep-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 14,
+				"settingView": "32_14_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.can_log_text_protocol-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.universal_mode_lls-32-1581595459"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.microlink-32-1581595459"
+					},
+					{
+						"number": 51,
+						"name": "dictionary.canlog_binary_protocol-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 15,
+				"settingView": "32_15_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 29,
+						"name": "dictionary.input_discrete-32-1581595459"
+					},
+					{
+						"number": 30,
+						"name": "dictionary.ode_1_wire-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 16,
+				"settingView": "32_16_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.exit_mode_1_on_off-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.exit_mode_2_indication-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete-32-1581595459"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.input_pulse-32-1581595459"
+					},
+					{
+						"number": 7,
+						"name": "dictionary.input_frequency-32-1581595459"
+					},
+					{
+						"number": 19,
+						"name": "dictionary.input_mass_control-32-1581595459"
+					},
+					{
+						"number": 20,
+						"name": "dictionary.exit_key_deactivation-32-1581595459"
+					},
+					{
+						"number": 21,
+						"name": "dictionary.input_pulse_not_null-32-1581595459"
+					},
+					{
+						"number": 22,
+						"name": "dictionary.exit_by_speed-32-1581595459"
+					},
+					{
+						"number": 23,
+						"name": "dictionary.exit_safe_lock-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 17,
+				"settingView": "32_17_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.exit_mode_1_on_off-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.exit_mode_2_indication-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete-32-1581595459"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.input_pulse-32-1581595459"
+					},
+					{
+						"number": 7,
+						"name": "dictionary.input_frequency-32-1581595459"
+					},
+					{
+						"number": 20,
+						"name": "dictionary.exit_key_deactivation-32-1581595459"
+					},
+					{
+						"number": 21,
+						"name": "dictionary.input_pulse_not_null-32-1581595459"
+					},
+					{
+						"number": 22,
+						"name": "dictionary.exit_by_speed-32-1581595459"
+					},
+					{
+						"number": 23,
+						"name": "dictionary.exit_safe_lock-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 18,
+				"settingView": "32_18_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete-32-1581595459"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.input_pulse-32-1581595459"
+					},
+					{
+						"number": 8,
+						"name": "dictionary.input_voltage_measurement-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 20,
+				"settingView": "32_20_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 21,
+				"settingView": "32_21_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 22,
+				"settingView": "32_22_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 23,
+				"settingView": "32_23_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 24,
+				"settingView": "32_24_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 25,
+				"settingView": "32_25_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 26,
+				"settingView": "32_26_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 27,
+				"settingView": "32_27_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 28,
+				"settingView": "32_28_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 29,
+				"settingView": "32_29_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 30,
+				"settingView": "32_30_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 31,
+				"settingView": "32_31_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 32,
+				"settingView": "32_32_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 33,
+				"settingView": "32_33_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 34,
+				"settingView": "32_34_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 35,
+				"settingView": "32_35_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 36,
+				"settingView": "32_36_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 37,
+				"settingView": "32_37_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 38,
+				"settingView": "32_38_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 39,
+				"settingView": "32_39_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.tag1-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.tag3-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.tag5-32-1581595459"
+					},
+					{
+						"number": 9,
+						"name": "dictionary.tag9-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 80,
+				"settingView": "32_80_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 81,
+				"settingView": "32_81_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 82,
+				"settingView": "32_82_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 83,
+				"settingView": "32_83_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 84,
+				"settingView": "32_84_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 85,
+				"settingView": "32_85_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 86,
+				"settingView": "32_86_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 87,
+				"settingView": "32_87_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 88,
+				"settingView": "32_88_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 89,
+				"settingView": "32_89_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 90,
+				"settingView": "32_90_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 91,
+				"settingView": "32_91_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 92,
+				"settingView": "32_92_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 93,
+				"settingView": "32_93_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 94,
+				"settingView": "32_94_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 95,
+				"settingView": "32_95_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 96,
+				"settingView": "32_96_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 97,
+				"settingView": "32_97_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 98,
+				"settingView": "32_98_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			},
+			{
+				"settingId": 99,
+				"settingView": "32_99_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1-32-1581595459"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.event1-32-1581595459"
+					},
+					{
+						"number": 2,
+						"name": "dictionary.event2-32-1581595459"
+					},
+					{
+						"number": 3,
+						"name": "dictionary.event3-32-1581595459"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.event4-32-1581595459"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.event5-32-1581595459"
+					}
+				]
+			}
+		],
+		"settingValidationRuleList": [
+			{
+				"setting_view_alias": "32_1_1",
+				"rules": [
+					{
+						"name": "maxlength_30",
+						"type": "maxlength",
+						"properties": {
+							"value": 30
+						}
+					},
+					{
+						"name": "dns_ip",
+						"type": "dns_ip",
+						"properties": {
+							"message": "setting_validation_rule.dns_ip.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_2_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_3_1",
+				"rules": [
+					{
+						"name": "maxlength_30",
+						"type": "maxlength",
+						"properties": {
+							"value": 30
+						}
+					},
+					{
+						"name": "dns_ip",
+						"type": "dns_ip",
+						"properties": {
+							"message": "setting_validation_rule.dns_ip.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_4_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_5_1",
+				"rules": [
+					{
+						"name": "maxlength_6",
+						"type": "maxlength",
+						"properties": {
+							"value": 8
+						}
+					},
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_6_1",
+				"rules": [
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					},
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_7_1",
+				"rules": [
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					},
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_8_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_9_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_10_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_11_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_12_1",
+				"rules": [
+					{
+						"name": "number_0_250",
+						"type": "number",
+						"properties": {
+							"max": 250,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_14_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_15_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_16_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_17_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_18_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_20_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_21_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_22_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_23_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_24_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_25_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_26_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_27_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_2",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_20",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_21",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_22",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_23",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_24",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_25",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_26",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_27",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_28",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_29",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_3",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_30",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_31",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_4",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_5",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_6",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_7",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_28_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_29_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_30_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_31_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_32_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_33_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_34_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_35_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_36_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_37_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_38_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_39_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_50_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_51_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_52_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_53_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_54_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_55_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_56_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_57_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_58_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_59_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_72_0",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_72_10",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_72_11",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_72_2",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_72_3",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_72_4",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_72_5",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_72_6",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_72_7",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_73_1",
+				"rules": [
+					{
+						"name": "number_0_4294967295",
+						"type": "number",
+						"properties": {
+							"max": 4294967295,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_74_1",
+				"rules": [
+					{
+						"name": "string_regexp_dw",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9]+$",
+							"message": "setting_validation_rule.string_regexp_key_1_4.message"
+						}
+					},
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_75_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_76_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_77_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_78_1",
+				"rules": [
+					{
+						"name": "number_0_32767",
+						"type": "number",
+						"properties": {
+							"max": 32767,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_79_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_80_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_81_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_82_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_83_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_84_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_85_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_86_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_87_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_88_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_89_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_90_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_91_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_92_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_93_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_94_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_95_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_96_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_97_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_98_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_99_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_110_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_111_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_112_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_113_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_114_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_115_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_116_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_117_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_118_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_119_1",
+				"rules": [
+					{
+						"name": "maxlength_12",
+						"type": "maxlength",
+						"properties": {
+							"value": 12
+						}
+					},
+					{
+						"name": "string_regexp_hex_12",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[A-F,a-f,0-9]{12}?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_131_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_132_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_133_1",
+				"rules": [
+					{
+						"name": "number_0_50",
+						"type": "number",
+						"properties": {
+							"max": 50,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_134_1",
+				"rules": [
+					{
+						"name": "number_0_50",
+						"type": "number",
+						"properties": {
+							"max": 50,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_135_1",
+				"rules": [
+					{
+						"name": "number_0_50",
+						"type": "number",
+						"properties": {
+							"max": 50,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_136_1",
+				"rules": [
+					{
+						"name": "number_0_50",
+						"type": "number",
+						"properties": {
+							"max": 50,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_137_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_138_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_139_0",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_139_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "32_140_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_141_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_142_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_143_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "32_144_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			}
+		],
+		"widgetList": [],
+		"translations": [
+			{
+				"key": "section.server_monitoring-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Monitoring server"
+					},
+					{
+						"lang": "ru",
+						"text": "Сервер мониторинга"
+					}
+				]
+			},
+			{
+				"key": "subsection.server_and_port1-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "#1 Server setiings"
+					},
+					{
+						"lang": "ru",
+						"text": "#1 Параметры сервера"
+					}
+				]
+			},
+			{
+				"key": "subsection.server_and_port2-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "#2 Server setiings"
+					},
+					{
+						"lang": "ru",
+						"text": "#2 Параметры сервера"
+					}
+				]
+			},
+			{
+				"key": "section.package_structure-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Data to transfer"
+					},
+					{
+						"lang": "ru",
+						"text": "Данные для передачи"
+					}
+				]
+			},
+			{
+				"key": "subsection.common_parameters-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Common parameters"
+					},
+					{
+						"lang": "ru",
+						"text": "Общие параметры"
+					}
+				]
+			},
+			{
+				"key": "subsection.can_bus_data-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Data from CAN bus"
+					},
+					{
+						"lang": "ru",
+						"text": "Данные с CAN шины"
+					}
+				]
+			},
+			{
+				"key": "section.tags_iridium-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Iridium packet"
+					},
+					{
+						"lang": "ru",
+						"text": "Структура пакета Iridium"
+					}
+				]
+			},
+			{
+				"key": "subsection.tags_iridium-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Iridium packet"
+					},
+					{
+						"lang": "ru",
+						"text": "Структура пакета Iridium"
+					}
+				]
+			},
+			{
+				"key": "section.event_iridium-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Iridium events"
+					},
+					{
+						"lang": "ru",
+						"text": "События для отправки Iridium"
+					}
+				]
+			},
+			{
+				"key": "subsection.event_iridium-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Iridium events"
+					},
+					{
+						"lang": "ru",
+						"text": "События для отправки через Iridium"
+					}
+				]
+			},
+			{
+				"key": "section.settings_wifi-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "WiFi settings"
+					},
+					{
+						"lang": "ru",
+						"text": "Параметры WiFi"
+					}
+				]
+			},
+			{
+				"key": "subsection.name_wifi-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Name and password for WiFi"
+					},
+					{
+						"lang": "ru",
+						"text": "Имя и пароль WiFi сети"
+					}
+				]
+			},
+			{
+				"key": "subsection.add_wifi-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Additional parameters"
+					},
+					{
+						"lang": "ru",
+						"text": "Дополнительные параметры"
+					}
+				]
+			},
+			{
+				"key": "section.route_building-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Drawing a trajectory"
+					},
+					{
+						"lang": "ru",
+						"text": "Отрисовка траектории"
+					}
+				]
+			},
+			{
+				"key": "subsection.drawing_a_trajectory-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Transmit data:"
+					},
+					{
+						"lang": "ru",
+						"text": "Передавать данные:"
+					}
+				]
+			},
+			{
+				"key": "subsection.motion_sensor-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Motion Sensor"
+					},
+					{
+						"lang": "ru",
+						"text": "Датчик движения"
+					}
+				]
+			},
+			{
+				"key": "subsection.coordinate_freezing-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Freezing coordinates"
+					},
+					{
+						"lang": "ru",
+						"text": "Заморозка координат"
+					}
+				]
+			},
+			{
+				"key": "section.digital_and_digital_inputs-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Digital and digital inputs"
+					},
+					{
+						"lang": "ru",
+						"text": "Дискретные и цифровые входы"
+					}
+				]
+			},
+			{
+				"key": "subsection.discrete-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Discrete"
+					},
+					{
+						"lang": "ru",
+						"text": "Дискретные"
+					}
+				]
+			},
+			{
+				"key": "subsection.digital-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Digital"
+					},
+					{
+						"lang": "ru",
+						"text": "Цифровые"
+					}
+				]
+			},
+			{
+				"key": "section.settings_keys-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Keys settings"
+					},
+					{
+						"lang": "ru",
+						"text": "Параметры ключей"
+					}
+				]
+			},
+			{
+				"key": "subsection.adres_keys-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Keys"
+					},
+					{
+						"lang": "ru",
+						"text": "Ключи"
+					}
+				]
+			},
+			{
+				"key": "subsection.adres_termo-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Termosensors"
+					},
+					{
+						"lang": "ru",
+						"text": "Термодатчики"
+					}
+				]
+			},
+			{
+				"key": "section.system-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System"
+					},
+					{
+						"lang": "ru",
+						"text": "Системные"
+					}
+				]
+			},
+			{
+				"key": "subsection.device_password_sms_password-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Device Password (SMS Password)"
+					},
+					{
+						"lang": "ru",
+						"text": "Пароль устройства (SMS пароль)"
+					}
+				]
+			},
+			{
+				"key": "subsection.checking_the_settings_on_the_web_configurator-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Checking the settings on the WEB configurator"
+					},
+					{
+						"lang": "ru",
+						"text": "Проверка настроек на WEB конфигураторе"
+					}
+				]
+			},
+			{
+				"key": "setting_view.power_saving_mode-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Power saving mode"
+					},
+					{
+						"lang": "ru",
+						"text": "Режим энергосбережения"
+					}
+				]
+			},
+			{
+				"key": "",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": ""
+					},
+					{
+						"lang": "ru",
+						"text": ""
+					}
+				]
+			},
+			{
+				"key": "setting_view.dns_ip-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "DNS / IP"
+					},
+					{
+						"lang": "ru",
+						"text": "DNS/IP"
+					}
+				]
+			},
+			{
+				"key": "setting_view.port-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Port"
+					},
+					{
+						"lang": "ru",
+						"text": "Порт"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wife_network_name-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "WiFi - network name"
+					},
+					{
+						"lang": "ru",
+						"text": "WiFi - имя сети"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wife_password-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "WiFi - password"
+					},
+					{
+						"lang": "ru",
+						"text": "WiFi - пароль"
+					}
+				]
+			},
+			{
+				"key": "setting_view.protocol-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Protocol"
+					},
+					{
+						"lang": "ru",
+						"text": "Протокол"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.1_65535-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[1-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "[1-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.external_can_module_program_number-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "External CAN module program number"
+					},
+					{
+						"lang": "ru",
+						"text": "Номер программы внешнего CAN модуля"
+					}
+				]
+			},
+			{
+				"key": "setting_view.sleeping_mode-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Sleeping mode"
+					},
+					{
+						"lang": "ru",
+						"text": "Режим сна"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.minutes2-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.contact_time-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Contact time, minutes"
+					},
+					{
+						"lang": "ru",
+						"text": "Время пребывания на связи, минут"
+					}
+				]
+			},
+			{
+				"key": "setting_view.rs485_rs232-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "RS485/RS232"
+					},
+					{
+						"lang": "ru",
+						"text": "RS485/RS232"
+					}
+				]
+			},
+			{
+				"key": "dictionary.1_wire-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "1-WIRE"
+					},
+					{
+						"lang": "ru",
+						"text": "1-WIRE"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in0-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "IN0[-]/OUT0"
+					},
+					{
+						"lang": "ru",
+						"text": "IN0[-]/OUT0"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in1-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "IN1[-]/OUT1"
+					},
+					{
+						"lang": "ru",
+						"text": "IN1[-]/OUT1"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in2-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "IN2[+]"
+					},
+					{
+						"lang": "ru",
+						"text": "IN2[+]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.tag_irridium-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Choose parametr"
+					},
+					{
+						"lang": "ru",
+						"text": "Выбери параметр"
+					}
+				]
+			},
+			{
+				"key": "setting_view.navigation_hdop_accuracy-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Navigation: HDOP Accuracy"
+					},
+					{
+						"lang": "ru",
+						"text": "Навигация: погрешность HDOP"
+					}
+				]
+			},
+			{
+				"key": "setting_view.statuses_of_work-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Statuses of work"
+					},
+					{
+						"lang": "ru",
+						"text": "Статусы работы"
+					}
+				]
+			},
+			{
+				"key": "setting_view.full_engine_run_time-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Full engine run time"
+					},
+					{
+						"lang": "ru",
+						"text": "Полное время работы двигателя"
+					}
+				]
+			},
+			{
+				"key": "setting_view.full_vehicle_mileage-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Full vehicle mileage"
+					},
+					{
+						"lang": "ru",
+						"text": "Полный пробег транспортного средства"
+					}
+				]
+			},
+			{
+				"key": "setting_view.full_fuel_consumption-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Full fuel consumption"
+					},
+					{
+						"lang": "ru",
+						"text": "Полный расход топлива"
+					}
+				]
+			},
+			{
+				"key": "setting_view.fuel_level_in_the_tank-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Fuel level in the tank"
+					},
+					{
+						"lang": "ru",
+						"text": "Уровень топлива в баке"
+					}
+				]
+			},
+			{
+				"key": "setting_view.engine_speed-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Engine speed"
+					},
+					{
+						"lang": "ru",
+						"text": "Скорость оборотов двигателя"
+					}
+				]
+			},
+			{
+				"key": "setting_view.engine_temperature-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Engine temperature"
+					},
+					{
+						"lang": "ru",
+						"text": "Температура двигателя"
+					}
+				]
+			},
+			{
+				"key": "setting_view.speed_​​tr_means-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Vehicle speed"
+					},
+					{
+						"lang": "ru",
+						"text": "Скорость транспортного средства"
+					}
+				]
+			},
+			{
+				"key": "setting_view.axle_pressure-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Axle Pressure"
+					},
+					{
+						"lang": "ru",
+						"text": "Давление на оси"
+					}
+				]
+			},
+			{
+				"key": "setting_view.crash_controllers-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Crash Controllers"
+					},
+					{
+						"lang": "ru",
+						"text": "Контроллеры аварии"
+					}
+				]
+			},
+			{
+				"key": "setting_view.system_errors_statuses_etc-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System: errors, statuses, etc."
+					},
+					{
+						"lang": "ru",
+						"text": "Системные: ошибки, статусы, прочее"
+					}
+				]
+			},
+			{
+				"key": "setting_view.instant_consumption-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Instant consumption"
+					},
+					{
+						"lang": "ru",
+						"text": "Моментальный расход"
+					}
+				]
+			},
+			{
+				"key": "setting_view.adblue_level-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "AdBlue Level"
+					},
+					{
+						"lang": "ru",
+						"text": "Уровень AdBlue"
+					}
+				]
+			},
+			{
+				"key": "setting_view.system_inputs_outputs_module_statuses-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System: inputs / outputs, module statuses"
+					},
+					{
+						"lang": "ru",
+						"text": "Системные: входы/выводы, статусы модулей"
+					}
+				]
+			},
+			{
+				"key": "setting_view.gsm_modem_signal_strength_operator_parameters-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "WiFi: parameters"
+					},
+					{
+						"lang": "ru",
+						"text": "WiFi: параметры"
+					}
+				]
+			},
+			{
+				"key": "setting_view.gsm_modem_base_station_parameters-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Iridium: parameters"
+					},
+					{
+						"lang": "ru",
+						"text": "Iridium: параметры"
+					}
+				]
+			},
+			{
+				"key": "setting_view.system_external_and_internal_voltage_mv-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "System: external and internal voltage, mV"
+					},
+					{
+						"lang": "ru",
+						"text": "Системные: внешнее и внутренее напряжение, мВ"
+					}
+				]
+			},
+			{
+				"key": "setting_view.1w.key-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Key number"
+					},
+					{
+						"lang": "ru",
+						"text": "Номер ключа"
+					}
+				]
+			},
+			{
+				"key": "dictionary.at_every_start-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "At every start"
+					},
+					{
+						"lang": "ru",
+						"text": "При каждом старте"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wifi_free-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Allow connection to open points"
+					},
+					{
+						"lang": "ru",
+						"text": "Разрешить подключение к открытым точкам"
+					}
+				]
+			},
+			{
+				"key": "setting_view.termo_allow-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Allow save new sensors"
+					},
+					{
+						"lang": "ru",
+						"text": "Разрешить сохранять новые термодатчики"
+					}
+				]
+			},
+			{
+				"key": "setting_view.at_a_speed_of_less_2_km_h-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "At a speed of <2 km/h"
+					},
+					{
+						"lang": "ru",
+						"text": "При скорости <2 км/час"
+					}
+				]
+			},
+			{
+				"key": "setting_view.by_motion_sensor-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "By motion sensor"
+					},
+					{
+						"lang": "ru",
+						"text": "По датчику движения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.get_out_of_sleep_by_motion_sensor-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Out of sleep by motion sensor"
+					},
+					{
+						"lang": "ru",
+						"text": "Выходить из сна по датчику движения"
+					}
+				]
+			},
+			{
+				"key": "setting_view.out_of_sleep_when_changing_input-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Out of sleep when changing input(s)"
+					},
+					{
+						"lang": "ru",
+						"text": "Выходить из сна при изменении состояния входа"
+					}
+				]
+			},
+			{
+				"key": "setting_view.do_not_go_to_sleep_while_moving_by_motion_sensor-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Do not go to sleep while moving (by motion sensor)"
+					},
+					{
+						"lang": "ru",
+						"text": "Не переходить в сон при движении (по датчику движения)"
+					}
+				]
+			},
+			{
+				"key": "setting_view.on_ignition-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "On ignition"
+					},
+					{
+						"lang": "ru",
+						"text": "По зажиганию"
+					}
+				]
+			},
+			{
+				"key": "setting_view.id_sn_for_server-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "ID(SN) for server"
+					},
+					{
+						"lang": "ru",
+						"text": "ID(SN) для сервера"
+					}
+				]
+			},
+			{
+				"key": "setting_view.password_for_server-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Password for server"
+					},
+					{
+						"lang": "ru",
+						"text": "Пароль для сервера"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.km_h_3_255-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.when_changing_speed_to-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "When changing speed to, km/h"
+					},
+					{
+						"lang": "ru",
+						"text": "При изменении скорости на, км/ч"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.hours2-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-65000]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-65000]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.every-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Every, hours"
+					},
+					{
+						"lang": "ru",
+						"text": "Каждые, часов"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.degrees_3_255-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.when_changing_course_to-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "When changing course to, degrees"
+					},
+					{
+						"lang": "ru",
+						"text": "При изменении курса на, градусов"
+					}
+				]
+			},
+			{
+				"key": "setting_view.event_iridium-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Choose event"
+					},
+					{
+						"lang": "ru",
+						"text": "Выбери событие"
+					}
+				]
+			},
+			{
+				"key": "setting_view.1w.termo-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Termo number"
+					},
+					{
+						"lang": "ru",
+						"text": "Номер термодатчика"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.mV-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-65000]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-65000]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.virtual_ignition_threshold-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Virtual ignition threshold, mV"
+					},
+					{
+						"lang": "ru",
+						"text": "Порог виртуального зажигания, мВ"
+					}
+				]
+			},
+			{
+				"key": "setting_view.discrete_mode_analog_input_threshold-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Analog Input Threshold, mV"
+					},
+					{
+						"lang": "ru",
+						"text": "Порог аналогового входа, мВ"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.0-50-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-50]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-50]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_degree_lls_1-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter degree LLS 1"
+					},
+					{
+						"lang": "ru",
+						"text": "Степень фильтрации LLS 1"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_degree_lls_2-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter degree LLS 2"
+					},
+					{
+						"lang": "ru",
+						"text": "Степень фильтрации LLS 2"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_degree_lls_3-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter degree LLS 3"
+					},
+					{
+						"lang": "ru",
+						"text": "Степень фильтрации LLS 3"
+					}
+				]
+			},
+			{
+				"key": "setting_view.filter_degree_lls_4-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Filter degree LLS 4"
+					},
+					{
+						"lang": "ru",
+						"text": "Степень фильтрации LLS 4"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.seconds_10_65535-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.parking_interval-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Parking interval, seconds"
+					},
+					{
+						"lang": "ru",
+						"text": "Интервал при стоянке, секунд"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.minutes3-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.get_in_touch_every-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Get in touch every, minutes"
+					},
+					{
+						"lang": "ru",
+						"text": "Выходить на связь каждые, минут"
+					}
+				]
+			},
+			{
+				"key": "setting_view.navigation_lat_lon-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Navigation: latitude, longitude"
+					},
+					{
+						"lang": "ru",
+						"text": "Навигация: широта, долгота"
+					}
+				]
+			},
+			{
+				"key": "setting_view.navigation_speed_altitude_satellites_course-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Navigation: speed, altitude, satellites, course"
+					},
+					{
+						"lang": "ru",
+						"text": "Навигация: скорость, высота, спутники, курс"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.wifi_timer-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-65000]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-65000]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wifi_timer-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Interval wo WIFI, minutes"
+					},
+					{
+						"lang": "ru",
+						"text": "Интервал отсутствия связи WIFI, минут"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.km_h-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.speed_output_trigger-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Speed output trigger, km/h"
+					},
+					{
+						"lang": "ru",
+						"text": "Срабатывание выхода по скорости, км/ч"
+					}
+				]
+			},
+			{
+				"key": "setting_view.sensitivity.scale-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0 - 10]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0 - 10]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.sensitivity-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Sensitivity"
+					},
+					{
+						"lang": "ru",
+						"text": "Чувствительность"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.seconds-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.delay_of_operation-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Delay of operation, seconds"
+					},
+					{
+						"lang": "ru",
+						"text": "Задержка срабатывания, секунд"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.meters_1_65535-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.not_less_than_every-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Not less than every, meters"
+					},
+					{
+						"lang": "ru",
+						"text": "Не реже, чем каждые, метров"
+					}
+				]
+			},
+			{
+				"key": "dictionary.internal-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "INTERNAL"
+					},
+					{
+						"lang": "ru",
+						"text": "INTERNAL"
+					}
+				]
+			},
+			{
+				"key": "dictionary.external-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "EXTERNAL"
+					},
+					{
+						"lang": "ru",
+						"text": "EXTERNAL"
+					}
+				]
+			},
+			{
+				"key": "dictionary.user_ag-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "USER AG"
+					},
+					{
+						"lang": "ru",
+						"text": "USER AG"
+					}
+				]
+			},
+			{
+				"key": "dictionary.egts-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "EGTS"
+					},
+					{
+						"lang": "ru",
+						"text": "EGTS"
+					}
+				]
+			},
+			{
+				"key": "dictionary.not_use1-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "not use"
+					},
+					{
+						"lang": "ru",
+						"text": "не используется"
+					}
+				]
+			},
+			{
+				"key": "dictionary.turn_off_gps-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "turn off GPS"
+					},
+					{
+						"lang": "ru",
+						"text": "выключить GPS"
+					}
+				]
+			},
+			{
+				"key": "dictionary.deep_sleep-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "deep sleep"
+					},
+					{
+						"lang": "ru",
+						"text": "глубокий сон"
+					}
+				]
+			},
+			{
+				"key": "dictionary.can_log_text_protocol-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "CANlog text protocol"
+					},
+					{
+						"lang": "ru",
+						"text": "CANlog текстовый протокол"
+					}
+				]
+			},
+			{
+				"key": "dictionary.universal_mode_lls-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "universal mode LLS"
+					},
+					{
+						"lang": "ru",
+						"text": "универсальный режим LLS"
+					}
+				]
+			},
+			{
+				"key": "dictionary.microlink-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "microlink"
+					},
+					{
+						"lang": "ru",
+						"text": "microlink"
+					}
+				]
+			},
+			{
+				"key": "dictionary.canlog_binary_protocol-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "CANlog binary protocol"
+					},
+					{
+						"lang": "ru",
+						"text": "CANlog бинарный протокол"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_discrete-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - discrete"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - дискретный"
+					}
+				]
+			},
+			{
+				"key": "dictionary.ode_1_wire-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "mode - 1-wire"
+					},
+					{
+						"lang": "ru",
+						"text": "режим - 1-wire"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_mode_1_on_off-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - mode 1 (on / off)"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - режим 1 (вкл/выкл)"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_mode_2_indication-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - mode 2 (indication)"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - режим 2 (индикация)"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_pulse-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - pulse"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - импульсный"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_frequency-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - frequency"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - частотный"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_mass_control-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - mass control"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - контроль массы"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_key_deactivation-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - key deactivation"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - деактивация по ключу"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_pulse_not_null-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - pulse not null"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - импульсный ненулевой"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_by_speed-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - by speed"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - по скорости"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_safe_lock-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - safe lock"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - безопасная блокировка"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_voltage_measurement-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - voltage measurement"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - измерение напряжения"
+					}
+				]
+			},
+			{
+				"key": "dictionary.tag1-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "system: external voltage, mV"
+					},
+					{
+						"lang": "ru",
+						"text": "cистемные: внешнее напряжение, мВ"
+					}
+				]
+			},
+			{
+				"key": "dictionary.tag3-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "navigation: latitude, longitude"
+					},
+					{
+						"lang": "ru",
+						"text": "навигация: широта, долгота"
+					}
+				]
+			},
+			{
+				"key": "dictionary.tag5-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "navigation: speed, altitude, satellites, course"
+					},
+					{
+						"lang": "ru",
+						"text": "навигация: скорость, высота, спутники, курс"
+					}
+				]
+			},
+			{
+				"key": "dictionary.tag9-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "system: inputs / outputs, module statuses"
+					},
+					{
+						"lang": "ru",
+						"text": "cистемные: входы/выводы, статусы модулей"
+					}
+				]
+			},
+			{
+				"key": "dictionary.event1-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "event 1"
+					},
+					{
+						"lang": "ru",
+						"text": "событие 1"
+					}
+				]
+			},
+			{
+				"key": "dictionary.event2-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "event 2"
+					},
+					{
+						"lang": "ru",
+						"text": "событие 2"
+					}
+				]
+			},
+			{
+				"key": "dictionary.event3-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "event 3"
+					},
+					{
+						"lang": "ru",
+						"text": "событие 3"
+					}
+				]
+			},
+			{
+				"key": "dictionary.event4-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "event 4"
+					},
+					{
+						"lang": "ru",
+						"text": "событие 4"
+					}
+				]
+			},
+			{
+				"key": "dictionary.event5-32-1581595459",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "event 5"
+					},
+					{
+						"lang": "ru",
+						"text": "событие 5"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.dns_ip.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "invalid dns / ip"
+					},
+					{
+						"lang": "ru",
+						"text": "неверный dns/ip"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.string_regexp_1.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Only numbers latin letters are allowed., -"
+					},
+					{
+						"lang": "ru",
+						"text": "Допустимы только цифры латинские буквы символы .,-"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.string_regexp_key_1_4.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Wrong format"
+					},
+					{
+						"lang": "ru",
+						"text": "Неверный формат"
+					}
+				]
+			}
+		]
+	}
+}

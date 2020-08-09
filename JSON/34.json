@@ -1,0 +1,3586 @@
+{
+	"data": {
+		"id": "909f3962-e01a-4704-bcc8-d98205b3076c",
+		"uuid": "909f3962-e01a-4704-bcc8-d98205b3076c",
+		"createdAt": "2020-02-27T18:03:55+03:00",
+		"sectionList": [
+			{
+				"id": "serverSettings",
+				"name": "section.server_monitoring",
+				"subSectionList": [
+					{
+						"id": "serverSettings11",
+						"name": "subsection.server_and_port1",
+						"settingViewAliasList": [
+							"34_1_1",
+							"34_2_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "trackSettings",
+				"name": "section.route_building",
+				"subSectionList": [
+					{
+						"id": "trackSettings11",
+						"name": "subsection.drawing_a_trajectory",
+						"settingViewAliasList": [
+							"34_63_1",
+							"34_75_1",
+							"34_64_1",
+							"34_25_1"
+						]
+					},
+					{
+						"id": "trackSettings15",
+						"name": "subsection.motion_sensor",
+						"settingViewAliasList": [
+							"34_128_1",
+							"34_129_1",
+							"34_130_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "ioSettings",
+				"name": "section.discrete_inputs",
+				"subSectionList": [
+					{
+						"id": "ioSettings11",
+						"name": "",
+						"settingViewAliasList": [
+							"34_16_1",
+							"34_17_1",
+							"34_18_1",
+							"34_19_1",
+							"34_20_1",
+							"34_21_1",
+							"34_22_1",
+							"34_23_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "ioSettingsDigital",
+				"name": "section.digital_inputs",
+				"subSectionList": [
+					{
+						"id": "ioSettingsDigital11",
+						"name": "",
+						"settingViewAliasList": [
+							"34_13_1",
+							"34_14_1",
+							"34_15_1"
+						]
+					},
+					{
+						"id": "ioSettingsDigital12",
+						"name": "subsection.wifi_main_settings",
+						"settingViewAliasList": [
+							"34_106_1",
+							"34_107_1"
+						]
+					},
+					{
+						"id": "ioSettingsDigital13",
+						"name": "subsection.ethernet_settings",
+						"settingViewAliasList": [
+							"34_214_1",
+							"34_215_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "WIFI_points_set",
+				"name": "section.WIFI_points",
+				"subSectionList": [
+					{
+						"id": "WIFI_radius",
+						"name": "",
+						"settingViewAliasList": [
+							"34_131_1"
+						]
+					},
+					{
+						"id": "WIFI_point_1",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_216_1",
+							"34_217_1",
+							"34_218_1",
+							"34_219_1"
+						]
+					},
+					{
+						"id": "WIFI_point_2",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_220_1",
+							"34_221_1",
+							"34_222_1",
+							"34_223_1"
+						]
+					},
+					{
+						"id": "WIFI_point_3",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_224_1",
+							"34_225_1",
+							"34_226_1",
+							"34_227_1"
+						]
+					},
+					{
+						"id": "WIFI_point_4",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_228_1",
+							"34_229_1",
+							"34_230_1",
+							"34_231_1"
+						]
+					},
+					{
+						"id": "WIFI_point_5",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_232_1",
+							"34_233_1",
+							"34_234_1",
+							"34_235_1"
+						]
+					},
+					{
+						"id": "WIFI_point_6",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_236_1",
+							"34_237_1",
+							"34_238_1",
+							"34_239_1"
+						]
+					},
+					{
+						"id": "WIFI_point_7",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_240_1",
+							"34_241_1",
+							"34_242_1",
+							"34_243_1"
+						]
+					},
+					{
+						"id": "WIFI_point_8",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_244_1",
+							"34_245_1",
+							"34_246_1",
+							"34_247_1"
+						]
+					},
+					{
+						"id": "WIFI_point_9",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_248_1",
+							"34_249_1",
+							"34_250_1",
+							"34_251_1"
+						]
+					},
+					{
+						"id": "WIFI_point_10",
+						"name": "subsection.wifi_point",
+						"settingViewAliasList": [
+							"34_252_1",
+							"34_253_1",
+							"34_254_1",
+							"34_255_1"
+						]
+					}
+				]
+			},
+			{
+				"id": "simSettings",
+				"name": "section.sim_cards3",
+				"subSectionList": [
+					{
+						"id": "mode11",
+						"name": "subsection.device_password_sms_password",
+						"settingViewAliasList": [
+							"34_5_1"
+						]
+					},
+					{
+						"id": "simSettings12",
+						"name": "subsection.sim_card1",
+						"settingViewAliasList": [
+							"34_67_1",
+							"34_68_1",
+							"34_69_1"
+						]
+					},
+					{
+						"id": "simSettings13",
+						"name": "subsection.sim_card21",
+						"settingViewAliasList": [
+							"34_89_1",
+							"34_90_1",
+							"34_91_1"
+						]
+					},
+					{
+						"id": "phoneNumbers11",
+						"name": "subsection.phone1",
+						"settingViewAliasList": [
+							"34_52_1",
+							"34_57_1"
+						]
+					}
+				]
+			}
+		],
+		"settingViewList": [
+			{
+				"alias": "34_1_1",
+				"type": "string",
+				"defaultValue": "77.242.3.226",
+				"setting": {
+					"number": 1,
+					"type": "string",
+					"length": "30",
+					"defaultValue": "77.242.3.226"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.dns_ip"
+			},
+			{
+				"alias": "34_2_1",
+				"type": "int",
+				"defaultValue": "87",
+				"setting": {
+					"number": 2,
+					"type": "int",
+					"length": "2",
+					"defaultValue": "87"
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.port"
+			},
+			{
+				"alias": "34_5_1",
+				"type": "string",
+				"defaultValue": "123456",
+				"setting": {
+					"number": 5,
+					"type": "string",
+					"length": "6",
+					"defaultValue": "123456"
+				},
+				"textAfter": "",
+				"textBefore": ""
+			},
+			{
+				"alias": "34_13_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 13,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.RS485"
+			},
+			{
+				"alias": "34_14_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 14,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.RS232"
+			},
+			{
+				"alias": "34_15_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 15,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.1wire"
+			},
+			{
+				"alias": "34_16_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 16,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in0-34"
+			},
+			{
+				"alias": "34_17_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 17,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in1-34"
+			},
+			{
+				"alias": "34_18_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 18,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in2-34"
+			},
+			{
+				"alias": "34_19_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 19,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in3-34"
+			},
+			{
+				"alias": "34_20_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 20,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in4-34"
+			},
+			{
+				"alias": "34_21_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 21,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in5-34"
+			},
+			{
+				"alias": "34_22_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 22,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in6-34"
+			},
+			{
+				"alias": "34_23_1",
+				"type": "dictionary",
+				"defaultValue": null,
+				"setting": {
+					"number": 23,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.in7-34"
+			},
+			{
+				"alias": "34_25_1",
+				"type": "int",
+				"defaultValue": "150",
+				"setting": {
+					"number": 25,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.2b_0_65535",
+				"textBefore": "setting_view.parking_interval"
+			},
+			{
+				"alias": "34_52_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 52,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.international_format_number",
+				"widget": "tuple_52"
+			},
+			{
+				"alias": "34_57_1",
+				"type": "dictionary",
+				"defaultValue": "0",
+				"setting": {
+					"number": 57,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.mode",
+				"widget": "tuple_52"
+			},
+			{
+				"alias": "34_63_1",
+				"type": "int",
+				"defaultValue": "15",
+				"setting": {
+					"number": 63,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.1b_0_255",
+				"textBefore": "setting_view.when_changing_course_to"
+			},
+			{
+				"alias": "34_64_1",
+				"type": "int",
+				"defaultValue": "1000",
+				"setting": {
+					"number": 64,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.2b_0_65535",
+				"textBefore": "setting_view.not_less_than_every"
+			},
+			{
+				"alias": "34_67_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 67,
+					"type": "string",
+					"length": "30",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.apn"
+			},
+			{
+				"alias": "34_68_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 68,
+					"type": "string",
+					"length": "20",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.login_for_apn"
+			},
+			{
+				"alias": "34_69_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 69,
+					"type": "string",
+					"length": "20",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.password_for_apn"
+			},
+			{
+				"alias": "34_75_1",
+				"type": "int",
+				"defaultValue": "50",
+				"setting": {
+					"number": 75,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.1b_0_255",
+				"textBefore": "setting_view.when_changing_speed_to"
+			},
+			{
+				"alias": "34_89_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 89,
+					"type": "string",
+					"length": "30",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.apn"
+			},
+			{
+				"alias": "34_90_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 90,
+					"type": "string",
+					"length": "20",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.login_for_apn"
+			},
+			{
+				"alias": "34_91_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 91,
+					"type": "string",
+					"length": "20",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.password_for_apn"
+			},
+			{
+				"alias": "34_106_1",
+				"type": "string",
+				"defaultValue": "tsd_wifi",
+				"setting": {
+					"number": 106,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name_main"
+			},
+			{
+				"alias": "34_107_1",
+				"type": "string",
+				"defaultValue": "123456",
+				"setting": {
+					"number": 107,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass_main"
+			},
+			{
+				"alias": "34_128_1",
+				"type": "int",
+				"defaultValue": "5",
+				"setting": {
+					"number": 128,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.1b_0_255",
+				"textBefore": "setting_view.nsm_txt"
+			},
+			{
+				"alias": "34_129_1",
+				"type": "int",
+				"defaultValue": "250",
+				"setting": {
+					"number": 129,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.1b_0_255",
+				"textBefore": "setting_view.np_txt"
+			},
+			{
+				"alias": "34_130_1",
+				"type": "int",
+				"defaultValue": "4",
+				"setting": {
+					"number": 130,
+					"type": "int",
+					"length": "1",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.1b_0_255",
+				"textBefore": "setting_view.nns_txt"
+			},
+			{
+				"alias": "34_131_1",
+				"type": "int",
+				"defaultValue": "100",
+				"setting": {
+					"number": 131,
+					"type": "int",
+					"length": "2",
+					"defaultValue": null
+				},
+				"textAfter": "setting_view.units.2b_0_65535",
+				"textBefore": "setting_view.wifi_radius"
+			},
+			{
+				"alias": "34_214_1",
+				"type": "string",
+				"defaultValue": "",
+				"setting": {
+					"number": 214,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.ethernet_settings"
+			},
+			{
+				"alias": "34_215_1",
+				"type": "string",
+				"defaultValue": "",
+				"setting": {
+					"number": 215,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.ethernet_settings"
+			},
+			{
+				"alias": "34_216_1",
+				"type": "string",
+				"defaultValue": "55.636224",
+				"setting": {
+					"number": 216,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_216"
+			},
+			{
+				"alias": "34_217_1",
+				"type": "string",
+				"defaultValue": "37.209010",
+				"setting": {
+					"number": 217,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_216"
+			},
+			{
+				"alias": "34_218_1",
+				"type": "string",
+				"defaultValue": "DUOTEC",
+				"setting": {
+					"number": 218,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_216"
+			},
+			{
+				"alias": "34_219_1",
+				"type": "string",
+				"defaultValue": "duotec190788",
+				"setting": {
+					"number": 219,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_216"
+			},
+			{
+				"alias": "34_220_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 220,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_220"
+			},
+			{
+				"alias": "34_221_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 221,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_220"
+			},
+			{
+				"alias": "34_222_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 222,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_220"
+			},
+			{
+				"alias": "34_223_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 223,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_220"
+			},
+			{
+				"alias": "34_224_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 224,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_224"
+			},
+			{
+				"alias": "34_225_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 225,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_224"
+			},
+			{
+				"alias": "34_226_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 226,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_224"
+			},
+			{
+				"alias": "34_227_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 227,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_224"
+			},
+			{
+				"alias": "34_228_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 228,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_228"
+			},
+			{
+				"alias": "34_229_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 229,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_228"
+			},
+			{
+				"alias": "34_230_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 230,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_228"
+			},
+			{
+				"alias": "34_231_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 231,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_228"
+			},
+			{
+				"alias": "34_232_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 232,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_232"
+			},
+			{
+				"alias": "34_233_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 233,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_232"
+			},
+			{
+				"alias": "34_234_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 234,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_232"
+			},
+			{
+				"alias": "34_235_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 235,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_232"
+			},
+			{
+				"alias": "34_236_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 236,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_236"
+			},
+			{
+				"alias": "34_237_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 237,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_236"
+			},
+			{
+				"alias": "34_238_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 238,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_236"
+			},
+			{
+				"alias": "34_239_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 239,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_236"
+			},
+			{
+				"alias": "34_240_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 240,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_240"
+			},
+			{
+				"alias": "34_241_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 241,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_240"
+			},
+			{
+				"alias": "34_242_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 242,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_240"
+			},
+			{
+				"alias": "34_243_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 243,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_240"
+			},
+			{
+				"alias": "34_244_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 244,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_244"
+			},
+			{
+				"alias": "34_245_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 245,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_244"
+			},
+			{
+				"alias": "34_246_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 246,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_244"
+			},
+			{
+				"alias": "34_247_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 247,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_244"
+			},
+			{
+				"alias": "34_248_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 248,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_248"
+			},
+			{
+				"alias": "34_249_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 249,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_248"
+			},
+			{
+				"alias": "34_250_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 250,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_248"
+			},
+			{
+				"alias": "34_251_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 251,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_248"
+			},
+			{
+				"alias": "34_252_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 252,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lati",
+				"widget": "inline_252"
+			},
+			{
+				"alias": "34_253_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 253,
+					"type": "string",
+					"length": "10",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.lon",
+				"widget": "inline_252"
+			},
+			{
+				"alias": "34_254_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 254,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_name",
+				"widget": "inline_252"
+			},
+			{
+				"alias": "34_255_1",
+				"type": "string",
+				"defaultValue": null,
+				"setting": {
+					"number": 255,
+					"type": "string",
+					"length": "15",
+					"defaultValue": null
+				},
+				"textAfter": "",
+				"textBefore": "setting_view.wifi_pass",
+				"widget": "inline_252"
+			}
+		],
+		"settingDictionaryList": [
+			{
+				"settingId": 13,
+				"settingView": "34_13_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					}
+				]
+			},
+			{
+				"settingId": 14,
+				"settingView": "34_14_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					}
+				]
+			},
+			{
+				"settingId": 15,
+				"settingView": "34_15_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					}
+				]
+			},
+			{
+				"settingId": 16,
+				"settingView": "34_16_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					}
+				]
+			},
+			{
+				"settingId": 17,
+				"settingView": "34_17_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					}
+				]
+			},
+			{
+				"settingId": 18,
+				"settingView": "34_18_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					}
+				]
+			},
+			{
+				"settingId": 19,
+				"settingView": "34_19_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					}
+				]
+			},
+			{
+				"settingId": 20,
+				"settingView": "34_20_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					}
+				]
+			},
+			{
+				"settingId": 21,
+				"settingView": "34_21_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.input_discrete"
+					}
+				]
+			},
+			{
+				"settingId": 22,
+				"settingView": "34_22_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.exit_mode_1_on_off"
+					}
+				]
+			},
+			{
+				"settingId": 23,
+				"settingView": "34_23_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.not_use1"
+					},
+					{
+						"number": 1,
+						"name": "dictionary.exit_mode_1_on_off"
+					}
+				]
+			},
+			{
+				"settingId": 57,
+				"settingView": "34_57_1",
+				"items": [
+					{
+						"number": 0,
+						"name": "dictionary.nformational_sms"
+					},
+					{
+						"number": 4,
+						"name": "dictionary.eboot_device"
+					},
+					{
+						"number": 5,
+						"name": "dictionary.pdate_software"
+					},
+					{
+						"number": 6,
+						"name": "dictionary.update_settings"
+					}
+				]
+			}
+		],
+		"settingValidationRuleList": [
+			{
+				"setting_view_alias": "34_1_1",
+				"rules": [
+					{
+						"name": "dns_ip",
+						"type": "dns_ip",
+						"properties": {
+							"message": "setting_validation_rule.dns_ip.message"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_2_1",
+				"rules": [
+					{
+						"name": "number_1-65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_5_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_6",
+						"type": "maxlength",
+						"properties": {
+							"value": 6
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_13_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_14_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_15_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_16_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_17_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_18_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_19_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_20_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_21_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_22_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_23_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_25_1",
+				"rules": [
+					{
+						"name": "number_10_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 10
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_52_1",
+				"rules": [
+					{
+						"name": "string_regexp_num_3_13",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9+]{3,13}$",
+							"message": "setting_validation_rule.number.1_12"
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_57_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_63_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_64_1",
+				"rules": [
+					{
+						"name": "number_0_65535",
+						"type": "number",
+						"properties": {
+							"max": 65535,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_67_1",
+				"rules": [
+					{
+						"name": "maxlength_30",
+						"type": "maxlength",
+						"properties": {
+							"value": 30
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_68_1",
+				"rules": [
+					{
+						"name": "maxlength_20",
+						"type": "maxlength",
+						"properties": {
+							"value": 20
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_69_1",
+				"rules": [
+					{
+						"name": "maxlength_20",
+						"type": "maxlength",
+						"properties": {
+							"value": 20
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_75_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_89_1",
+				"rules": [
+					{
+						"name": "maxlength_30",
+						"type": "maxlength",
+						"properties": {
+							"value": 30
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_90_1",
+				"rules": [
+					{
+						"name": "maxlength_20",
+						"type": "maxlength",
+						"properties": {
+							"value": 20
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_91_1",
+				"rules": [
+					{
+						"name": "maxlength_20",
+						"type": "maxlength",
+						"properties": {
+							"value": 20
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_106_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_107_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_128_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_129_1",
+				"rules": [
+					{
+						"name": "number_0_255",
+						"type": "number",
+						"properties": {
+							"max": 255,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_130_1",
+				"rules": [
+					{
+						"name": "number_0_100",
+						"type": "number",
+						"properties": {
+							"max": 100,
+							"min": 0
+						}
+					}
+				]
+			},
+			{
+				"setting_view_alias": "34_131_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_214_1",
+				"rules": []
+			},
+			{
+				"setting_view_alias": "34_215_1",
+				"rules": []
+			},
+			
+			
+			
+			{
+				"setting_view_alias": "34_216_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_217_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_218_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_219_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			{
+				"setting_view_alias": "34_220_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_221_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_222_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_223_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			
+			{
+				"setting_view_alias": "34_224_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_225_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_226_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_227_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			
+			{
+				"setting_view_alias": "34_228_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_229_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_230_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_231_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			
+			{
+				"setting_view_alias": "34_232_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_233_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_234_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_235_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			
+			{
+				"setting_view_alias": "34_236_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_237_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_238_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_239_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			
+			{
+				"setting_view_alias": "34_240_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_241_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_242_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_243_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			
+			{
+				"setting_view_alias": "34_244_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_245_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_246_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_247_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			
+			{
+				"setting_view_alias": "34_248_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_249_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_250_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_251_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+			
+			{
+				"setting_view_alias": "34_252_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_253_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[0-9.-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_10",
+						"type": "maxlength",
+						"properties": {
+							"value": 10
+						}
+					}
+				]
+			},
+				{
+				"setting_view_alias": "34_254_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			},
+			
+					{
+				"setting_view_alias": "34_255_1",
+				"rules": [
+					{
+						"name": "string_regexp_1",
+						"type": "regexp",
+						"properties": {
+							"regexp": "^[a-zA-Z0-9.,-]*?$",
+							"message": "setting_validation_rule.string_regexp_1.message"
+						}
+					},
+					{
+						"name": "maxlength_15",
+						"type": "maxlength",
+						"properties": {
+							"value": 15
+						}
+					}
+				]
+			}
+			
+			
+			
+			
+		],
+		"widgetList": [
+			{
+				"name": "tuple_52",
+				"type": "tuple",
+				"subSectionId": "phoneNumbers11",
+				"settingList": {
+					"left": {
+						"alias": "34_52_1"
+					},
+					"right": {
+						"alias": "34_57_1"
+					}
+				}
+			},
+			{
+				"name": "inline_216",
+				"type": "inline",
+				"subSectionId": "WIFI_point_1",
+				"settingList": [
+					{
+						"alias": "34_216_1"
+					},
+					{
+						"alias": "34_217_1"
+					},
+					{
+						"alias": "34_218_1"
+					},
+					{
+						"alias": "34_219_1"
+					}
+				]
+			},
+			{
+				"name": "inline_220",
+				"type": "inline",
+				"subSectionId": "WIFI_point_2",
+				"settingList": [
+					{
+						"alias": "34_220_1"
+					},
+					{
+						"alias": "34_221_1"
+					},
+					{
+						"alias": "34_222_1"
+					},
+					{
+						"alias": "34_223_1"
+					}
+				]
+			},
+			{
+				"name": "inline_224",
+				"type": "inline",
+				"subSectionId": "WIFI_point_3",
+				"settingList": [
+					{
+						"alias": "34_224_1"
+					},
+					{
+						"alias": "34_225_1"
+					},
+					{
+						"alias": "34_226_1"
+					},
+					{
+						"alias": "34_227_1"
+					}
+				]
+			},
+			{
+				"name": "inline_228",
+				"type": "inline",
+				"subSectionId": "WIFI_point_4",
+				"settingList": [
+					{
+						"alias": "34_228_1"
+					},
+					{
+						"alias": "34_229_1"
+					},
+					{
+						"alias": "34_230_1"
+					},
+					{
+						"alias": "34_231_1"
+					}
+				]
+			},
+			{
+				"name": "inline_232",
+				"type": "inline",
+				"subSectionId": "WIFI_point_5",
+				"settingList": [
+					{
+						"alias": "34_232_1"
+					},
+					{
+						"alias": "34_233_1"
+					},
+					{
+						"alias": "34_234_1"
+					},
+					{
+						"alias": "34_235_1"
+					}
+				]
+			},
+			{
+				"name": "inline_236",
+				"type": "inline",
+				"subSectionId": "WIFI_point_6",
+				"settingList": [
+					{
+						"alias": "34_236_1"
+					},
+					{
+						"alias": "34_237_1"
+					},
+					{
+						"alias": "34_238_1"
+					},
+					{
+						"alias": "34_239_1"
+					}
+				]
+			},
+			{
+				"name": "inline_240",
+				"type": "inline",
+				"subSectionId": "WIFI_point_7",
+				"settingList": [
+					{
+						"alias": "34_240_1"
+					},
+					{
+						"alias": "34_241_1"
+					},
+					{
+						"alias": "34_242_1"
+					},
+					{
+						"alias": "34_243_1"
+					}
+				]
+			},
+			{
+				"name": "inline_244",
+				"type": "inline",
+				"subSectionId": "WIFI_point_8",
+				"settingList": [
+					{
+						"alias": "34_244_1"
+					},
+					{
+						"alias": "34_245_1"
+					},
+					{
+						"alias": "34_246_1"
+					},
+					{
+						"alias": "34_247_1"
+					}
+				]
+			},
+			{
+				"name": "inline_248",
+				"type": "inline",
+				"subSectionId": "WIFI_point_9",
+				"settingList": [
+					{
+						"alias": "34_248_1"
+					},
+					{
+						"alias": "34_249_1"
+					},
+					{
+						"alias": "34_250_1"
+					},
+					{
+						"alias": "34_251_1"
+					}
+				]
+			},
+			{
+				"name": "inline_252",
+				"type": "inline",
+				"subSectionId": "WIFI_point_9",
+				"settingList": [
+					{
+						"alias": "34_252_1"
+					},
+					{
+						"alias": "34_253_1"
+					},
+					{
+						"alias": "34_254_1"
+					},
+					{
+						"alias": "34_255_1"
+					}
+				]
+			}
+		],
+		"translations": [
+			{
+				"key": "section.server_monitoring",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Monitoring server"
+					},
+					{
+						"lang": "ru",
+						"text": "Сервер мониторинга"
+					}
+				]
+			},
+			{
+				"key": "subsection.server_and_port1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Server address and por 1"
+					},
+					{
+						"lang": "ru",
+						"text": "Адрес и порт сервера 1"
+					}
+				]
+			},
+			{
+				"key": "section.route_building",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Route building"
+					},
+					{
+						"lang": "ru",
+						"text": "Построение маршрута"
+					}
+				]
+			},
+			{
+				"key": "subsection.drawing_a_trajectory",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Drawing a trajectory"
+					},
+					{
+						"lang": "ru",
+						"text": "Отрисовка траектории"
+					}
+				]
+			},
+			{
+				"key": "subsection.motion_sensor",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Motion Sensor"
+					},
+					{
+						"lang": "ru",
+						"text": "Датчик движения"
+					}
+				]
+			},
+			{
+				"key": "section.discrete_inputs",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Discrete inputs&outputs"
+					},
+					{
+						"lang": "ru",
+						"text": "Дискретные входы и выходы"
+					}
+				]
+			},
+			{
+				"key": "",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": ""
+					},
+					{
+						"lang": "ru",
+						"text": ""
+					}
+				]
+			},
+			{
+				"key": "section.digital_inputs",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Digital interfaces"
+					},
+					{
+						"lang": "ru",
+						"text": "Цифровые интерфейсы"
+					}
+				]
+			},
+			{
+				"key": "subsection.wifi_main_settings",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "WIFI parameters"
+					},
+					{
+						"lang": "ru",
+						"text": "Настройки WIFI"
+					}
+				]
+			},
+			{
+				"key": "subsection.ethernet_settings",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Ethernet parameters"
+					},
+					{
+						"lang": "ru",
+						"text": "Настройки Ethernet"
+					}
+				]
+			},
+			{
+				"key": "section.WIFI_points",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "WIFI points"
+					},
+					{
+						"lang": "ru",
+						"text": "WIFI точки"
+					}
+				]
+			},
+			{
+				"key": "subsection.wifi_point",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Parameters WIFI point"
+					},
+					{
+						"lang": "ru",
+						"text": "Параметры WIFI точки"
+					}
+				]
+			},
+			{
+				"key": "section.sim_cards3",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "SIM card"
+					},
+					{
+						"lang": "ru",
+						"text": "SIM карты"
+					}
+				]
+			},
+			{
+				"key": "subsection.device_password_sms_password",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Device Password (SMS Password)"
+					},
+					{
+						"lang": "ru",
+						"text": "Пароль устройства (SMS пароль)"
+					}
+				]
+			},
+			{
+				"key": "subsection.sim_card1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "#1 SIM card"
+					},
+					{
+						"lang": "ru",
+						"text": "#1 SIM карта"
+					}
+				]
+			},
+			{
+				"key": "subsection.sim_card21",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "#2 SIM card"
+					},
+					{
+						"lang": "ru",
+						"text": "#2 SIM карта"
+					}
+				]
+			},
+			{
+				"key": "subsection.phone1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Phone №1"
+					},
+					{
+						"lang": "ru",
+						"text": "Телефон №1"
+					}
+				]
+			},
+			{
+				"key": "setting_view.dns_ip",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "DNS / IP"
+					},
+					{
+						"lang": "ru",
+						"text": "DNS/IP"
+					}
+				]
+			},
+			{
+				"key": "setting_view.port",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Port"
+					},
+					{
+						"lang": "ru",
+						"text": "Порт"
+					}
+				]
+			},
+			{
+				"key": "setting_view.RS232",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "RS232"
+					},
+					{
+						"lang": "ru",
+						"text": "RS232"
+					}
+				]
+			},
+			{
+				"key": "setting_view.RS485",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "RS485"
+					},
+					{
+						"lang": "ru",
+						"text": "RS485"
+					}
+				]
+			},
+			{
+				"key": "setting_view.1wire",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "1-WIRE"
+					},
+					{
+						"lang": "ru",
+						"text": "1-WIRE"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in0-34",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "A0[+]"
+					},
+					{
+						"lang": "ru",
+						"text": "A0[+]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in1-34",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "A1[+]"
+					},
+					{
+						"lang": "ru",
+						"text": "A1[+]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in2-34",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "D1[-]"
+					},
+					{
+						"lang": "ru",
+						"text": "D1[-]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in3-34",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "D2[-]"
+					},
+					{
+						"lang": "ru",
+						"text": "D2[-]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in4-34",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "D3[-]"
+					},
+					{
+						"lang": "ru",
+						"text": "D3[-]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in5-34",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "D4[-]"
+					},
+					{
+						"lang": "ru",
+						"text": "D4[-]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in6-34",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "O1[-]"
+					},
+					{
+						"lang": "ru",
+						"text": "O1[-]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.in7-34",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "O2[-]"
+					},
+					{
+						"lang": "ru",
+						"text": "O2[-]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.2b_0_65535",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.parking_interval",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Parking interval, seconds"
+					},
+					{
+						"lang": "ru",
+						"text": "Интервал при стоянке, секунд"
+					}
+				]
+			},
+			{
+				"key": "setting_view.international_format_number",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "International format number"
+					},
+					{
+						"lang": "ru",
+						"text": "номер в международном формате"
+					}
+				]
+			},
+			{
+				"key": "setting_view.mode",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Mode"
+					},
+					{
+						"lang": "ru",
+						"text": "Режим"
+					}
+				]
+			},
+
+			{
+				"key": "setting_view.when_changing_course_to",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "When changing course to, degrees"
+					},
+					{
+						"lang": "ru",
+						"text": "При изменении курса на, градусов"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.meters_1_65535",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-65535]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-65535]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.not_less_than_every",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Not less than every, meters"
+					},
+					{
+						"lang": "ru",
+						"text": "Не реже, чем каждые, метров"
+					}
+				]
+			},
+			{
+				"key": "setting_view.apn",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "APN operator"
+					},
+					{
+						"lang": "ru",
+						"text": "APN оператора"
+					}
+				]
+			},
+			{
+				"key": "setting_view.login_for_apn",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Login for APN"
+					},
+					{
+						"lang": "ru",
+						"text": "Логин для APN"
+					}
+				]
+			},
+			{
+				"key": "setting_view.password_for_apn",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Password for APN"
+					},
+					{
+						"lang": "ru",
+						"text": "Пароль для APN"
+					}
+				]
+			},
+	
+			{
+				"key": "setting_view.when_changing_speed_to",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "When changing speed to, km/h"
+					},
+					{
+						"lang": "ru",
+						"text": "При изменении скорости на, км/ч"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wifi_name_main",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "name network"
+					},
+					{
+						"lang": "ru",
+						"text": "имя сети"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wifi_pass_main",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "password"
+					},
+					{
+						"lang": "ru",
+						"text": "пароль"
+					}
+				]
+			},
+			{
+				"key": "setting_view.nsm_txt",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Time to fix start move, seconds"
+					},
+					{
+						"lang": "ru",
+						"text": "Интервал для фиксация начала движения, секунд"
+					}
+				]
+			},
+			{
+				"key": "setting_view.np_txt",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Time to fix stop, seconds"
+					},
+					{
+						"lang": "ru",
+						"text": "Интервал для фиксация окончания движения, секунд"
+					}
+				]
+			},
+			{
+				"key": "setting_view.nns_txt",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Minimal speed, km/h"
+					},
+					{
+						"lang": "ru",
+						"text": "Порог минимальной скорости, км/ч"
+					}
+				]
+			},
+			{
+				"key": "setting_view.units.1b_0_255",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "[0-255]"
+					},
+					{
+						"lang": "ru",
+						"text": "[0-255]"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wifi_radius",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "WIFI radius, meters"
+					},
+					{
+						"lang": "ru",
+						"text": "WIFI радиус, метров"
+					}
+				]
+			},
+			{
+				"key": "setting_view.ethernet_settings",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "string"
+					},
+					{
+						"lang": "ru",
+						"text": "строка"
+					}
+				]
+			},
+			{
+				"key": "setting_view.lati",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "latitude"
+					},
+					{
+						"lang": "ru",
+						"text": "широта"
+					}
+				]
+			},
+			{
+				"key": "setting_view.lon",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "longitude"
+					},
+					{
+						"lang": "ru",
+						"text": "долгота"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wifi_name",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "name network"
+					},
+					{
+						"lang": "ru",
+						"text": "имя сети"
+					}
+				]
+			},
+			{
+				"key": "setting_view.wifi_pass",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "password"
+					},
+					{
+						"lang": "ru",
+						"text": "пароль"
+					}
+				]
+			},
+			{
+				"key": "dictionary.not_use1",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "not use"
+					},
+					{
+						"lang": "ru",
+						"text": "не используется"
+					}
+				]
+			},
+			{
+				"key": "dictionary.input_discrete",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "input - discrete"
+					},
+					{
+						"lang": "ru",
+						"text": "вход - дискретный"
+					}
+				]
+			},
+			{
+				"key": "dictionary.exit_mode_1_on_off",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "exit - mode 1 (on / off)"
+					},
+					{
+						"lang": "ru",
+						"text": "выход - режим 1 (вкл/выкл)"
+					}
+				]
+			},
+			{
+				"key": "dictionary.nformational_sms",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "informational SMS"
+					},
+					{
+						"lang": "ru",
+						"text": "информационное SMS"
+					}
+				]
+			},
+			{
+				"key": "dictionary.eboot_device",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "reboot device"
+					},
+					{
+						"lang": "ru",
+						"text": "перезагрузка устройства"
+					}
+				]
+			},
+			{
+				"key": "dictionary.pdate_software",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Update Software"
+					},
+					{
+						"lang": "ru",
+						"text": "Обновить ПО"
+					}
+				]
+			},
+			{
+				"key": "dictionary.update_settings",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "update settings"
+					},
+					{
+						"lang": "ru",
+						"text": "обновить настройки"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.dns_ip.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "invalid dns / ip"
+					},
+					{
+						"lang": "ru",
+						"text": "неверный dns/ip"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.string_regexp_1.message",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Only numbers latin letters are allowed., -"
+					},
+					{
+						"lang": "ru",
+						"text": "Допустимы только цифры латинские буквы символы .,-"
+					}
+				]
+			},
+			{
+				"key": "setting_validation_rule.number.1_12",
+				"translationList": [
+					{
+						"lang": "en",
+						"text": "Please enter 3-12 digits"
+					},
+					{
+						"lang": "ru",
+						"text": "Пожалуйста, введите 3-12 цифр"
+					}
+				]
+			}
+		]
+	}
+}
