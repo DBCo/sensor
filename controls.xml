@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<panel name="PanelS1">
+	<column>
+		<section ident="_DeviceParameters" ico="I_PARAMS">
+            <item ident="_DeviceID"/>
+            <item ident="_DeviceIMEI"/>
+            <item ident="_SoftVersion"/>
+            <item ident="_SoftStatus"/>
+            <item ident="_SettingsStatus"/>
+            <item ident="_InternalTtime"/>
+            <item ident="_Uptime"/>
+            <item ident="_BatteryVoltage" units="Units_V"/>
+            <item ident="_ExternalVoltage" units="Units_V"/>
+            <item ident="_RealTimeClock" hide="1"/>
+        </section>
+
+		<section ident="_Storage" ico="I_MEMORY">
+            <item ident="_Server0"/>
+            <item ident="_Server1"/>
+            <item ident="_Server2"/>
+            <item ident="_Server3" hide="1"/>
+            <line/>
+            <item ident="_InternalMemory" hide="1"/>
+            <item ident="_ExternalMemory" hide="1"/>
+            <item ident="_StrorageWrite"/>
+            <item ident="_StrorageSendServer1"/>
+            <item ident="_StrorageSendServer2"/>
+        </section>
+
+	</column>
+	</panel>
+
+	<panel name="PanelS2">
+	<column>
+		<section ident="_NavigationModule" ico="I_GEO">
+            <item ident="_NavigationStatus"/>
+            <item ident="_Latitude"/>
+            <item ident="_Longitude"/>
+            <item ident="_Altitude" units="Units_M"/>
+            <item ident="_Speed" units="Units_KMH"/>
+            <item ident="_Azimuth" units="°"/>
+            <item ident="_Satellites"/>
+            <item ident="_HDOP"/>
+            <separator/>
+            <button ru="Показать на карте|Показать на карте" ident="N900"/>
+        </section>
+
+		<section ident="_GSMModem" ico="I_MODEM">
+            <item ident="_ModemStatus"/>
+            <item ident="_ModemNetworkState" hide="1"/>
+            <item ident="_ModemOperator"/>
+            <item ident="_ModemSignal" hide="1"/>
+            <separator/>
+
+            <item ident="_ModemSIM"/>
+            <item ident="_ModemPIN" hide="1"/>
+            <item ident="_ModemInOutSMS" hide="1"/>
+            <item ident="_ModemErrorSMS" hide="1"/>
+
+            <separator/>
+            <item ident="_ModemSIM2"/>
+            <item ident="_ModemPIN2" hide="1"/>
+            <item ident="_ModemInOutSMS2" hide="1"/>
+            <item ident="_ModemErrorSMS2" hide="1"/>
+
+            <separator/>
+            <item ident="_Bluetooth" hide="1"/>
+
+        </section>
+	</column>
+	</panel>
+
+	<panel name="PanelS3">
+	<column>
+		<section ident="_InputOutput" ico="I_PINS">
+            <item ident="0 _InOut"/>
+            <item ident="1 _InOut"/>
+            <item ident="2 _InOut"/>
+            <item ident="3 _InOut" hide="1"/>
+            <item ident="4 _InOut" hide="1"/>
+            <item ident="5 _InOut" hide="1"/>
+            <item ident="6 _InOut" hide="1"/>
+            <item ident="7 _InOut" hide="1"/>
+            <item ident="8 _InOut" hide="1"/>
+            <item ident="9 _InOut" hide="1"/>
+            <item ident="10 _InOut" hide="1"/>
+            <item ident="11 _InOut" hide="1"/>
+            <item ident="12 _InOut" hide="1"/>
+            <item ident="13 _InOut" hide="1"/>
+            <item ident="14 _InOut" hide="1"/>
+            <item ident="15 _InOut" hide="1"/>
+        </section>
+
+		<section ident="_Accelerometer" ico="I_AXELMETER">
+            <item ident="_AccelerometerStatus" hide="1"/>
+            <item ident="_ModuleReadings"/>
+            <item ident="_RestTime" hide="1"/>
+        </section>
+	</column>
+	</panel>
+
+	<panel name="PanelS4">
+	<column>
+            <section ident="_WIFI" hide="1">
+        		<item ident="_ModuleWiFi" hide="1"/>
+            </section>
+            <section ident="_CanSensors" ico="I_CAN" hide="1">
+                <item ident="_CanEngineTime" units="Units_H" hide="1"/>
+                <item ident="_CanMileage" units="Units_KM" hide="1"/>
+                <item ident="_CanFuelConsumption" hide="1"/>
+                <item ident="_CanFuelInstant" units="Units_L100KM" hide="1"/>
+                <item ident="_CanFuelPercent" units="%" hide="1"/>
+                <item ident="_CanFuelReserve" units="Units_L" hide="1"/>
+                <item ident="_CanEngineRPM" hide="1"/>
+                <item ident="_CanEngineTemperature" units="°C" hide="1"/>
+                <item ident="_CanSpeed" units="Units_KMH" hide="1"/>
+                <item ident="_CanAxle1" units="Units_KG" hide="1"/>
+                <item ident="_CanAxle2" units="Units_KG" hide="1"/>
+                <item ident="_CanAxle3" units="Units_KG" hide="1"/>
+                <item ident="_CanAxle4" units="Units_KG" hide="1"/>
+                <item ident="_CanAxle5" units="Units_KG" hide="1"/>
+                <item ident="_CanAdBlue" hide="1"/>
+                <item ident="_CanCrash" hide="1"/>
+                <item ident="_CanSecurity" hide="1"/>
+                <item ident="_CanProgram" hide="1"/>
+            </section>
+            <section ident="_SensorDUT" ico="I_CHIP" hide="1"/>
+            <section ident="_SensorOWT" ico="I_CHIP" hide="1"/>
+            <section ident="_SensorOWK" ico="I_CHIP" hide="1"/>
+
+            <section ident="_OtherSensors" hide="1">
+        		<item ident="_PointWIFI" hide="1"/>
+        		<item ident="_StatusExtMemory" hide="1"/>
+        		<item ident="_StatusCardSD" hide="1"/>
+            </section>
+	</column>
+	</panel>
+
+</root>
